@@ -10,5 +10,5 @@ menu:
 
 # Hi!
 
-[Click here]({{< relref "benefits.md" >}}) to read about our benefits and features.
+[Click here]({{< relref "benefits.md" >}}) to read about our **benefits and features.**
 
