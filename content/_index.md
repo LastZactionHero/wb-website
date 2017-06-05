@@ -12,3 +12,5 @@ menu:
 
 [Click here]({{< relref "benefits.md" >}}) to read about our **benefits and features.**
 
+Why _WorkBright_ is the best solution! 
+
