@@ -1,0 +1,12 @@
+---
+title: WorkBright
+baseURL: "http://workbright.com/"
+languageCode: "en-us"
+
+theme:          "wb-site-theme"
+contentDir:     "content"
+layoutDir:      "layouts"
+metaDataFormat: "yaml"
+
+params:
+  description: Simplify the HR process with onboarding software solutions by WorkBright. Give employees a better new hire orientation with paperless onboarding.

@@ -1,0 +1,19 @@
+{{ $currentPage := .page }}
+
+<div class="container">
+  <nav class="navbar navbar-light navbar-toggleable-md fixed-top">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#">WorkBright</a>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+    <ul class="navbar-nav mr-auto">
+      {{ range .menu }}
+      <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{end}}">
+        <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+      </li>
+      {{ end }}
+    </ul>
+  </nav>
+</div>

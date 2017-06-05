@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on WorkBright Guide</title>
+    <link>http://example.org/</link>
+    <description>Recent content in Home on WorkBright Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Benefits &amp; Features</title>
+      <link>http://example.org/benefits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/benefits/</guid>
+      <description>Benefits HR is all about people, not pushing paper. Do you routinely hire hundreds of people in just a matter of weeks and deal with a mountain of paperwork during onboarding? Do you spend seemingly never ending days chasing paperwork – making sure employee forms are complete, entering data into your system, and then filing them in a safe place?
+You’re not alone. Each year, US employers spend an astonishing $5.</description>
+    </item>
+    
+  </channel>
+</rss>

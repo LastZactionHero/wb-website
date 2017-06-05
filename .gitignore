@@ -1,0 +1,7 @@
+.idea/workspace.xml
+.idea/misc.xml
+public/
+node_modules/
+
+.DS_Store
+*.log

@@ -1,0 +1,13 @@
+{{ partial "header.html" . }}
+
+<body class="">
+  {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
+
+  <section id="main" class="container container-fluid">
+    {{ .Content }}
+  </section>
+
+  {{ partial "body-javascript.html" . }}
+</body>
+
+{{ partial "footer.html" . }}
