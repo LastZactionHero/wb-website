@@ -20,9 +20,21 @@ module.exports = {
     ]
   },
 
+  resolve: {
+    modules: [__dirname, "js", "node_modules"],
+    extensions: ["*", ".js"]
+  },
+
   plugins: [
     new webpack.ProvidePlugin({
       "fetch": "imports-loader?this=>global!exports?global.fetch!whatwg-fetch"
+    }),
+    new webpack.ProvidePlugin({
+      $: "jquery",
+      jQuery: "jquery"
+    }),
+    new webpack.ProvidePlugin({
+      Tether: "tether",
     })
   ],
 
