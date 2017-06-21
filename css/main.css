@@ -1,4 +1,5 @@
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+@import "components/testimonial_carousel";
 
 body {
   padding-top: 4rem;
@@ -36,13 +37,3 @@ p, li {
   }
 }
 
-.quote {
-  padding-top: 1.5rem;
-
-  & > img {
-    float: left;
-    width: 3.25rem;
-    height: 3.25rem;
-    margin-right: 1.5rem;
-  }
-}

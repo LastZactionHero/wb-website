@@ -10,17 +10,21 @@ testimonial_carousel:
       cards:
         0:
           testimonial: "Slide 1, Card 1"
+          image: 'placeholder.jpg'
           href: '/'
         1:
           testimonial: "Slide 1, Card 2"
+          image: 'placeholder.jpg'
           href: '/'
     1:
       cards:
         0:
           testimonial: "Slide 2, Card 1"
+          image: 'placeholder.jpg'
           href: '/'
         1:
           testimonial: "Slide 2, Card 2"
+          image: 'placeholder.jpg'
           href: '/'
 ---
 

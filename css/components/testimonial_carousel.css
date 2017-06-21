@@ -1,0 +1,18 @@
+.testimonial-carousel {
+  & .carousel-control-icon {
+    background-color: black;
+    padding: 0.75rem;
+    border-radius: 0.75rem;
+    background-size: 50% auto;
+  }
+
+  & .card-block {
+    padding-left: 120px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-position: 0px 0px;
+    background-size: 120px;
+  }
+}
+
