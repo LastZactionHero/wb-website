@@ -28,6 +28,8 @@ testimonial_carousel:
           href: '/'
 ---
 
-# Paperwork  sucks. Work faster
+{{% index_banner %}}
+
+{{< youtube v6KsiexGrg0 >}}
 
 {{% testimonial_carousel %}}

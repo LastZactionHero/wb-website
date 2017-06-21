@@ -1,12 +1,25 @@
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+@import "colors";
 @import "components/testimonial_carousel";
+
+@font-face {
+    font-family: "ChaparralPro";
+    src: url('/fonts/ChaparralPro-Regular.otf') format("truetype");
+}
 
 body {
   padding-top: 4rem;
+  background-color: var(--color-dark-blue);
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+  font-family: "ChaparralPro";
+  font-weight: normal;
 }
 
 h1 {
-  color: #ff8704;
+  color: var(--color-white);
   font-size: 2.25rem;
 }
 
@@ -23,7 +36,7 @@ p, li {
 }
 
 .navbar-light {
-  background-color: #00717A;
+  background-color: transparent;
   color: #fff;
 
   & .navbar-brand {
@@ -37,3 +50,32 @@ p, li {
   }
 }
 
+/*
+  TODO: I have no idea what I'm doing...
+  https://stripe.com/blog/connect-front-end-experience
+*/
+.stripe-background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  display: grid;
+  grid: repeat(3, 600px) / repeat(10, 1fr);
+  transform: skewY(-12deg);
+  transform-origin: 0;
+}
+
+.stripe-background :nth-child(1) {
+  grid-column: span 10;
+  background: linear-gradient(90deg, var(--color-light-orange), var(--color-medium-orange));
+}
+
+.stripe-background :nth-child(2) {
+  grid-column: span 10;
+  background: linear-gradient(90deg, var(--color-teal), var(--color-dark-blue));
+}
+
+.stripe-background :nth-child(3) {
+  grid-column: span 10;
+  background: linear-gradient(90deg, var(--color-dark-blue), var(--color-teal));
+}

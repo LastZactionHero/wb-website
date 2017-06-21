@@ -8,6 +8,7 @@
     <title>{{ replace .Title "-" " " | title }} {{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
   </head>
