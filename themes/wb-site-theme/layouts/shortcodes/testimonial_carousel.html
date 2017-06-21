@@ -1,0 +1,28 @@
+<div id="testimonialCarousel" class="carousel slide testimonial-carousel" data-ride="carousel">
+  <div class="carousel-inner" role="listbox">
+
+    {{ range .Page.Params.testimonial_carousel.slides }}
+      <div class="carousel-item {{ if .start }}active{{end}}">
+        <div class='row' style='width: 90%; margin-left: 5%;'>
+          {{ range .cards }}
+            <div class='col-md-6'>
+              <div class="card">
+                <div class="card-block">
+                  <p class="card-text">{{ .testimonial }}</p>
+                  <a href="{{ .href }}" class="card-link">Read More</a>
+                </div>
+              </div>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+
+  </div>
+  <a class="carousel-control-prev" href="#testimonialCarousel" role="button" data-slide="prev" style='left: -5%'>
+    &lt;
+  </a>
+  <a class="carousel-control-next" href="#testimonialCarousel" role="button" data-slide="next" style='right: -5%;'>
+    &gt;
+  </a>
+</div>

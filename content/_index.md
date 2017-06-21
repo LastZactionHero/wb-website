@@ -1,17 +1,29 @@
 ---
 title: Home
 menu:
-  main:
-    name: Home
-    weight: -100
   footer:
     name: Home
+testimonial_carousel:
+  slides:
+    0:
+      start: true
+      cards:
+        0:
+          testimonial: "Slide 1, Card 1"
+          href: '/'
+        1:
+          testimonial: "Slide 1, Card 2"
+          href: '/'
+    1:
+      cards:
+        0:
+          testimonial: "Slide 2, Card 1"
+          href: '/'
+        1:
+          testimonial: "Slide 2, Card 2"
+          href: '/'
 ---
 
-# Hi!
+# Paperwork  sucks. Work faster
 
-[Click here]({{< relref "benefits.md" >}}) to read about our **benefits and features.**
-
-Why _WorkBright_ is the best solution! 
-Commited from Atom.
-
+{{% testimonial_carousel %}}
