@@ -1,8 +1,6 @@
 ---
 title: Home
 menu:
-  footer:
-    name: Home
 testimonial_carousel:
   slides:
     0:

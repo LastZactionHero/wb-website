@@ -1,5 +1,20 @@
-<footer class="navbar sticky-top navbar-light bg-faded">
-   <div class="container">
-     xxx
-   </div>
+<footer class='footer'>
+  <div class='container'>
+    <div class='footer-container'>
+      {{ range .Site.Menus.footer }}
+        <div class='footer-col'>
+          <div class='title'>{{ .Name }}</div>
+          {{ if .HasChildren }}
+            <ul>
+              {{ range .Children }}
+                <li>
+                  <a href='{{ .URL }}'>{{ .Name }}</a>
+                </li>
+              {{ end }}
+            </ul>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
 </footer>

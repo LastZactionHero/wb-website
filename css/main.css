@@ -3,13 +3,52 @@
 @import "fonts";
 @import "bootstrap_overrides";
 
-
 @import "components/testimonial_carousel";
 
 body {
-  padding-top: 4rem;
-  background-color: var(--color-dark-blue);
+  background-color: var(--color-teal);
   font-family: 'Roboto', sans-serif;
+
+  display: flex;
+  min-height: 100vh;          /* Make sure atleast a full display so footer sticks to bottom */
+  flex-direction: column;
+}
+
+.site-content {
+  flex: 1;                    /* Site content takes entire view, does not include footer */
+  position: relative;         /* Used to aboslutely position stripe inside to take exactly the full view height */
+}
+
+.footer {
+  width: 100%;
+  padding: 48px;
+  color: var(--color-white);
+  background-color: var(--color-dark-blue);
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: row;
+
+  & .footer-col {
+    flex: 1;
+
+    & .title {
+      font-size: 1rem;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+    }
+
+    & ul {
+      padding: 0px;
+
+      & li {
+        list-style-type: none;
+        font-size: 0.8rem;
+      }
+    }
+  }
+
 }
 
 h1, h2 {
@@ -57,17 +96,19 @@ a {
   }
 }
 
-.footer {
-  width:100%;
-  padding: 48px;
-  color: var(--color-white);
-  background-color: var(--color-dark-blue);
-}
 
 /*
   TODO: I have no idea what I'm doing...
   https://stripe.com/blog/connect-front-end-experience
 */
+.stripe-background-container {
+  position: absolute;
+  top: 0px;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
 .stripe-background {
   position: absolute;
   top: 0px;
@@ -86,10 +127,10 @@ a {
 
 .stripe-background :nth-child(2) {
   grid-column: span 10;
-  background: linear-gradient(90deg, var(--color-teal), var(--color-dark-blue));
+  background: linear-gradient(90deg, var(--color-teal-light), var(--color-teal));
 }
 
 .stripe-background :nth-child(3) {
   grid-column: span 10;
-  background: linear-gradient(90deg, var(--color-dark-blue), var(--color-teal));
+  background: linear-gradient(90deg, var(--color-teal), var(--color-teal-light));
 }

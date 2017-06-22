@@ -1,8 +1,5 @@
 ---
 title: Benefits & Features
-menu:
-  footer:
-    name: Benefits and Features
 ---
 
 # Benefits
