@@ -1,13 +1,17 @@
-{{ partial "header.html" . }}
+<!DOCTYPE html>
+<html lang="en">
 
-<body class="">
-  {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
+  {{ partial "header.html" . }}
 
-  <section id="main" class="container container-fluid">
-    {{ .Content }}
-  </section>
+  <body class="">
+    {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
 
-  {{ partial "body-javascript.html" . }}
-</body>
+    <section id="main" class="container container-fluid">
+      {{ .Content }}
+    </section>
 
-{{ partial "footer.html" . }}
+    {{ partial "body-javascript.html" . }}
+  </body>
+
+  {{ partial "footer.html" . }}
+</html>
