@@ -1,4 +1,5 @@
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+@import "viewports";
 @import "colors";
 @import "fonts";
 @import "bootstrap_overrides";
@@ -30,6 +31,10 @@ body {
   display: flex;
   flex-direction: row;
 
+  @media (--viewport-sm) {
+    flex-direction: column;
+  }
+
   & .footer-col {
     flex: 1;
 
@@ -48,7 +53,6 @@ body {
       }
     }
   }
-
 }
 
 h1, h2 {
