@@ -1,17 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
-
   {{ partial "header.html" . }}
 
-  <body class="">
-    {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
+  <body>
+    <div class='site-content'>
+      <div class='stripe-background-container'>
+        <div class='stripe-background'>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
 
-    <section id="main" class="container container-fluid">
-      {{ .Content }}
-    </section>
+      {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
+      <section id="main" class="container container-fluid">
+        {{ .Content }}
+      </section>
+    </div>
 
+    {{ partial "footer.html" . }}
     {{ partial "body-javascript.html" . }}
   </body>
-
-  {{ partial "footer.html" . }}
 </html>

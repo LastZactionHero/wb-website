@@ -18,6 +18,7 @@ body {
 .site-content {
   flex: 1;                    /* Site content takes entire view, does not include footer */
   position: relative;         /* Used to aboslutely position stripe inside to take exactly the full view height */
+  padding-bottom: 120px;
 }
 
 .footer {
@@ -119,7 +120,7 @@ a {
   left: 0px;
   right: 0px;
   display: grid;
-  grid: repeat(3, 600px) / repeat(10, 1fr);
+  grid: repeat(3, 700px) / repeat(10, 1fr);
   transform: skewY(-12deg);
   transform-origin: 0;
 }
