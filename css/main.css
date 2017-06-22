@@ -1,11 +1,10 @@
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
 @import "colors";
-@import "components/testimonial_carousel";
+@import "fonts";
+@import "bootstrap_overrides";
 
-@font-face {
-    font-family: "ChaparralPro";
-    src: url('/fonts/ChaparralPro-Regular.otf') format("truetype");
-}
+
+@import "components/testimonial_carousel";
 
 body {
   padding-top: 4rem;
@@ -35,6 +34,14 @@ p, li {
   line-height: 1.7;
 }
 
+a {
+  color: var(--color-white);
+  
+  &:hover, &:active, &:focus {
+    color: var(--color-white);
+  }
+}
+
 .navbar-light {
   background-color: transparent;
   color: #fff;
@@ -48,6 +55,13 @@ p, li {
       color: #fff;
     }
   }
+}
+
+.footer {
+  width:100%;
+  padding: 48px;
+  color: var(--color-white);
+  background-color: var(--color-dark-blue);
 }
 
 /*

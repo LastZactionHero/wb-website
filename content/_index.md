@@ -30,6 +30,9 @@ testimonial_carousel:
 
 {{% index_banner %}}
 
+{{% button class="primary" href="#" text="Button A" %}}
+{{% button class="secondary" href="#" text="Button B" %}}
+
 {{< youtube v6KsiexGrg0 >}}
 
 {{% testimonial_carousel %}}
