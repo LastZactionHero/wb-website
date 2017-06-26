@@ -3,9 +3,12 @@
     src: url('/fonts/ChaparralPro-Regular.otf') format("truetype");
 }
 
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
 h1, h2 {
-  font-family: "ChaparralPro";
-  font-weight: normal;
+  /*font-weight: normal;*/
 }
 
 h1 {

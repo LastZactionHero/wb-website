@@ -1,8 +1,11 @@
 
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+
 @import "_variables.css";
 @import "_type";
+
 @import "_buttons";
+@import "_navbar";
 
 @import "components/_testimonial_carousel";
 
@@ -11,7 +14,6 @@
 
 body {
   background-color: var(--color-teal);
-  font-family: 'Roboto', sans-serif;
 
   display: flex;
   min-height: 100vh;          /* Make sure atleast a full display so footer sticks to bottom */
@@ -19,7 +21,7 @@ body {
 }
 
 .site-content {
-  flex: 1;                    /* Site content takes entire view, does not include footer */
+  flex: 1 0 auto;             /* Site content takes entire view, does not include footer */
   position: relative;         /* Used to aboslutely position stripe inside to take exactly the full view height */
   padding-bottom: 120px;
 }
@@ -59,23 +61,6 @@ body {
   }
 }
 
-
-.navbar-light {
-  background-color: transparent;
-  color: #fff;
-
-  & .navbar-brand {
-    color: #fff;
-  }
-
-  & .navbar-nav {
-    & .nav-link {
-      color: #fff;
-    }
-  }
-}
-
-
 /*
   TODO: I have no idea what I'm doing...
   https://stripe.com/blog/connect-front-end-experience
@@ -86,6 +71,7 @@ body {
   height: 100%;
   width: 100%;
   overflow: hidden;
+  z-index: -1000;
 }
 
 .stripe-background {

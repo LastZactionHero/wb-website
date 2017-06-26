@@ -1,14 +1,20 @@
 :root {
   --color-white: #FFFFFF;
+  --color-light-gray: #F2F2F2;
+
   --color-light-orange: #FE9E00;
   --color-medium-orange: #FF8704;
   --color-dark-orange: #F4601A;
+
   --color-teal-light: #3f969c; /* I made this one up */
   --color-teal: #007D87;
+
   --color-dark-blue: #496274;
 }
 
-@custom-media --viewport-xs (max-width: 576px);
-@custom-media --viewport-sm (max-width: 768px);
-@custom-media --viewport-md (max-width: 992px);
-@custom-media --viewport-lg (max-width: 1200px);
+@custom-media --viewport-xs (max-width: 575px);
+@custom-media --viewport-sm (max-width: 767px);
+@custom-media --viewport-md (max-width: 991px);
+@custom-media --viewport-lg (max-width: 1199px);
+
+@custom-media --viewport-md-up (min-width: 992px);
