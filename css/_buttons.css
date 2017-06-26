@@ -1,4 +1,4 @@
-@import "colors";
+@import "_variables";
 
 .btn {
   border-radius: 22px;

@@ -1,10 +1,13 @@
-@import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
-@import "viewports";
-@import "colors";
-@import "fonts";
-@import "bootstrap_overrides";
 
-@import "components/testimonial_carousel";
+@import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+@import "_variables.css";
+@import "_type";
+@import "_buttons";
+
+@import "components/_testimonial_carousel";
+
+/* type */
+
 
 body {
   background-color: var(--color-teal);
@@ -56,35 +59,6 @@ body {
   }
 }
 
-h1, h2 {
-  font-family: "ChaparralPro";
-  font-weight: normal;
-}
-
-h1 {
-  color: var(--color-white);
-  font-size: 2.25rem;
-}
-
-h2 {
-  margin-top: 1.75em;
-  margin-bottom: 0.5em;
-  line-height: 1.4;
-  font-size: 1.25rem;
-}
-
-p, li {
-  color: #7a7a7a;
-  line-height: 1.7;
-}
-
-a {
-  color: var(--color-white);
-  
-  &:hover, &:active, &:focus {
-    color: var(--color-white);
-  }
-}
 
 .navbar-light {
   background-color: transparent;
