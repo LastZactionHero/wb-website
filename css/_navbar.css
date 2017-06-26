@@ -9,6 +9,17 @@
     margin-top: 8px;
   }
 
+  & .nav-item-logo {
+    margin-right: 36px;
+    & img {
+      width: 72px;
+      margin-top: -28px;
+      @media (--viewport-md) {
+        margin-top: -20px;
+      }
+    }
+  }
+
   & .navbar-nav {
     /* center on larger displays only */
     @media (--viewport-md-up) {
@@ -18,10 +29,8 @@
 
     /* Collapsed nav has a white background */
     @media (--viewport-md) {
-      & .navbar-collapse {
-        background-color: white;
-        padding: 24px 16px;
-      }
+      background-color: white;
+      padding: 24px 16px;
     }
 
     /* Basic nav-links */

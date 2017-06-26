@@ -3,23 +3,27 @@
 <div class="container">
   <nav class="navbar navbar-light navbar-toggleable-md ">
 
-    <ul class="nav navbar-nav">
-      <li class="nav-item nav-item-logo "><a class="nav-link" href="/"><img src="/images/logo_mark_responsive_white.svg"/></a></li>
-      <div class="collapse navbar-collapse" id="main-navbar">
-          {{ range .menu }}
-          <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{end}}">
-            <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
-          </li>
-          {{ end }}
-          <li class="nav-item">
-            <a class="nav-link" href="/">Sign In</a>
-          </li>
-          <li class="nav-item nav-item-right"><a class="nav-link btn btn-secondary" href="/">Get Started</a></li>
-      </div>
-    </ul>
-
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+
+    <!-- Duplicate logo: mobile version, always visible on left -->
+    <div class="nav-item nav-item-logo hidden-lg-up"><a class="nav-link" href="/"><img src="/images/logo_mark_responsive_white.svg"/></a></div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav">
+        <!--  Duplicate logo: inside nav to keep centered with rest of links on desktop -->
+        <li class="nav-item nav-item-logo hidden-md-down"><a class="nav-link" href="/"><img src="/images/logo_mark_responsive_white.svg"/></a></li>
+        {{ range .menu }}
+        <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{end}}">
+          <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+        <li class="nav-item">
+          <a class="nav-link" href="/">Sign In</a>
+        </li>
+        <li class="nav-item nav-item-right"><a class="nav-link btn btn-secondary" href="/">Get Started</a></li>
+      </ul>
+    </div>
   </nav>
 </div>
