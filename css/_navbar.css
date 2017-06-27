@@ -9,23 +9,27 @@
     margin-top: 8px;
   }
 
-  & .nav-item-logo {
-    margin-right: 36px;
-    & img {
-      width: 72px;
-      margin-top: -28px;
-      @media (--viewport-md) {
-        margin-top: -20px;
-      }
+  & .navbar-brand {
+    background-image: url("/images/logo_mark_responsive_white.svg");
+    height: 44px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: 102%;
+    background-position: 0px -24px;
+
+    @media (--viewport-md) {
+      background-size: 102%;
+      background-position: 0px -30px;
+    }
+  }
+
+  & .navbar-collapse {
+    @media (--viewport-md) {
+      margin-top: 16px;
     }
   }
 
   & .navbar-nav {
-    /* center on larger displays only */
-    @media (--viewport-md-up) {
-      margin-right: auto!important;
-      margin-left: auto!important;
-    }
 
     /* Collapsed nav has a white background */
     @media (--viewport-md) {
@@ -38,7 +42,7 @@
       & .nav-link {
         font-weight: normal;
         text-transform: uppercase;
-        font-size: 0.75rem;
+        font-size: 1.125rem;
 
         color: var(--color-dark-blue);
         @media (--viewport-md-up) {
@@ -57,7 +61,7 @@
       }
     }
 
-    & .nav-item-right {
+    & .nav-item-callout {
       margin-left: 36px;
 
       @media (--viewport-md) {
@@ -68,9 +72,9 @@
       }
 
       & .btn {
-        padding: 4px 8px;
-        padding: 8px;
+        font-size: 1rem;
         font-weight: normal;
+        margin-top: 3px;
 
         @media (--viewport-md) {
           background-color: var(--color-light-gray);
