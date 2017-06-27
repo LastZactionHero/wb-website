@@ -8,6 +8,9 @@
 @import "_navbar";
 
 @import "components/_testimonial_carousel";
+@import "components/_demo_cta";
+@import "components/_tour";
+@import "components/_video_embed";
 
 /* type */
 

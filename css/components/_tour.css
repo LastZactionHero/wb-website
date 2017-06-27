@@ -1,0 +1,42 @@
+ul.tour {
+  list-style-type: none;
+
+  & li.tour-step {
+    display: flex;
+    flex-direction: row;
+    @media (--viewport-md) {
+      flex-direction: column;
+    }
+
+    margin-bottom: 42px;
+
+    & .tour-step-body {
+      flex: 2;
+      @media (--viewport-md-up) {
+        padding-right: 48px;
+      }
+
+      & h2 {
+        text-transform: uppercase;
+      }
+    }
+
+    & .tour-step-image {
+      flex: 1;
+      & img {
+        width: 100%;
+      }
+    }
+  }
+
+  & .tour-step:nth-child(even) {
+
+    @media (--viewport-md-up) {
+      flex-direction: row-reverse;
+      & .tour-step-body {
+        padding-right: 0px;
+        padding-left: 48px;
+      }
+    }
+  }
+}

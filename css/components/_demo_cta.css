@@ -1,0 +1,13 @@
+.demo-cta {
+  text-align: center;
+  margin: 48px 0px;
+  & .title {
+    font-weight: 300;
+    font-size: 1.2rem;
+    margin-right: 64px;
+  }
+
+  & .btn {
+    margin-top: -4px;
+  }
+}
