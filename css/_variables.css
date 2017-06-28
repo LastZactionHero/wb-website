@@ -1,15 +1,31 @@
 :root {
+  /*
+    Giving each color a unique name.
+    This is to avoid complications of similar names (e.g. "dark-gray, darkest-gray, darker-dark-gray"), and
+    inappropriate use of feature colors (e.g. color-dark-background for a button text)
+
+    Generated using this project, but anything will do:
+    http://chir.ag/projects/name-that-color/#6195ED
+
+    Recommended to use a plugin for your editor that shows hex colors inline.
+
+    Colors can be assigned to functions if needed (e.g. --color-navbar-background: --color-concrete;)
+  */
+
+  /* White / Gray / Black */
   --color-white: #FFFFFF;
-  --color-light-gray: #F2F2F2;
+  --color-concrete: #F2F2F2;
 
-  --color-light-orange: #FE9E00;
-  --color-medium-orange: #FF8704;
-  --color-dark-orange: #F4601A;
+  /* Blue */
+  --color-keppel: #3F969C;
+  --color-blue-lagoon: #007D87;
+  --color-pine-green: #006B73;
+  --color-blue-bayoux: #496274;
 
-  --color-teal-light: #3f969c; /* I made this one up */
-  --color-teal: #007D87;
-
-  --color-dark-blue: #496274;
+  /* Orange */
+  --color-orange-peel: #FF9E00;
+  --color-christine: #F56210;
+  --color-flamingo: #F4601A;
 }
 
 @custom-media --viewport-xs (max-width: 575px);

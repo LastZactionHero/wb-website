@@ -14,23 +14,23 @@
 }
 
 .btn-primary {
-  background-color: var(--color-dark-orange);
+  background-color: var(--color-flamingo);
   color: var(--color-white);
   border: none;
 
   &:hover, &:active, &:focus {
     background-color: var(--color-white);
-    color: var(--color-dark-orange);
+    color: var(--color-flamingo);
   }
 }
 
 .btn-secondary {
   background-color: var(--color-white);
-  color: var(--color-dark-orange);
+  color: var(--color-flamingo);
   border: none;
 
   &:hover, &:active, &:focus {
-    background-color: var(--color-dark-orange);
+    background-color: var(--color-flamingo);
     color: var(--color-white);
   }
 }

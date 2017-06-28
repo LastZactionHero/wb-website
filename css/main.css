@@ -16,12 +16,23 @@
 
 
 body {
-  background-color: var(--color-teal);
+  background-color: var(--color-blue-lagoon);  
 
   display: flex;
   min-height: 100vh;          /* Make sure atleast a full display so footer sticks to bottom */
   flex-direction: column;
 }
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .legacy-browser-fold-gradient {
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(var(--color-orange-peel) 0px, var(--color-christine) 100%);
+  }
+}
+
+
 
 .site-content {
   flex: 1 0 auto;             /* Site content takes entire view, does not include footer */
@@ -33,7 +44,7 @@ body {
   width: 100%;
   padding: 48px;
   color: var(--color-white);
-  background-color: var(--color-dark-blue);
+  background-color: var(--color-blue-bayoux);
 }
 
 .footer-container {
@@ -90,15 +101,10 @@ body {
 
 .stripe-background :nth-child(1) {
   grid-column: span 10;
-  background: linear-gradient(90deg, var(--color-light-orange), var(--color-medium-orange));
+  background: linear-gradient(90deg, var(--color-orange-peel), var(--color-christine));
 }
 
 .stripe-background :nth-child(2) {
   grid-column: span 10;
-  background: linear-gradient(90deg, var(--color-teal-light), var(--color-teal));
-}
-
-.stripe-background :nth-child(3) {
-  grid-column: span 10;
-  background: linear-gradient(90deg, var(--color-teal), var(--color-teal-light));
+  background: linear-gradient(90deg, var(--color-pine-green), var(--color-keppel));
 }

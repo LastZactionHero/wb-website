@@ -26,10 +26,11 @@ testimonial_carousel:
           href: '/'
 ---
 
-{{% index_banner %}}
+# Paperwork Sucks. Work Fast.
 
-{{% button class="primary" href="#" text="Button A" %}}
-{{% button class="secondary" href="#" text="Button B" %}}
+<p class='text-center'>
+  Workbright's digital onboarding solution removes the headache of new hire paperwork and gets employees ready to work BEFORE their first day of work. See how it works here:
+</p>
 
 {{< youtube v6KsiexGrg0 >}}
 
