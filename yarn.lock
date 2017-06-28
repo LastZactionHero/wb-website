@@ -2506,6 +2506,10 @@ ieee754@^1.1.4:
   version "1.1.8"
   resolved "https://registry.yarnpkg.com/ieee754/-/ieee754-1.1.8.tgz#be33d40ac10ef1926701f6f08a2d86fbfd1ad3e4"
 
+iframe-resizer@^3.5.14:
+  version "3.5.14"
+  resolved "https://registry.yarnpkg.com/iframe-resizer/-/iframe-resizer-3.5.14.tgz#db770e8f1cf63d2c77d10d0e18edc2524bf36fb4"
+
 ignore@^3.2.0:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-3.3.3.tgz#432352e57accd87ab3110e82d3fea0e47812156d"
