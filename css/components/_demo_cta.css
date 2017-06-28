@@ -11,3 +11,15 @@
     margin-top: -4px;
   }
 }
+
+.demo-cta.demo-cta-large {
+  margin: 64px 0px;
+  & .title {
+    font-size: 2rem;
+  }
+
+  & .btn {
+    margin-top: -12px;
+    font-size: 1.5rem;
+  }
+}
