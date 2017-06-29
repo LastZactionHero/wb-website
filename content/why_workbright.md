@@ -10,3 +10,4 @@ menu:
 title: "Why Workbright"
 ---
 
+# HR made simple
