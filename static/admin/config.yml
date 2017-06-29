@@ -3,7 +3,7 @@ backend:
   repo: LastZactionHero/wb-website
   branch: master
 media_folder: "static/images"
-collection:
+collections:
   - name: "site_pages"
     label: "Site Pages"
     folder: "content"
