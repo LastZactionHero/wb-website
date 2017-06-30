@@ -51,8 +51,8 @@ body {
 
 .footer-container {
   display: flex;
-  flex-direction: row;
 
+  flex-direction: row;
   @media (--viewport-sm) {
     flex-direction: column;
   }
@@ -109,4 +109,108 @@ body {
 .stripe-background :nth-child(2) {
   grid-column: span 10;
   background: linear-gradient(90deg, var(--color-pine-green), var(--color-keppel));
+}
+
+.customer {
+  @media (--viewport-xs) {
+    margin: 0px -16px;
+  }
+
+  padding: 64px 24px;
+  background-color: white;
+  color: var(--color-blue-bayoux);
+  box-shadow: 0px 0px 12px var(--color-box-shadow);
+
+  & ul {
+    margin-bottom: 24px;
+
+    & li {
+      font-size: 1.25rem;
+      margin-bottom: 20px;
+    }
+  }
+
+  & .customers-quote {
+    margin: 60px -64px 48px -64px;
+    padding: 48px 64px;
+    @media (--viewport-xs) {
+      margin: 60px -24px 48px -24px;
+      padding: 48px 24px;
+    }
+
+    box-shadow: 0px 0px 12px var(--color-box-shadow);
+
+    background-color: white;
+
+    & h2 {
+      margin: 0px 0px 24px 0px;
+      text-align: left;
+      @media (--viewport-xs) {
+        text-align: center;
+      }
+    }
+
+    & p {
+      font-size: 1rem;
+      font-weight: 400;
+
+      @media (--viewport-xs) {
+        text-align: center;
+      }
+    }
+
+    & .attribution {
+      position: relative;
+      padding-left: 80px;
+      height: 72px;
+
+      @media (--viewport-xs) {
+        padding-left: 0px;
+        height: inherit;
+      }
+    }
+
+    & .photo {
+      position: absolute;
+
+      left: 0px;
+      width: 72px;
+      height: 72px;
+      background-repeat: no-repeat;
+      background-size: 100%;
+
+      @media (--viewport-xs) {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 12px;
+      }
+    }
+
+    & .details {
+      position: absolute;
+      padding-left: 8px;
+      font-size: 0.75rem;
+      bottom: 0px;
+      line-height: 1.25rem;
+
+      @media (--viewport-xs) {
+        position: relative;
+        padding-left: 0px;
+        text-align: center;
+      }
+    }
+  }
+
+  & .logos {
+    display: flex;
+    flex-direction: row;
+    & .logo {
+      flex: 1;
+      height: 100px;
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: 50%;
+    }
+  }
 }

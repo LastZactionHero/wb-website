@@ -9,12 +9,13 @@
 
     Recommended to use a plugin for your editor that shows hex colors inline.
 
-    Colors can be assigned to functions if needed (e.g. --color-navbar-background: --color-concrete;)
+    Colors can be assigned to functions if needed (e.g. --color-navbar-background: var(--color-concrete);)
   */
 
   /* White / Gray / Black */
   --color-white: #FFFFFF;
   --color-concrete: #F2F2F2;
+  --color-black-transparent: rgba(0,0,0,0.3);
 
   /* Blue */
   --color-keppel: #3F969C;
@@ -26,6 +27,8 @@
   --color-orange-peel: #FF9E00;
   --color-christine: #F56210;
   --color-flamingo: #F4601A;
+
+  --color-box-shadow: var(--color-black-transparent);
 }
 
 @custom-media --viewport-xs (max-width: 575px);
