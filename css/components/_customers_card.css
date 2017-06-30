@@ -1,0 +1,9 @@
+@import "../_variables.css";
+
+.customers-card {
+  & .card-block {
+    & .menu-item {
+      margin-bottom: 8px;
+    }
+  }
+}

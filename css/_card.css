@@ -1,0 +1,22 @@
+@import "_variables.css";
+
+.card {
+  border-radius: 0px;
+
+  & .card-header {
+    border-radius: 0px;
+    background-color: var(--color-concrete);
+    color: var(--color-blue-bayoux);
+    text-transform: uppercase;
+    font-size: 1.25rem;
+    font-weight: 500;
+  }
+
+  & .card-block {
+    color: var(--color-blue-bayoux);
+
+    & a {
+      color: var(--color-blue-bayoux);
+    }
+  }
+}

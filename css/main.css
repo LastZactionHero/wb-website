@@ -6,7 +6,9 @@
 
 @import "_buttons";
 @import "_navbar";
+@import "_card";
 
+@import "components/_customers_card";
 @import "components/_testimonial_carousel";
 @import "components/_demo_cta";
 @import "components/_tour";
