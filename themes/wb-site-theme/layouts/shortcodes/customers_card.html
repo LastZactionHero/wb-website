@@ -1,20 +1,16 @@
-<div class='row'>
-  <div class='col-md-10 offset-md-1'>
-    <div class="card customers-card">
-      <div class="card-header">
-        By Industry
-      </div>
-      <div class="card-block">
+<div class="card customers-card">
+  <div class="card-header">
+    By Industry
+  </div>
+  <div class="card-block">
+    <div class='row'>
+      <div class='col-md-12'>
         <div class='row'>
-          <div class='col-md-12'>
-            <div class='row'>
-              {{ range .Site.Menus.customers }}
-                <div class='col-md-6 menu-item'>
-                  <a href='{{ .URL }}'>{{ .Name }}</a>
-                </div>
-              {{ end }}
+          {{ range .Site.Menus.customers }}
+            <div class='col-md-6 menu-item'>
+              <a href='{{ .URL }}'>{{ .Name }}</a>
             </div>
-          </div>
+          {{ end }}
         </div>
       </div>
     </div>

@@ -8,6 +8,7 @@
 @import "_navbar";
 @import "_card";
 
+@import "components/_case_study_card";
 @import "components/_customers_card";
 @import "components/_demo_cta";
 @import "components/_info_tabs";

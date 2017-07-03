@@ -30,6 +30,9 @@
   --color-flamingo: #F4601A;
 
   --color-box-shadow: var(--color-black-transparent);
+
+
+  --font-size-p: 1.5rem;
 }
 
 @custom-media --viewport-xs (max-width: 575px);
@@ -37,4 +40,5 @@
 @custom-media --viewport-md (max-width: 991px);
 @custom-media --viewport-lg (max-width: 1199px);
 
+@custom-media --viewport-sm-up (min-width: 768px);
 @custom-media --viewport-md-up (min-width: 992px);

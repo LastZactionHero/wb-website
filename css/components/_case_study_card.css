@@ -1,0 +1,27 @@
+@import "../_variables";
+
+.card.case-study-card {
+  box-shadow: 0px 0px 12px var(--color-box-shadow);
+  padding: 24px;
+  margin-bottom: 64px;
+
+  & .card-block {
+    & h2 {
+      margin-top: 0px;
+    }
+
+    & a.case-study-link {
+      display: block;
+      color: var(--color-orange-peel);
+      font-size: var(--font-size-p);
+    }
+
+    & p {
+      margin-bottom: 48px;
+    }
+
+    & img {
+      max-width: 100%;
+    }
+  }
+}
