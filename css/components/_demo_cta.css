@@ -5,6 +5,12 @@
     font-weight: 300;
     font-size: 1.2rem;
     margin-right: 64px;
+
+    @media (--viewport-sm) {
+      display: block;
+      text-align: center;
+      margin: 0px 0px 24px 0px;
+    }
   }
 
   & .btn {

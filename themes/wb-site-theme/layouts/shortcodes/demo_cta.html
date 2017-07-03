@@ -1,14 +1,10 @@
 <div class='demo-cta {{ if .Get "size" }}demo-cta-{{ .Get "size" }}{{ end}}'>
-  <div class='row'>
-    <div class='offset-md-2 col-md-8'>
-      <span class='title'>
-        {{ if .Get "message" }}
-          {{ .Get "message" }}
-        {{ else }}
-          Ready to get started?
-        {{ end }}
-      </span>
-      <a class='btn btn-primary' href='#'>Request a Demo</a>
-    </div>
-  </div>
+  <span class='title'>
+    {{ if .Get "message" }}
+      {{ .Get "message" }}
+    {{ else }}
+      Ready to get started?
+    {{ end }}
+  </span>
+  <a class='btn btn-primary' href='#'>Request a Demo</a>
 </div>
