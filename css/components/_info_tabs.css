@@ -4,13 +4,14 @@
   & ul.nav {
     border-bottom: none;
     flex-direction: column;
+    margin-bottom: 36px;
 
     & li {
       & a.nav-link {
         color: var(--color-neptune);
         border: none;
         text-transform: uppercase;
-        font-size: 1.2rem;
+        font-size: 1.1rem;
       }
 
       & a.nav-link:hover {

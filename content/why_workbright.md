@@ -33,7 +33,11 @@ title: "Why Workbright"
 
 <div class='clearfix'></div>
 
-## What We Offer Customers, By Size
+## How is WorkBright Different?
+
+<div class='text-center'>
+  <a href='#' class='ext'>X Click Here to Download Our Digital Onboarding Buyers Guide! X<a>
+</div>
 
 <div class='info-tabs'>
   <div class='row'>
