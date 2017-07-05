@@ -2,10 +2,10 @@
 // Scroll the Info Tabs container horizontally to the selected link
 document.querySelectorAll('.info-tabs .tab-container .nav-link').forEach( (navLink) => {
   navLink.addEventListener('click', (event) => {
-    let tabContainer = event.target.parentElement;
-    while(!tabContainer.classList.contains('tab-container')) {
-      tabContainer = tabContainer.parentElement;
-    }
-    tabContainer.scrollLeft = event.target.offsetLeft;
+    const scrollOffset = 64;
+    const scrollTo = $(".tab-content").offset().top - scrollOffset;
+    $('html,body').animate({scrollTop: scrollTo}, 250);
   });
 })
+
+ 
