@@ -1,0 +1,34 @@
+.staggered-block {
+  @media(--viewport-md-up) {
+    width: 50%;
+    float: left;
+  }
+
+  padding: 24px;
+
+  & h2 {
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 2rem;
+  }
+
+  & h3 {
+    font-size: 1.5rem;
+    font-weight: 400;
+  }
+
+  & p {
+    font-size: 1.25rem;
+  }
+}
+
+.staggered-block:nth-child(even) {
+    @media(--viewport-md-up) {
+    float: right;
+  }
+}
+.staggered-block:nth-of-type(2) {
+  @media(--viewport-md-up) {
+    margin-top: 128px;
+  }
+}
