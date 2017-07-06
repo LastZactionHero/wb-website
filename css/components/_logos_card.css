@@ -1,0 +1,23 @@
+.logos-card {
+  margin-bottom: 128px;
+
+  & h2 {
+    margin: 16px 0px;
+    color: var(--color-dove-gray);
+  }
+
+  & .logo-grid {
+    padding: 20px;
+    @media(--viewport-md-up) {
+      padding: 40px;
+    }
+
+    & img {
+      filter: grayscale(1);
+      width: 100%;
+      @media(--viewport-md-up) {
+        padding: 20px;
+      }
+    }
+  }
+}

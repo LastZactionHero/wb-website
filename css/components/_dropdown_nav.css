@@ -1,4 +1,6 @@
 .dropdown-nav {
+  margin-bottom: 48px;
+
   & a {
     color: var(--color-blue-bayoux);
     text-transform: none;

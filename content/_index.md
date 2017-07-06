@@ -35,5 +35,8 @@ Workbright's digital onboarding solution removes the headache of new hire paperw
   </div>
 </div>
 
-
 {{% testimonial_carousel %}}
+
+{{% logos_card %}}
+
+{{< demo_cta size="large">}}

@@ -15,7 +15,9 @@
   /* White / Gray / Black */
   --color-white: #FFFFFF;
   --color-concrete: #F2F2F2;
-  --color-black-transparent: rgba(0,0,0,0.3);
+  --color-dove-gray: #666666;
+  --color-black-transparent-30: rgba(0,0,0,0.3);
+  --color-black-transparent-00: rgba(0,0,0,0.0);
 
   /* Blue */
   --color-keppel: #3F969C;
@@ -29,7 +31,7 @@
   --color-christine: #F56210;
   --color-flamingo: #F4601A;
 
-  --color-box-shadow: var(--color-black-transparent);
+  --color-box-shadow: var(--color-black-transparent-30);
 
 
   --font-size-p: 1.5rem;

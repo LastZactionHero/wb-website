@@ -2,45 +2,35 @@
 
 .testimonial-carousel {
   position: relative;
-  margin: 64px 0px;
+  margin: 64px 0px 128px 0px;
   padding: 64px 12px;
 
   & .carousel-background {
-    position: absolute;
-    background-color: var(--color-black-transparent);
+    display: none;
+    /*position: absolute;
+    background: linear-gradient(90deg,var(--color-black-transparent-00) 0px, var(--color-black-transparent-30) 100%);*/
 
-    top: 0px;
-    bottom: 0px;
+    /*top: 0px;
+    bottom: 0px;*/
 
     /* TODO: This is kind of hack */
     /* Overflow is clipped by body overflow-x:hidden. Remove that if this is changed */
-    width: 200vw;
-    left: -100vw;
+    /*width: 125vw;
+    left: -25vw;*/
   }
 
   & .testimonial {
     text-align: center;
-
+    padding: 32px 0px;
     & .quote {
       font-size: 2rem;
       margin-bottom: 2rem;
+      color: var(--color-white);
     }
 
     & .person {
       color: var(--color-orange-peel);
       font-size: 1.2rem;
-    }
-  }
-
-  & .slick-prev {
-    @media(--viewport-md-up) {
-      left: 8px;
-    }
-  }
-
-  & .slick-next {
-    @media(--viewport-md-up) {
-      right: 8px;
     }
   }
 }
