@@ -13,6 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "appear": "^1.0.1",
     "autoprefixer": "^7.1.1",
     "babel-core": "^6.24.1",
     "babel-eslint": "^6.1.2",

@@ -1,5 +1,6 @@
 ul.tour {
   list-style-type: none;
+  padding: 0px 20px;
 
   & li.tour-step {
     display: flex;
@@ -11,14 +12,16 @@ ul.tour {
     margin-bottom: 42px;
 
     & .tour-step-body {
-      flex: 2;
+      flex: 1;
       @media (--viewport-md-up) {
         padding-right: 48px;
       }
 
       & h2 {
+        text-align: left;
         text-transform: uppercase;
       }
+
     }
 
     & .tour-step-image {
@@ -27,6 +30,62 @@ ul.tour {
         width: 100%;
       }
     }
+
+    & .tour-step-video-wrapper {
+      flex: 1;
+
+      & .video-background {
+        position: relative;
+        background-image: url("/images/video_background.png");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin: 0px auto;
+
+        /* TODO: Sizing is kind of a hack - can we make this less specific? */
+        @media(--viewport-lg-up) {
+          width: 416px;
+          height: 716px;
+        }
+        @media(--viewport-md-up) {
+          width: 341px;
+          height: 590px;
+        }
+        @media(--viewport-sm-up) {
+          width: 341px;
+          height: 590px;
+        }
+        @media(--viewport-sm) {
+          width: 250px;
+          height: 432px;
+        }
+
+        & video {
+          position: absolute;
+          @media(--viewport-lg-up) {
+            left: 56px;
+            top: 112px;
+            width: 229px;
+          }
+          @media(--viewport-md-up) {
+            left: 56px;
+            top: 112px;
+            width: 229px;
+          }
+          @media(--viewport-sm-up) {
+            left: 56px;
+            top: 112px;
+            width: 229px;
+          }
+          @media(--viewport-sm) {
+            left: 41px;
+            top: 82px;
+            width: 168px;
+          }
+        }
+      }
+
+    }
+
   }
 
   & .tour-step:nth-child(even) {

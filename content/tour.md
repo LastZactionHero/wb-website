@@ -33,8 +33,10 @@ title: "Tour"
         A typed “signature” in a generic font isn’t a best practice for legal or federal forms. WorkBright utilizes best-in-class e-signature technology by fingertip on a smartphone or by mouse on a computer, making sure the signature on your forms looks the same as the employee’s pen signature. This decreases your liability of signatures not being accepted in a court of law so you can sleep better at night!
       </p>
     </div>
-    <div class='tour-step-image'>
-      <image src="/images/phone-with-signature.png" />
+    <div class='tour-step-video-wrapper'>
+      <div class='video-background'>
+        <video src="/videos/fingertip_signature.mp4" loop />
+      </div>
     </div>
   </li>
 
@@ -45,8 +47,10 @@ title: "Tour"
         WorkBright allows your employees to use their smartphone camera to take a photo of licenses, certificates, and/or paper documents and directly upload them to their employee file. This functionality eliminates the need for photo copies, ensures employees have the correct and up to date certifications, and completes the mobile experience. 
       </p>
     </div>
-    <div class='tour-step-image'>
-      <image src="/images/phone-with-signature.png" />
+    <div class='tour-step-video-wrapper'>
+      <div class='video-background'>
+        <video src="/videos/photo_upload.mp4" loop />
+      </div>
     </div>
   </li>
 
@@ -57,8 +61,10 @@ title: "Tour"
         No more chasing down employees to complete forms! WorkBright will automatically send out reminder emails to employees who have not completed their forms with increasing urgency and frequency as their first day approaches. Emails are customized to the employee to list forms pending and with links directly to their account to complete.
       </p>
     </div>
-    <div class='tour-step-image'>
-      <image src="/images/phone-with-signature.png" />
+    <div class='tour-step-video-wrapper'>
+      <div class='video-background'>
+        <video src="/videos/automated_email_reminders.mp4" />
+      </div>
     </div>
   </li>
 
