@@ -5,12 +5,14 @@
 @import "_type";
 
 @import "_buttons";
-@import "_navbar";
 @import "_card";
+@import "_dropdown";
+@import "_navbar";
 
 @import "components/_case_study_card";
 @import "components/_customers_card";
 @import "components/_demo_cta";
+@import "components/_dropdown_nav"
 @import "components/_info_tabs";
 @import "components/_staggered_block";
 @import "components/_testimonial_carousel";
