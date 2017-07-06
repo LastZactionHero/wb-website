@@ -1,5 +1,7 @@
 
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
 
 @import "_variables.css";
 @import "_type";
@@ -27,6 +29,7 @@ body {
   display: flex;
   min-height: 100vh;          /* Make sure atleast a full display so footer sticks to bottom */
   flex-direction: column;
+  overflow-x: hidden;         /* Clip testimonial carousel background */
 }
 
 @media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {

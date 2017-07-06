@@ -3,13 +3,10 @@ title: Home
 menu:
 testimonial_carousel:
   testimonials:
-    0:
-      start: true
-      quote: "You've revolutionized the onboarding process."
+    - quote: "You've revolutionized the onboarding process."
       person: "Charlene Womack, The Hotel Group"
-    1:
-      quote: "XX Quote here XX"
-      person: "XX Person Name, Person Company XX"
+    - quote: "XX Quote XX"
+      person: "XX Person Name, Company Name XX"
 ---
 
 # Paperwork Sucks. Work Fast.

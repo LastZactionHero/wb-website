@@ -1,19 +1,47 @@
 @import "../_variables";
 
 .testimonial-carousel {
-  & .carousel-control-icon {
-    padding: 0.75rem;
-    border-radius: 0.75rem;
-    background-size: 50% auto;
+  position: relative;
+  margin: 64px 0px;
+  padding: 64px 12px;
+
+  & .carousel-background {
+    position: absolute;
+    background-color: var(--color-black-transparent);
+
+    top: 0px;
+    bottom: 0px;
+
+    /* TODO: This is kind of hack */
+    /* Overflow is clipped by body overflow-x:hidden. Remove that if this is changed */
+    width: 200vw;
+    left: -100vw;
   }
 
-  & .card-block {
-    padding-left: 120px;
-    position: relative;
-    background-repeat: no-repeat;
-    background-attachment: inherit;
-    background-position: 0px 0px;
-    background-size: 120px;
+  & .testimonial {
+    text-align: center;
+
+    & .quote {
+      font-size: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    & .person {
+      color: var(--color-orange-peel);
+      font-size: 1.2rem;
+    }
+  }
+
+  & .slick-prev {
+    @media(--viewport-md-up) {
+      left: 8px;
+    }
+  }
+
+  & .slick-next {
+    @media(--viewport-md-up) {
+      right: 8px;
+    }
   }
 }
 

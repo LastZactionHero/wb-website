@@ -1,7 +1,8 @@
 import "bootstrap-v4-dev";
+import "slick-carousel";
 import iFrameResize from "../node_modules/iframe-resizer/js/iframeResizer.min.js";
-import InfoTabs from "./components/info_tabs";
 import Appear from "../node_modules/appear/dist/appear.js";
+import InfoTabs from "./components/info_tabs";
 
 iFrameResize({});
 
@@ -21,4 +22,11 @@ window.ap = appear({
   },
   bounds: 0,
   reappear: true
+});
+
+// Start any Slick Carousels
+$(document).ready(function(){
+  $('.slick-carousel').slick({
+    autoplay: true
+  });
 });
