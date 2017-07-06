@@ -40,6 +40,7 @@
 @custom-media --viewport-md (max-width: 991px);
 @custom-media --viewport-lg (max-width: 1199px);
 
+@custom-media --viewport-xs-up (max-width: 578px);
 @custom-media --viewport-sm-up (min-width: 768px);
 @custom-media --viewport-md-up (min-width: 992px);
 @custom-media --viewport-lg-up (min-width: 1200px);

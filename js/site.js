@@ -13,12 +13,12 @@ window.ap = appear({
   appear: function appear(el){
     setTimeout( () => {
       el.play();
-    }, 2000);
+    }, 500);
     
   },
   disappear: function disappear(el){
     el.pause();
   },
-  bounds: 200,
+  bounds: 0,
   reappear: true
 });

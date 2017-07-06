@@ -2,8 +2,17 @@
 
 .customers-card {
   & .card-block {
+
+    @media(--viewport-md-up) {
+      padding: 24px 120px;
+    }
+
     & .menu-item {
-      margin-bottom: 8px;
+      margin-bottom: 0.5rem;
+
+      & a {
+        font-size: 1.5rem;
+      }
     }
   }
 }

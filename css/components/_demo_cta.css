@@ -6,7 +6,7 @@
     font-size: 1.2rem;
     margin-right: 64px;
 
-    @media (--viewport-sm) {
+    @media (--viewport-md) {
       display: block;
       text-align: center;
       margin: 0px 0px 24px 0px;
@@ -19,7 +19,7 @@
 }
 
 .demo-cta.demo-cta-large {
-  margin: 64px 0px;
+  margin: 64px 0px 120px 0px;
   & .title {
     font-size: 2rem;
   }

@@ -43,11 +43,13 @@
         font-weight: normal;
         text-transform: uppercase;
         font-size: 1.125rem;
-
         color: var(--color-blue-bayoux);
+
         @media (--viewport-md-up) {
+          opacity: 0.7;
           color: var(--color-white);
           font-weight: lighter;
+          padding: 0px 10px;
         }
       }
     }
@@ -55,9 +57,7 @@
     & .nav-item.active {
       & .nav-link {
         font-weight: bold;
-        @media (--viewport-md-up) {
-          font-weight: normal;
-        }
+        opacity: 1;
       }
     }
 
@@ -74,7 +74,9 @@
       & .btn {
         font-size: 1rem;
         font-weight: normal;
-        margin-top: 3px;
+        margin-top: -6px;
+        padding: 10px 14px;
+        opacity: 1;
 
         @media (--viewport-md) {
           background-color: var(--color-concrete);
@@ -84,6 +86,11 @@
       }
 
       & .btn-secondary.nav-link {
+        color: var(--color-flamingo);
+      }
+
+      & .btn-secondary.nav-link:hover {
+        background-color: var(--color-white);
         color: var(--color-flamingo);
       }
 
