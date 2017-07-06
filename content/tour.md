@@ -18,7 +18,7 @@ title: "Tour"
     <div class='tour-step-body'>
       <h3>Made for Mobile</h3>
       <p>
-        Today’s modern workforce is constantly connected to their smartphone. That’s why we made WorkBright’s digital onboarding not just ‘mobile friendly’ but mobile FIRST, specifically designed to complete all forms quickly and efficiently from any smart enabled device. Even administrators can approve, reject and countersign I-9s from their mobile device!
+        X WRONG VIDEO X<br/>Today’s modern workforce is constantly connected to their smartphone. That’s why we made WorkBright’s digital onboarding not just ‘mobile friendly’ but mobile FIRST, specifically designed to complete all forms quickly and efficiently from any smart enabled device. Even administrators can approve, reject and countersign I-9s from their mobile device!
       </p>
     </div>
     <div class='tour-step-video-wrapper'>
