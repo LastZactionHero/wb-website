@@ -36,7 +36,7 @@ ul.tour {
 
       & .video-background {
         position: relative;
-        background-image: url("/images/video_background.png");
+        background-image: url("/images/video_background_mobile.png");
         background-size: 100%;
         background-repeat: no-repeat;
         margin: 0px auto;
