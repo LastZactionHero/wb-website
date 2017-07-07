@@ -129,3 +129,33 @@ a.ext {
 iframe.pardot-form {
   margin: 32px 0px;
 }
+
+.blog-post {
+  & .content {
+    background-color: var(--color-white);
+    padding: 24px;
+    color: var(--color-blue-bayoux);
+
+    & p {
+      font-size: 1.25rem;
+    }
+    
+
+    & ul {
+      list-style-type: none;
+      margin: 64px 0px;
+
+      & li {
+        margin-bottom: 32px;
+      }
+    }
+
+    & ol {
+      margin: 64px 0px;
+
+      & li {
+        margin-bottom: 32px;
+      }
+    }
+  }
+}
