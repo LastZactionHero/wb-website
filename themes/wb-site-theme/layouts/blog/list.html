@@ -1,16 +1,24 @@
 {{ partial "page-wrapper-top" . }}
 
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-        <ul id="list">
-            {{ range .Data.Pages }}
-              <li>
-                <a href="{{ .URL }}">{{ .Title }}</a>
-              </li>
-            {{ end }}
-        </ul>
-  </div>
-</section>
+<div class='blog-list'>
+  <section id="main">
+    <div>
+      <h1 id="title">The LightBulb™©®</h1>
+
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") 5 }}    
+
+      <ul class='post-list'>
+          {{ range $paginator.Pages }}
+            <li>
+              <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
+              <p>{{ .Params.date }}</p>
+              <p>{{ .Summary }}</p>
+            </li>
+          {{ end }}
+      </ul>
+      {{ template "_internal/pagination.html" . }}
+    </div>
+  </section>
+</div>
 
 {{ partial "page-wrapper-bottom" . }}

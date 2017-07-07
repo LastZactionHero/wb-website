@@ -130,6 +130,23 @@ iframe.pardot-form {
   margin: 32px 0px;
 }
 
+.blog-list {
+  & ul.post-list {
+    list-style-type: none;
+
+    & li {
+      padding: 24px;
+      margin-bottom: 16px;
+      background-color: var(--color-white);
+      color: var(--color-blue-bayoux);
+      & a {
+        color: var(--color-blue-bayoux);  
+      }
+      
+    }
+  }
+}
+
 .blog-post {
   & .content {
     background-color: var(--color-white);
