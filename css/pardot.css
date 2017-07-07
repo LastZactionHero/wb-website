@@ -15,6 +15,7 @@ body {
   margin: 48px 0px;
 }
 
+/* Reduce the size of the state field */
 .state.pd-select {
   width: 200px;
 }
