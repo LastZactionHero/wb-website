@@ -1,0 +1,20 @@
+
+@import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
+
+@import "_variables.css";
+@import "_type";
+
+@import "_buttons";
+@import "_dropdown";
+
+body {
+  background-color: transparent !important;
+}
+
+.submit {
+  margin: 48px 0px;
+}
+
+.state.pd-select {
+  width: 200px;
+}
