@@ -40,7 +40,8 @@ module.exports = {
 
   context: __dirname,
   entry: {
-    site: ["./js/site"]
+    site: ["./js/site"],
+    pardot: ["./js/pardot"]
   },
   output: {
     path: path.resolve(__dirname, "dist/js"),
