@@ -6,6 +6,7 @@
 
 @import "_buttons";
 @import "_dropdown";
+@import "_forms";
 
 body {
   background-color: transparent !important;
