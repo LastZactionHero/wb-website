@@ -2,7 +2,7 @@
   <div class='slick-carousel'>
     {{ range .Page.Params.testimonial_carousel.testimonials }}
       <div class='testimonial'>
-        <div class='quote'>"{{ .quote }}"</div>
+        <div class='quote'>"{{ .quote | safeHTML }}"</div>
         <div class='person'>{{ .person }}</div>
       </div>
     {{ end }}

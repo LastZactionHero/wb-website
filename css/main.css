@@ -10,6 +10,7 @@
 @import "_card";
 @import "_dropdown";
 @import "_navbar";
+@import "_slick";
 
 @import "components/_case_study_card";
 @import "components/_customers_card";
@@ -23,6 +24,7 @@
 @import "components/_video_embed";
 
 @import "layouts/_customers";
+
 
 body {
   background-color: var(--color-blue-lagoon);

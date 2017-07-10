@@ -1,0 +1,22 @@
+@import "./_variables";
+
+/* Overrides for the Slick Carousel */
+@font-face
+{
+  font-family: 'slick';
+  font-weight: normal;
+  font-style: normal;
+  
+  /* Updated directory to /fonts, not /css/fonts/ */
+  src: url('/fonts/slick.eot');
+  src: url('/fonts/slick.eot?#iefix') format('embedded-opentype'), url('/fonts/slick.woff') format('woff'), url('/fonts/slick.ttf') format('truetype'), url('/fonts/slick.svg#slick') format('svg');
+}
+
+.slick-dots li.slick-active button:before {
+  color: var(--color-white);
+}
+
+.slick-dots li button:before {
+  color: var(--color-black-transparent-30);
+  opacity: 1.0
+}

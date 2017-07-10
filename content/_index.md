@@ -3,11 +3,22 @@ title: Home
 menu:
 testimonial_carousel:
   testimonials:
-    - quote: "You've revolutionized the onboarding process."
-      person: "Charlene Womack, The Hotel Group"
-    - quote: "XX Quote XX"
-      person: "XX Person Name, Company Name XX"
+    - quote: "The <strong>buttery ease</strong> with which employees can access/submit forms is unreal!"
+      person: "Lisa Shaffer, Shaffer's High Sierra Camp"
+    - quote: "WorkBright <strong>centralizes payroll</strong> which works really well for <strong>remote sites</strong> with limited storage."
+      person: "Hope Capps, NC United Methodist Camp & Retreat Ministries"
+    - quote: "The Customer Support &amp; WorkBright Staff are <strong>awesome to work with!</strong> Help in every aspect they can."
+      person: "Kristin Helmerichs, YMCA of Lincoln, NE"
+    - quote: "Our <strong>employees have raved</strong> about the ease of the system and I have such <strong>peace of mind!</strong>"
+      person: "Julia Yosen, The Handwork Studio"
+    - quote: "You <strong>revolutionized</strong> the daunting task of forms! Thanks."
+      person: "Indi Linsteadt, Shaffer's High Sierra Camp"
+    - quote: "Each time I use the site <strong>I learn more</strong> of the dynamics and capabilities of use!"
+      person: "Charlene Womack, Essence of Care"
+    - quote: "Thank you for your <strong>willingness to hear</strong> what your users need to get the most out of WorkBright!"
+      person: "Isabel Dreher, The Hotel Group"
 ---
+
 
 # Paperwork Sucks. Work Fast.
 

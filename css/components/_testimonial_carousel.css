@@ -13,6 +13,11 @@
       font-size: 2rem;
       margin-bottom: 2rem;
       color: var(--color-white);
+
+      
+      & strong {
+        font-style: italic;
+      }
     }
 
     & .person {
