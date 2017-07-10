@@ -28,6 +28,7 @@ window.ap = appear({
 $(document).ready(function(){
   $('.slick-carousel').slick({
     autoplay: true,
-    dots: true
+    dots: true,
+    arrows: false
   });
 });

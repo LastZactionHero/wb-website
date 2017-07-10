@@ -17,6 +17,6 @@
 }
 
 .slick-dots li button:before {
-  color: var(--color-black-transparent-30);
+  color: var(--color-white-transparent-30);
   opacity: 1.0
 }
