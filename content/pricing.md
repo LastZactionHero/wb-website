@@ -15,4 +15,6 @@ Whether you hire 50 or 15,000 people per year, WorkBright has you covered! Our p
 
 ## Starting at $125/mo. Request a quote:
 
-<iframe src="http://www2.workbright.com/l/81162/2017-07-07/d3jgfx" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0" class='pardot-form'></iframe>
+<div class='paper'>
+  <iframe src="http://www2.workbright.com/l/81162/2017-07-07/d3jgfx" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0" class='pardot-form'></iframe>
+</div>
