@@ -1,6 +1,8 @@
 .demo-cta {
   text-align: center;
-  margin: 48px 0px;
+  padding: 48px 0px;
+  background: linear-gradient(90deg, transparent, var(--color-pine-green), transparent);
+
   & .title {
     font-weight: 300;
     font-size: 1.2rem;

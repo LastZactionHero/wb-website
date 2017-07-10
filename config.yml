@@ -62,10 +62,10 @@ menu:
         Identifier: "high_turnover"
         URL: "#"
 
-      - Name: "X Blog"
+      - Name: "Blog"
         Parent: "Resources"
         Identifier: "blog"
-        URL: "#"
+        URL: "/blog"
       - Name: "X Free Downloads"
         Parent: "Resources"
         Identifier: "free_downloads"

@@ -32,7 +32,6 @@ h1, h2 {
 }
 
 h1 {
-  color: var(--color-white);
   font-size: 3rem;
   text-align: center;
   margin-bottom: 30px;
@@ -70,5 +69,18 @@ a {
   
   &:hover, &:active, &:focus {
     color: var(--color-white);
+  }
+}
+
+.paper {
+  color: var(--color-blue-bayoux);
+
+  & a {
+    color: var(--color-blue-bayoux);
+    text-decoration: underline;
+    
+    &:hover, &:active, &:focus {
+      color: var(--color-blue-bayoux);
+    }
   }
 }
