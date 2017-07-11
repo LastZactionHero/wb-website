@@ -3,19 +3,19 @@
 @font-face {
     font-family: "CircularStd";
     font-weight: bold;
-    src: url('/fonts/CircularStd-Bold.ttf') format("truetype");
+    src: url('fonts/CircularStd-Bold.ttf') format("truetype");
 }
 
 @font-face {
     font-family: "CircularStd";
     font-weight: normal;
-    src: url('/fonts/CircularStd-Medium.ttf') format("truetype");
+    src: url('fonts/CircularStd-Medium.ttf') format("truetype");
 }
 
 @font-face {
     font-family: "CircularStd";
     font-weight: lighter;
-    src: url('/fonts/CircularStd-Book.ttf') format("truetype");
+    src: url('fonts/CircularStd-Book.ttf') format("truetype");
 }
 
 body {

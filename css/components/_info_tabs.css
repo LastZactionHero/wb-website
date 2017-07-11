@@ -40,5 +40,35 @@
     & p, & li {
       font-size: 1.25rem;
     }
+
+    & .bottom-icon {
+      font-size: 128px;
+      text-align: right;
+      margin-top: 24px;
+    }
+
+    & .support-profile {
+      padding:  64px 36px;
+      font-size: 0.9rem;
+
+      background: url("/images/peter_transparent.png");
+      background-repeat: no-repeat;
+      background-size: contain;
+      background-position: 100% 100%;
+
+
+
+      @media(--viewport-md) {
+        background-position: 50% 0%;
+        background-size: 50%;
+        padding: 160px 0px 12px 0px;
+      }
+
+      @media(--viewport-xs) {
+        background-size: 75%;
+      }
+
+    }
   }
 }
+

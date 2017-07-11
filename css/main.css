@@ -3,6 +3,7 @@
 @import "slick-carousel/slick/slick.css";
 @import "slick-carousel/slick/slick-theme.css";
 @import "jquery.simple-text-rotator/simpletextrotator.css";
+@import "../icon_font/icomoon/style.css";
 
 @import "_variables.css";
 @import "_type";
@@ -130,10 +131,7 @@ body {
 
 /* TODO: Not sure where to put this style. Currently used in one spot, 'Why Workbright 'page */
 a.ext {
-  display: block;
-  margin: 24px 0px 36px 0px;
-  color: var(--color-orange-peel); /* Also used on logo card link */
-  font-size: 1.2rem;
+  margin-bottom: 72px;
 }
 
 iframe.pardot-form {

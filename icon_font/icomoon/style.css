@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?gguf8v');
+  src:  url('fonts/icomoon.eot?gguf8v#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?gguf8v') format('truetype'),
+    url('fonts/icomoon.woff?gguf8v') format('woff'),
+    url('fonts/icomoon.svg?gguf8v#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-workers:before {
+  content: "\e900";
+  color: #496274;
+}
+.icon-display-mobile-desktop:before {
+  content: "\e901";
+  color: #496274;
+}
+.icon-money-in-hand:before {
+  content: "\e902";
+  color: #496274;
+}
+.icon-stopwatch:before {
+  content: "\e903";
+  color: #496274;
+}
+.icon-clipboard-check-list:before {
+  content: "\e904";
+  color: #496274;
+}
+.icon-line-graph-up-right:before {
+  content: "\e905";
+  color: #496274;
+}

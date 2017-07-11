@@ -1,0 +1,10 @@
+Blog
+- First thoughts?
+- Cleaning up content
+  - What content to keep?
+- Cleaning up metadata
+- What metadata do we want
+- Todo:
+  - Categories and tags
+- Needs:
+  - Style

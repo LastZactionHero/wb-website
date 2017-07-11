@@ -27,7 +27,7 @@
   & .card-block {
     & a {
       font-size: 1.2rem;
-      color: var(--color-orange-peel); /* TODO: Orange color also used in a.ext- standarize?  */
+      color: var(--color-orange-peel);
     }
   }
 }

@@ -1,37 +1,129 @@
 @import "_variables";
 
+/* Button - Base */
 .btn {
   border-radius: 100px; /* over-rounding to get all sizes */
   padding: 12px 24px;
   text-transform: uppercase;
   font-weight: lighter;
-  box-shadow: 0px 0px 12px var(--color-box-shadow);
+  transition: var(--btn-transition);
   
   &:hover, &:active, &:focus {
-    box-shadow: none;
+    transform: translateY(-1px);
+    box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
     border: none;
     outline: none;
   }
 }
 
+
+/* Primary Button */
 .btn-primary {
-  background-color: var(--color-flamingo);
-  color: var(--color-white);
+  background-color: var(--color-btn-primary-background);
+  color: var(--color-btn-primary-text);
   border: none;
 
   &:hover, &:active, &:focus {
-    background-color: var(--color-white);
-    color: var(--color-flamingo);
+    background-color: var(--color-btn-primary-background-hover);
+    color: var(--color-btn-primary-text-hover);
   }
 }
 
+/* Secondary Button */
 .btn-secondary {
-  background-color: var(--color-white);
-  color: var(--color-flamingo);
+  background-color: var(--color-btn-secondary-background);
+  color: var(--color-btn-secondary-text);
   border: none;
 
   &:hover, &:active, &:focus {
-    background-color: var(--color-flamingo);
-    color: var(--color-white);
+    background-color: var(--color-btn-secondary-background-hover);
+    color: var(--color-btn-secondary-text-hover);
   }
+}
+
+/* Info Button */
+.btn-info {
+  background-color: var(--color-btn-info-background);
+  color: var(--color-btn-info-text);
+  border: none;
+  box-shadow: none;
+
+  &:hover, &:active {
+    color: var(--color-btn-info-text-hover);
+    background-color: var(--color-btn-info-background-hover);
+    box-shadow: none;
+  }
+}
+
+/* Chevron - Base */
+.btn-chevron {
+  position: relative;
+  padding-right: var(--btn-chevron-right-padding);
+}
+
+.btn-chevron::before, .btn-chevron::after {
+  display:block;
+  content:"";
+  width:0;
+  height:0em;
+  border-style:solid;
+  position:absolute;
+  top: 10px;
+  right: var(--btn-chevron-right-offset);
+}
+
+.btn-chevron::before {
+  content:"";
+  border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
+  
+}
+
+.btn-chevron::after {
+  transition: var(--btn-transition);
+  content:"";
+  right: calc(var(--btn-chevron-right-offset) + var(--btn-chevron-width));
+  border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
+}
+
+
+/* Primary Button Chevron */
+.btn-primary.btn-chevron::before {
+  border-color: transparent transparent transparent var(--color-btn-primary-text);
+}
+.btn-primary.btn-chevron::after {
+  border-color: transparent transparent transparent var(--color-btn-primary-background);
+}
+.btn-primary.btn-chevron:hover::before, .btn-primary.btn-chevron:active::before {  
+  border-color: transparent transparent transparent var(--color-btn-primary-text-hover);
+}
+.btn-primary.btn-chevron:hover::after, .btn-primary.btn-chevron:active::after {  
+  border-color: transparent transparent transparent var(--color-btn-primary-background-hover);  
+}
+
+/* Secondary Button Chevron */
+.btn-secondary.btn-chevron::before {
+  border-color: transparent transparent transparent var(--color-btn-secondary-text);
+}
+.btn-secondary.btn-chevron::after {
+  border-color: transparent transparent transparent var(--color-btn-secondary-background);
+}
+.btn-secondary.btn-chevron:hover::before, .btn-secondary.btn-chevron:active::before {  
+  border-color: transparent transparent transparent var(--color-btn-secondary-text-hover);
+}
+.btn-secondary.btn-chevron:hover::after, .btn-secondary.btn-chevron:active::after {  
+  border-color: transparent transparent transparent var(--color-btn-secondary-background-hover);
+}
+
+/* Info Button Chevron */
+.btn-info.btn-chevron::before {
+  border-color: transparent transparent transparent var(--color-btn-info-text);
+}
+.btn-info.btn-chevron::after {
+  border-color: transparent transparent transparent var(--color-btn-info-background);
+}
+.btn-primary.btn-chevron:hover::before, .btn-primary.btn-chevron:active::before {  
+  border-color: transparent transparent transparent var(--color-btn-info-text-hover);
+}
+.btn-info.btn-chevron:hover::after, .btn-info.btn-chevron:active::after {  
+  border-color: transparent transparent transparent var(--color-btn-info-background-hover);
 }
