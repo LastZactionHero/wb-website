@@ -4,18 +4,20 @@
   --chevron-size: 0.8rem;
 }
 
+/* TODO: Refactor chevron out of accordion if used again */
+
 .accordion {
   margin: 64px 0px 128px 0px;
 
   & .card {
     & .card-header {
-      padding: 36px 24px;
       position: relative;
+      padding: 0px;
 
       & .chevron {
         position: absolute;
-        left: 8px;
-        top: 8px;
+        top: 44px;
+        left: 36px;
         display: block;
 
         width: var(--chevron-size);
@@ -58,13 +60,17 @@
 
 
       & a {
+        color: var(--color-blue-bayoux);
         display: block;
-        color: var(--color-orange-peel);
         font-weight: normal;
         text-decoration: none;
         text-transform: none; /* TODO: Sort this out with card-header to not have to undo this */
-        padding-left: 30px;
+        
+        padding: 36px 24px 36px 60px;
         position: relative;
+        left: 0px;
+        right: 0px;
+        top: 0px;
 
         & strong {
           text-transform: uppercase;
@@ -75,8 +81,8 @@
         color: var(--color-blue-bayoux);
 
         & .chevron {
-          top: 2px;
-          left: 0px;
+          top: 38px;
+          left: 30px;
         }
 
         & .chevron::before {
@@ -90,6 +96,10 @@
           border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
           border-color:transparent transparent transparent var(--color-concrete);    
         }        
+      }
+
+      & a.collapsed:hover {
+        color: var(--color-orange-peel);
       }
     }
 

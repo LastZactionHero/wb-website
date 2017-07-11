@@ -1,9 +1,11 @@
 import "bootstrap-v4-dev";
 import "slick-carousel";
+import "jquery.simple-text-rotator";
 import iFrameResize from "../node_modules/iframe-resizer/js/iframeResizer.min.js";
 import Appear from "../node_modules/appear/dist/appear.js";
+
 import InfoTabs from "./components/info_tabs";
-import "jquery.simple-text-rotator";
+import Accordion from "./components/accordion";
 
 iFrameResize({});
 
