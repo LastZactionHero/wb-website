@@ -2793,6 +2793,10 @@ jodid25519@^1.0.0:
   dependencies:
     jsbn "~0.1.0"
 
+jquery.simple-text-rotator@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/jquery.simple-text-rotator/-/jquery.simple-text-rotator-0.0.1.tgz#5a5158b8e32d7f4cc6f9008c34e77231445a31a7"
+
 jquery@>=1.7.2, jquery@>=1.9.1:
   version "3.2.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.2.1.tgz#5c4d9de652af6cd0a770154a631bba12b015c787"

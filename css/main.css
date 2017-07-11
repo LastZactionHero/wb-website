@@ -2,6 +2,7 @@
 @import "bootstrap-v4-dev/dist/css/bootstrap.min.css";
 @import "slick-carousel/slick/slick.css";
 @import "slick-carousel/slick/slick-theme.css";
+@import "jquery.simple-text-rotator/simpletextrotator.css";
 
 @import "_variables.css";
 @import "_type";
@@ -159,5 +160,37 @@ iframe.pardot-form {
 .blog-post {
   & p {
     font-size: 1rem;
+  }
+}
+
+.rotating-title {
+  /* Use smaller text size for smaller displays to fit everything neatly */
+  @media(--viewport-xs) {
+    font-size: 2.0rem;
+  }
+  @media(--viewport-sm) {
+    font-size: 2.5rem;
+  }
+
+  /* On medium and lower, move second phrase to another line */
+  @media(--viewport-md) {
+    & .second-phrase {
+      display: block;
+    }
+  }
+
+  /* Fix the size of the rotating word to keep the line of text in place, not readjusting on each change */
+  & .rotate {
+    /* Using average between shortest and longest word widths */
+    width: 175px; /* Shortest 100px, longest 240px */
+    @media(--viewport-xs) {
+      width: 115px; /* Shortest 70px, longest 160px */
+    }
+    @media(--viewport-sm) {
+      width: 142px; /* Shortest 84px, longest 200 200px */
+    }
+
+    display: inline-block;
+    text-align: left;
   }
 }

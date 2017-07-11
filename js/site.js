@@ -3,6 +3,7 @@ import "slick-carousel";
 import iFrameResize from "../node_modules/iframe-resizer/js/iframeResizer.min.js";
 import Appear from "../node_modules/appear/dist/appear.js";
 import InfoTabs from "./components/info_tabs";
+import "jquery.simple-text-rotator";
 
 iFrameResize({});
 
@@ -31,4 +32,11 @@ $(document).ready(function(){
     dots: true,
     arrows: false
   });
+});
+
+// Rotating text on the home page
+$(".rotate").textrotator({
+  animation: "flipUp", // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin. 
+  separator: ",", // If you don't want commas to be the separator, you can define a new separator (|, &, * etc.) by yourself using this field. 
+  speed: 4000 // How many milliseconds until the next word show. 
 });
