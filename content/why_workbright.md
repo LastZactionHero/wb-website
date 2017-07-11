@@ -12,24 +12,7 @@ title: "Why Workbright"
 
 # Let’s Get Real… Traditional Onboarding Paperwork Sucks!
 
-{{< staggered_block title="speed" subtitle="collection of employees for forms and certifications">}}
-  Automated email reminders increase in intensity as the new hire start date approaches so employees come in on Day 1 with all new hire paperwork already completed! Employees can even use their smart device camera to take a photo of certifications and upload directly to you!
-{{< /staggered_block >}}
-{{< staggered_block title="increase" subtitle="accuracy in employee files">}}
-  Field validation throughout the WorkBright platform ensures your files are already cleaner when they are submitted. If an error creeps through, you can easily reject the form and fire off an automatic notification to the employee to correct the error!
-{{< /staggered_block >}}
-{{< staggered_block title="reduce" subtitle="the number of HR personnel you need for onboarding">}}
-  No need to staff up for mass hiring events or heavy onboarding periods! WorkBright allows you to upload employee information and deliver customized, digital paperwork in bulk to all new employees with the click of a few buttons. Reducing the time to onboard by up to 8x!
-{{< /staggered_block >}}
-{{< staggered_block title="gain" subtitle="visibility & confidence in the compliance of your I-9s & HR files">}}
-  With best-in-class security, automated field validation, document correction workflows and easily reportable employee information you can rest easy knowing your employee files are ready for a regulatory audit at any moment. No more checklists and filing cabinets! 
-{{< /staggered_block >}}
-{{< staggered_block title="reclaim" subtitle="your email inbox from employee clutter">}}
-  Managing employee communications and forms via your email inbox (or even worse, the physical mail) is a security and organizational nightmare! Move all employee onboarding processes into WorkBright where a secure audit trail tracks every interaction. 
-{{< /staggered_block >}}
-{{< staggered_block title="happiness" subtitle="because you have a partner that knows YOUR workforce">}}
-  Today’s workforce is changing and you may not look like the traditional employer of past decades. Our flexible solution works for full time, part time, seasonal, temp and on demand employees! Plus, our mobile-first technology enables employees to complete forms from any smart device.
-{{< /staggered_block >}}
+{{% why_workbright_accordion %}}
 
 <div class='clearfix'></div>
 

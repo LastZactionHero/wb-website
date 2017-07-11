@@ -1,0 +1,101 @@
+@import "_variables.css";
+
+:root {
+  --chevron-size: 0.8rem;
+}
+
+.accordion {
+  margin: 64px 0px 128px 0px;
+
+  & .card {
+    & .card-header {
+      padding: 36px 24px;
+      position: relative;
+
+      & .chevron {
+        position: absolute;
+        left: 8px;
+        top: 8px;
+        display: block;
+
+        width: var(--chevron-size);
+        height: var(--chevron-size);
+        color: transparent;
+      }
+
+      & .chevron::before {
+        display:block;
+        content:"";
+        width:0;
+        height:0em;
+        border-style:solid;
+        position:absolute;
+      }
+      
+      & .chevron::after {
+        display:block;
+        content:"";
+        width:0;
+        height:0em;
+        border-style:solid;
+        position:absolute;
+      }
+
+      & .chevron::before {
+        right:0;
+        content:"";
+        border-width: var(--chevron-size) var(--chevron-size) 0 var(--chevron-size);
+        border-color: var(--color-blue-bayoux) transparent transparent transparent;
+      }
+
+      & .chevron::after {
+        content:"";
+        left: -0.8rem;
+        border-width: var(--chevron-size) var(--chevron-size) 0rem var(--chevron-size);
+        border-color: var(--color-concrete) transparent transparent transparent;
+        top: -0.2rem;
+      }
+
+
+      & a {
+        display: block;
+        color: var(--color-orange-peel);
+        font-weight: normal;
+        text-decoration: none;
+        text-transform: none; /* TODO: Sort this out with card-header to not have to undo this */
+        padding-left: 30px;
+        position: relative;
+
+        & strong {
+          text-transform: uppercase;
+        }
+      }
+
+      & a.collapsed {
+        color: var(--color-blue-bayoux);
+
+        & .chevron {
+          top: 2px;
+          left: 0px;
+        }
+
+        & .chevron::before {
+          border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
+          border-color:transparent transparent transparent var(--color-blue-bayoux);    
+        }
+
+        & .chevron::after {
+          left: -0.15rem;
+          top: 0px;
+          border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
+          border-color:transparent transparent transparent var(--color-concrete);    
+        }        
+      }
+    }
+
+    & .card-block {
+      padding: 36px 24px;
+      font-size: 1.25rem;
+    }
+  }
+}

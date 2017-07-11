@@ -7,6 +7,7 @@
 @import "_variables.css";
 @import "_type";
 
+@import "_accordion";
 @import "_buttons";
 @import "_card";
 @import "_dropdown";
@@ -20,7 +21,6 @@
 @import "components/_dropdown_nav";
 @import "components/_info_tabs";
 @import "components/_logos_card";
-@import "components/_staggered_block";
 @import "components/_testimonial_carousel";
 @import "components/_tour";
 @import "components/_video_embed";
