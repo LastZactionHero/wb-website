@@ -1,5 +1,8 @@
+@import "../_variables.css";
+
 .logos-card {
   margin-bottom: 128px;
+  padding-bottom: 48px;
 
   & h2 {
     margin: 16px 0px;
@@ -18,6 +21,13 @@
       @media(--viewport-md-up) {
         padding: 20px;
       }
+    }
+  }
+
+  & .card-block {
+    & a {
+      font-size: 1.2rem;
+      color: var(--color-orange-peel); /* TODO: Orange color also used in a.ext- standarize?  */
     }
   }
 }

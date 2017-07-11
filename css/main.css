@@ -132,7 +132,7 @@ body {
 a.ext {
   display: block;
   margin: 24px 0px 36px 0px;
-  color: var(--color-orange-peel);
+  color: var(--color-orange-peel); /* Also used on logo card link */
   font-size: 1.2rem;
 }
 
