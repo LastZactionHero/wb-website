@@ -67,6 +67,7 @@
   --btn-chevron-width: 4px;
 }
 
+/* Also defined in Javascript _viewports.js. Update Javascript if modified. */
 @custom-media --viewport-xs (max-width: 575px);
 @custom-media --viewport-sm (max-width: 767px);
 @custom-media --viewport-md (max-width: 991px);

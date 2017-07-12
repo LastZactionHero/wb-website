@@ -43,11 +43,14 @@ $(".rotate").textrotator({
   speed: 4000 // How many milliseconds until the next word show. 
 });
 
- $(window).scroll(function(x,y,z) {
-   if(document.body.scrollTop > 48) { 
+// Fixed position navbar, place higher up on screen along with scroll
+ $(window).scroll(function() {
+   const scrollThreshold = 48;
+
+   if(document.body.scrollTop > scrollThreshold) { 
       $('.navbar').addClass('navbar-scrolled');
    } else {
      $('.navbar').removeClass('navbar-scrolled');
-     $('.navbar').css('margin-top', 48 - document.body.scrollTop);
+     $('.navbar').css('margin-top', scrollThreshold - document.body.scrollTop);
    }
  });
