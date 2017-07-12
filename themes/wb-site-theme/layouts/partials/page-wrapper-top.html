@@ -5,6 +5,8 @@
   <body>
     <div class='legacy-browser-fold-gradient'></div>
 
+    {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
+
     <div class='site-content'>
       <div class='stripe-background-container'>
         <div class='stripe-background'>
@@ -16,7 +18,6 @@
         </div>
       </div>
 
-      {{ partial "main-navbar" (dict "menu" .Site.Menus.main "page" .) }}
       <section id="main" class="container">
         <div class='row'>
           <div class='col-md-10 offset-md-1'>

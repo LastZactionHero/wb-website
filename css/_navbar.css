@@ -1,14 +1,19 @@
 @import "_variables.css";
 
 .navbar-scrolled {
-  background-color: var(--color-orange-peel);
+  background: var(--background-gradient-orange);
   margin-top: 0px !important;
   padding-top: 12px;
 }
 
-.navbar-light {
-  transition: all .25s ease;
-  
+.navbar {
+  & .container {
+    @media(--viewport-xs) {
+      margin-left: 0px;
+      margin-right: 0px;
+    }
+  }
+
   color: var(--color-white);
 
   margin-bottom: 84px;
@@ -22,12 +27,12 @@
     height: 44px;
     width: 100px;
     background-repeat: no-repeat;
-    background-size: 102%;
-    background-position: 0px -24px;
+    background-size: 100%;
+    background-position: 0px -26px;
 
     @media (--viewport-md) {
-      background-size: 102%;
-      background-position: 0px -30px;
+      background-size: 100%;
+      background-position: 0px -32px;
     }
   }
 

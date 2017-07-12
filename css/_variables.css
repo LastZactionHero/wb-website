@@ -39,17 +39,19 @@
   
   /* Standard Item Colors */
   --color-box-shadow: var(--color-black-transparent-30);
+  --background-gradient-orange-start: var(--color-orange-peel);
+  --background-gradient-orange-end: var(--color-christine);
+  --background-gradient-orange: linear-gradient(90deg, var(--background-gradient-orange-start), var(--background-gradient-orange-end));
 
+  /* Buttons */
   --color-btn-primary-background: var(--color-flamingo);  
   --color-btn-primary-text: var(--color-white);
   --color-btn-primary-background-hover: var(--color-orange-roughy);
   --color-btn-primary-text-hover: var(--color-white);
-
   --color-btn-secondary-background: var(--color-white);
   --color-btn-secondary-text: var(--color-flamingo);
   --color-btn-secondary-background-hover: var(--color-concrete);
   --color-btn-secondary-text-hover: var(--color-flamingo);
-
   --color-btn-info-background: var(--color-pine-green);;
   --color-btn-info-text: var(--color-white);
   --color-btn-info-background-hover: var(--color-blue-stone);

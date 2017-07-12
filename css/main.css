@@ -42,7 +42,7 @@ body {
     position: absolute;
     height: 100vh;
     width: 100%;
-    background: linear-gradient(var(--color-orange-peel) 0px, var(--color-christine) 100%);
+    background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
   }
 }
 
@@ -115,7 +115,7 @@ body {
 
 .stripe-background :nth-child(1) {
   grid-column: span 10;
-  background: linear-gradient(90deg, var(--color-orange-peel), var(--color-christine));
+  background: var(--background-gradient-orange);
 }
 
 .stripe-background :nth-child(2) {
