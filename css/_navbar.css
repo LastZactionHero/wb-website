@@ -3,10 +3,12 @@
 .navbar-scrolled {
   background-color: var(--color-orange-peel);
   margin-top: 0px !important;
+  padding-top: 12px;
 }
 
 .navbar-light {
   transition: all .25s ease;
+  
   color: var(--color-white);
 
   margin-bottom: 84px;

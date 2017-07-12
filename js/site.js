@@ -44,9 +44,10 @@ $(".rotate").textrotator({
 });
 
  $(window).scroll(function(x,y,z) {
-   if(document.body.scrollTop > 200) { 
-      $('.navbar').addClass('navbar-scrolled',10000);
+   if(document.body.scrollTop > 48) { 
+      $('.navbar').addClass('navbar-scrolled');
    } else {
-     $('.navbar').removeClass('navbar-scrolled',1000);
+     $('.navbar').removeClass('navbar-scrolled');
+     $('.navbar').css('margin-top', 48 - document.body.scrollTop);
    }
  });
