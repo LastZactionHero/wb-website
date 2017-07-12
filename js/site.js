@@ -42,3 +42,11 @@ $(".rotate").textrotator({
   separator: ",", // If you don't want commas to be the separator, you can define a new separator (|, &, * etc.) by yourself using this field. 
   speed: 4000 // How many milliseconds until the next word show. 
 });
+
+ $(window).scroll(function(x,y,z) {
+   if(document.body.scrollTop > 200) { 
+      $('.navbar').addClass('navbar-scrolled',10000);
+   } else {
+     $('.navbar').removeClass('navbar-scrolled',1000);
+   }
+ });

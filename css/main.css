@@ -31,7 +31,7 @@
 
 body {
   background-color: var(--color-blue-lagoon);
-
+  margin-top: 192px;
   display: flex;
   min-height: 100vh;          /* Make sure atleast a full display so footer sticks to bottom */
   flex-direction: column;
@@ -95,7 +95,7 @@ body {
 */
 .stripe-background-container {
   position: absolute;
-  top: 0px;
+  top: -192px;
   height: 100%;
   width: 100%;
   overflow: hidden;
