@@ -1,0 +1,97 @@
+@import "../_variables.css";
+
+:root {
+  --testimonial-stack-logo-height: 150px;
+}
+
+.testimonial-stack {
+  display: flex;
+  flex-direction: row;
+  @media (--viewport-md) {
+    flex-direction: column;
+  }
+  position: relative;
+  margin-bottom: 72px;
+  
+  /* Applies a box shadow around the complete stack */
+  /* Style is applied here to adjust for the image overhang */
+  & .testimonial-stack-bg {
+    @media (--viewport-md) {
+      display: none; /* Don't apply to container when vertically aligned */
+    }
+
+    position: absolute;
+    top: var(--testimonial-stack-logo-height);
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    box-shadow: 0px 0px 12px var(--color-box-shadow);
+  }
+
+  & .testimonial {
+    flex: 1;
+    position: relative;
+    margin-top: var(--testimonial-stack-logo-height);
+    margin-left: 2px; /* Small gap between cards */
+    padding: calc(var(--testimonial-stack-logo-height) / 2 + 48px) 16px 36px 16px;
+
+    background-color: var(--color-white);
+    color: var(--color-blue-bayoux);
+
+    & .logo-wrapper {
+      position: absolute;
+      background-color: transparent;
+      width: 100%;
+      top: calc(0 - var(--testimonial-stack-logo-height) / 2);
+      height: var(--testimonial-stack-logo-height);
+    }
+
+    & .logo-backdrop {
+      position: relative;
+      background-color: white;
+      margin-left: auto;
+      margin-right: auto;
+
+      width: 50%;
+      @media (--viewport-md) {
+        width: 25%;
+      }
+      @media (--viewport-xs) {
+        width: 50%;
+      }
+      height: var(--testimonial-stack-logo-height);
+
+      border-radius: 16px;
+      box-shadow: 0px 0px 12px var(--color-box-shadow);
+
+      & .logo {
+        position: absolute;
+        left: 0px;
+        right: 0px;
+        top: 0px;
+        bottom: 0px;
+        background-repeat: no-repeat;
+        background-size: 75%;
+        background-position: 50% 50%;                
+      }
+    }
+
+    & .short-quote {
+      color: var(--color-flamingo);
+      font-size: 1.2rem;
+      margin-bottom: 36px;
+    }
+
+    & .full-quote {
+      font-size: 1.1rem;
+      margin-bottom: 36px;
+    }
+
+    & .person {
+      font-size: 0.75rem;
+      & .company {
+        margin-top: 12px;
+      }
+    }
+  }
+}

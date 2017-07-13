@@ -23,6 +23,8 @@
 @import "components/_info_tabs";
 @import "components/_logos_card";
 @import "components/_testimonial_carousel";
+@import "components/_testimonial_large";
+@import "components/_testimonial_stack";
 @import "components/_tour";
 @import "components/_video_embed";
 

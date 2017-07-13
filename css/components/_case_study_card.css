@@ -4,10 +4,22 @@
   box-shadow: 0px 0px 12px var(--color-box-shadow);
   padding: 24px;
   margin-bottom: 64px;
+  position: relative;
 
   & .card-block {
     & h2 {
+      position: relative;
       margin-top: 0px;
+    }
+
+    /* Display an accent color to the left of the title */
+    & h2:before {
+      position: absolute;
+      content: '';
+      left: -45px;
+      width: 12px;
+      top: 0px;
+      height: 100%;
     }
 
     & a.case-study-link {
@@ -23,5 +35,24 @@
     & img {
       max-width: 100%;
     }
+  }
+}
+
+/* Each case study card gets a progressively darker color */
+.card.case-study-card:nth-of-type(1) {
+  & h2:before {
+    background-color: var(--color-orange-peel);
+  }
+}
+
+.card.case-study-card:nth-of-type(2) {
+  & h2:before {
+    background-color: var(--color-christine);
+  }
+}
+
+.card.case-study-card:nth-of-type(3) {
+  & h2:before {
+    background-color: var(--color-flamingo);
   }
 }

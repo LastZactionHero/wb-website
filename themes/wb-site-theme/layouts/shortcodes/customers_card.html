@@ -8,19 +8,20 @@
         <div class='row'>
           {{ range .Site.Menus.customers }}
             <div class='col-md-6 menu-item'>
-              <a href='{{ .URL }}'>{{ .Name }}</a>
+              <a href='{{ .URL }}'><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
             </div>
           {{ end }}
 
-          <div class='col-md-6 menu-item'><a href='#'>Healthcare</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>1099 Workforce</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>HTRM</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>Government</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>Education</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>Staffing</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>Gig Economy</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>Logistics</a></div>
-          <div class='col-md-6 menu-item'><a href='#'>Other</a></div>
+
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-medical'></i>&nbsp;Healthcare</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-1099'></i>&nbsp;1099 Workforce</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-hrtm'></i>&nbsp;HTRM</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-government'></i>&nbsp;Government</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-education'></i>&nbsp;Education</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-staffing'></i>&nbsp;Staffing</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-gig_economy'></i>&nbsp;Gig Economy</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-logistics'></i>&nbsp;Logistics</a></div>
+          <div class='col-md-6 menu-item'><a href='#'><i class='icon-other'></i>&nbsp;Other</a></div>
 
         </div>
       </div>
