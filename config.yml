@@ -92,16 +92,22 @@ menu:
         Parent: "Stay in Touch"
         Identifier: "contact"
         URL: "#"
-      - Name: "X Facebook"
+        Weight: -10
+      - Name: "Twitter"
+        Parent: "Stay in Touch"
+        URL: "https://twitter.com/workbrightHR"
+        Pre: "<i class='icon-twitter'></i>"
+        Weight: -4
+      - Name: "Facebook"
         Parent: "Stay in Touch"
         Identifier: "facebook"
-        URL: "#"
-      - Name: "X Twitter"
-        Parent: "Stay in Touch"
-        Identifier: "twitter"
-        URL: "#"
-      - Name: "X LinkedIn"
+        URL: "https://www.facebook.com/workbright?ref=hl"
+        Pre: "<i class='icon-facebook'></i>"
+        Weight: -5
+      - Name: "LinkedIn"
         Parent: "Stay in Touch"
         Identifier: "linkedin"
-        URL: "#"
+        URL: "https://www.linkedin.com/company/all4staff/"
+        Pre: "<i class='icon-linkedin'></i>"
+        Weight: -2
 
