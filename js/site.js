@@ -44,13 +44,16 @@ $(".rotate").textrotator({
 });
 
 // Fixed position navbar, place higher up on screen along with scroll
- $(window).scroll(function() {
-   const scrollThreshold = 48;
+const adjustNavbar = function() {
+  const scrollThreshold = 48;
 
-   if(document.body.scrollTop > scrollThreshold) { 
-      $('.navbar').addClass('navbar-scrolled');
-   } else {
-     $('.navbar').removeClass('navbar-scrolled');
-     $('.navbar').css('margin-top', scrollThreshold - document.body.scrollTop);
-   }
- });
+  if(document.body.scrollTop > scrollThreshold) { 
+    $('.navbar').addClass('navbar-scrolled');
+  } else {
+    $('.navbar').removeClass('navbar-scrolled');
+    $('.navbar').css('margin-top', scrollThreshold - document.body.scrollTop);
+  }
+}
+// Run on document load (incase it refreshes halfway down) and on scroll
+$(document).ready(function() { adjustNavbar() });
+$(window).scroll(function() { adjustNavbar() });  
