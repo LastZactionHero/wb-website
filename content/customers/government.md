@@ -4,6 +4,7 @@ menu:
   customers:
     name: "Government"
     pre: "icon-government"
+    weight: 7
 title: "See Why Government Uses WorkBright"
 
 logos:

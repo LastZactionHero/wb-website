@@ -4,6 +4,7 @@ menu:
   customers:
     name: "Camps"
     pre: "icon-camp"
+    weight: 1
 title: "See Why Camps Use WorkBright"
 
 logos:

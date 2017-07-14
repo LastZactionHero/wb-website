@@ -1,5 +1,9 @@
 @import "../_variables.css";
 
+:root {
+  --icon-width: 64px;
+}
+
 .customers-card {
   & .card-block {
 
@@ -12,10 +16,17 @@
 
       & a {
         font-size: 1.5rem;
+        padding-left: var(--icon-width);
+        display: block;
+        position: relative;
 
         & i {
+          position: absolute;
+          left: 0px;
+          height: 100%;
+          top: 6px;
           display: inline-block;
-          width: 64px;
+          width: var(--icon-width); 
           text-align: center;
         }
       }

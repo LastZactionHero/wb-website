@@ -4,6 +4,7 @@ menu:
   customers:
     name: "Other"
     pre: "icon-other"
+    weight: 10
 title: "See Why Other Industries Uses WorkBright"
 
 logos:

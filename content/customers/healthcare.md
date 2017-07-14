@@ -4,6 +4,7 @@ menu:
   customers:
     name: "Healthcare"
     pre: "icon-medical"
+    weight: 8
 title: "See Why the Healthcare Industry Uses WorkBright"
 
 logos:

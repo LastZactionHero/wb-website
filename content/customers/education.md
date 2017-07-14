@@ -4,6 +4,7 @@ menu:
   customers:
     name: "Education"
     pre: "icon-education"
+    weight: 5
 title: "See Why the Education Industry Uses WorkBright"
 
 logos:

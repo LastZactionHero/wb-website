@@ -4,6 +4,7 @@ menu:
   customers:
     name: "1099 Workforce"
     pre: "icon-1099"
+    weight: 4
 title: "See Why the 1099 Workforce Uses WorkBright"
 
 logos:

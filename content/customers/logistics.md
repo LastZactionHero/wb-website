@@ -4,6 +4,7 @@ menu:
   customers:
     name: "Logistics"
     pre: "icon-logistics"
+    weight: 2
 title: "See Why the Logistics Industry Uses WorkBright"
 
 logos:

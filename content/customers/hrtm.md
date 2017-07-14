@@ -2,9 +2,10 @@
 date: 2017-06-20T11:50:27-06:00
 menu:
   customers:
-    name: "HRTM"
+    name: "Hotel, Restaurant, Tourism Management (HRTM)"
     pre: "icon-hrtm"
-title: "See Why the HTRM Industry Uses Workbright"
+    weight: 9
+title: "See Why the HRTM Industry Uses Workbright"
 
 logos:
   - "../placeholder.jpg"
