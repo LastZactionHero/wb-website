@@ -23,7 +23,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/fingertip_signature.mp4" loop />
+        <video src="/videos/made-for-mobile.mp4" loop />
       </div>
     </div>
   </li>
@@ -37,7 +37,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/fingertip_signature.mp4" loop />
+        <video src="/videos/fingertip-signatures.mp4" loop />
       </div>
     </div>
   </li>
@@ -51,7 +51,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/photo_upload.mp4" loop />
+        <video src="/videos/photo-upload.mp4" loop />
       </div>
     </div>
   </li>
@@ -65,7 +65,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/automated_email_reminders.mp4" />
+        <video src="/videos/automated-email-reminders.mp4" />
       </div>
     </div>
   </li>
