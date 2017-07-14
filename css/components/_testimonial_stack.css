@@ -1,7 +1,8 @@
 @import "../_variables.css";
 
 :root {
-  --testimonial-stack-logo-height: 150px;
+  --testimonial-stack-logo-width: 160px;
+  --testimonial-stack-logo-height: 160px;
 }
 
 .testimonial-stack {
@@ -33,14 +34,18 @@
     position: relative;
     margin-top: var(--testimonial-stack-logo-height);
     margin-left: 2px; /* Small gap between cards */
-    padding: calc(var(--testimonial-stack-logo-height) / 2 + 48px) 16px 36px 16px;
-
+    padding: calc(var(--testimonial-stack-logo-height) / 2 + 36px) 16px 36px 16px;
+    
     background-color: var(--color-white);
     color: var(--color-blue-bayoux);
+    @media (--viewport-md) {
+      box-shadow: 0px 0px 12px var(--color-box-shadow); /* Apply the box shadow to individual cards when vertically aligned */
+    }
 
     & .logo-wrapper {
       position: absolute;
       background-color: transparent;
+      left: 0px;
       width: 100%;
       top: calc(0 - var(--testimonial-stack-logo-height) / 2);
       height: var(--testimonial-stack-logo-height);
@@ -52,13 +57,27 @@
       margin-left: auto;
       margin-right: auto;
 
-      width: 50%;
-      @media (--viewport-md) {
-        width: 25%;
+      @media(--viewport-lg-up) {
+        /* background-color: purple; */
       }
+      @media(--viewport-lg) {
+        /* background-color: orange; */
+      }
+
+      @media(--viewport-md) {
+        /* background-color: blue; */
+        margin-left: 16px;
+      }
+      @media (--viewport-sm) {
+        /* background-color: green; */
+        margin-left: 16px;
+      }      
       @media (--viewport-xs) {
-        width: 50%;
+        /* background-color: red; */
+        margin-left: 16px;
       }
+
+      width: var(--testimonial-stack-logo-width);
       height: var(--testimonial-stack-logo-height);
 
       border-radius: 16px;
@@ -71,8 +90,8 @@
         top: 0px;
         bottom: 0px;
         background-repeat: no-repeat;
-        background-size: 75%;
-        background-position: 50% 50%;                
+        background-size: 80%;
+        background-position: 50% 50%;        
       }
     }
 
@@ -80,6 +99,7 @@
       color: var(--color-flamingo);
       font-size: 1.2rem;
       margin-bottom: 36px;
+      font-weight: bold;
     }
 
     & .full-quote {
@@ -89,9 +109,6 @@
 
     & .person {
       font-size: 0.75rem;
-      & .company {
-        margin-top: 12px;
-      }
     }
   }
 }

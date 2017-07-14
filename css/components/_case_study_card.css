@@ -3,7 +3,7 @@
 .card.case-study-card {
   box-shadow: 0px 0px 12px var(--color-box-shadow);
   padding: 24px;
-  margin-bottom: 64px;
+  margin-bottom: 32px;
   position: relative;
 
   & .card-block {
