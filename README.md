@@ -1,5 +1,15 @@
 # Workbright Website
 
+## Setup
+```
+# Install Hugo
+brew update
+brew install hugo
+
+# Install NPM packages
+yarn install
+```
+
 ## Start App for Development
 
 ```npm start```
