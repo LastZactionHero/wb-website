@@ -1,0 +1,8 @@
+@import "../_variables.css";
+
+a.section-return {
+  display: block;
+  color: var(--color-white);
+  text-transform: uppercase;
+  margin: 12px 0px; 
+}

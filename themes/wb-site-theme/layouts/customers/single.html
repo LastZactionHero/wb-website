@@ -1,13 +1,60 @@
 {{ partial "page-wrapper-top" . }}
 
-<h1>{{ .Title }}</h1>
-  <div class='customer'>
-    {{ .Content }}
-    <div class='logos'>
-      {{ range .Params.logos }}
-          <div class='logo' style='background-image: url("/images/customers/{{ . }}")'></div>
-      {{ end }}
+<h1>See Why the {{ .Title }} Industry Uses WorkBright</h1>
+
+<a class='section-return' href='/customers'>View all industries</a>
+
+<div class='customer'>
+  {{ .Content }}
+  <div class='logos'>
+    {{ range .Params.logos }}
+        <div class='logo' style='background-image: url("/images/customers/{{ . }}")'></div>
+    {{ end }}
+  </div>
+</div>
+
+
+<h2>X Your Organization Size X</h2>
+
+<div class='info-tabs'>
+  <div class='row'>
+    <div class='col-sm-4'>
+      <div class='tab-container'>
+        <ul class="nav nav-tabs" role="tablist">
+          <li class="nav-item">
+            {{ range .Params.info_tabs }}
+              <a class="nav-link {{ if eq .start true}}active{{end}}" data-toggle="tab" href="#{{ .tab_id }}" role="tab">{{ .title }}</a>
+            {{ end }}
+          </li>
+        </ul>
+      </div>
     </div>
+    <div class='col-sm-8'>
+      <div class="tab-content">
+
+        {{ range .Params.info_tabs }}
+          <div class="tab-pane {{ if eq .start true}}active{{end}}" id="{{ .tab_id }}" role="tabpanel">
+            <p>{{ .body }}</p>
+            <ul>
+              {{ range .bullets }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+
+      </div>
+    </div>
+  </div>
+
+  <div class='demo-cta demo-cta-large'>
+    <span class='title'>
+      Ready to try WorkBright?
+    </span>
+    <a class='btn btn-primary' href='/request-a-demo'>Request a Demo</a>
+  </div>
+
 </div>
 
 {{ partial "page-wrapper-bottom" . }}
+

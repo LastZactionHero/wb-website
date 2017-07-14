@@ -1,21 +1,116 @@
 .customer {
-  @media (--viewport-xs) {
-    margin: 0px -16px;
-  }
-
+  margin-bottom: 128px;
   padding: 64px 24px;
   background-color: white;
   color: var(--color-blue-bayoux);
   box-shadow: 0px 0px 12px var(--color-box-shadow);
 
-  & ul {
-    margin-bottom: 24px;
+  @media (--viewport-xs) {
+    margin: 0px -16px 128px -16px;
+  }
 
-    & li {
+
+  & .benefit {
+    margin-bottom: 24px;
+    padding: 24px;
+
+    @media(--viewport-sm) {
+      border-bottom: 1px solid var(--color-silver-chalice);
+    }
+
+    & .title {
+      float: left;
+      position: relative;
+      display: inline-block;
+
+      width: 50%;
+      @media(--viewport-sm) {
+        width: 100%;
+      }
+
+      font-weight: bold;
       font-size: 1.25rem;
-      margin-bottom: 20px;
+      margin-bottom: 16px;
+    }
+
+    & .title:before {
+      position: absolute;
+      content: '';
+      left: -48px;
+      width: 12px;
+      top: 0px;
+      height: 100%;
+    }
+
+    & p {
+      width: 50%;
+      @media(--viewport-sm) {
+        width: 100%;
+      }
+      display: inline-block;
+      float: left;
+    }
+    & img {
+      width: 50%;
+      box-shadow: var(--standard-box-shadow);
+      @media(--viewport-sm) {
+        width: 100%;
+      }
+      display: inline-block;
+      float: right;
+      margin-right: -96px;
+      border-radius: 16px;
+      @media(--viewport-sm) {
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+
+      }
     }
   }
+
+  & .benefit:nth-of-type(1) {
+    & .title:before {
+      background-color: var(--color-orange-peel);
+    }
+  }
+  & .benefit:nth-of-type(2) {
+    & .title:before {
+      background-color: var(--color-christine);
+    }
+  }
+  & .benefit:nth-of-type(3) {
+    & .title:before {
+      background-color: var(--color-orange-roughy);
+    }
+  }
+  
+  & .benefit:nth-of-type(even) {
+    & .title {
+      float: right;
+    }
+
+    @media(--viewport-md-up) {
+      & .title:before {
+        right: -48px;
+        left: auto;
+      }
+    }
+
+    & p {
+      float: right;
+    }
+    & img {
+      float: left;
+      margin-left: -96px;
+      margin-right: auto;
+      @media(--viewport-sm) {
+        margin-left: 0px;
+        margin-right: 0px;
+      }
+    }
+  }
+
 
   & .customers-quote {
     margin: 60px -64px 48px -64px;

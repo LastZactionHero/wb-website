@@ -58,6 +58,7 @@
   --color-btn-info-text-hover: var(--color-white);
 
 
+  --standard-box-shadow: 0px 0px 12px var(--color-box-shadow);
 
   --font-size-p: 1.25rem;
 
@@ -65,6 +66,8 @@
   --btn-chevron-right-padding: 48px;
   --btn-chevron-right-offset: 20px;
   --btn-chevron-width: 4px;
+  
+  --chevron-size: 0.8rem;
 }
 
 /* Also defined in Javascript _viewports.js. Update Javascript if modified. */
