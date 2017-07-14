@@ -1,7 +1,5 @@
 @import "_variables.css";
 
-/* TODO: Refactor chevron out of accordion if used again */
-
 .accordion {
   margin: 64px 0px 128px 0px;
 
@@ -9,51 +7,6 @@
     & .card-header {
       position: relative;
       padding: 0px;
-
-      & .chevron {
-        position: absolute;
-        top: 44px;
-        left: 36px;
-        display: block;
-
-        width: var(--chevron-size);
-        height: var(--chevron-size);
-        color: transparent;
-      }
-
-      & .chevron::before {
-        display:block;
-        content:"";
-        width:0;
-        height:0em;
-        border-style:solid;
-        position:absolute;
-      }
-      
-      & .chevron::after {
-        display:block;
-        content:"";
-        width:0;
-        height:0em;
-        border-style:solid;
-        position:absolute;
-      }
-
-      & .chevron::before {
-        right:0;
-        content:"";
-        border-width: var(--chevron-size) var(--chevron-size) 0 var(--chevron-size);
-        border-color: var(--color-blue-bayoux) transparent transparent transparent;
-      }
-
-      & .chevron::after {
-        content:"";
-        left: -0.8rem;
-        border-width: var(--chevron-size) var(--chevron-size) 0rem var(--chevron-size);
-        border-color: var(--color-concrete) transparent transparent transparent;
-        top: -0.2rem;
-      }
-
 
       & a {
         color: var(--color-blue-bayoux);
@@ -74,29 +27,31 @@
       }
 
       & a.collapsed {
-        color: var(--color-blue-bayoux);
-
-        & .chevron {
-          top: 38px;
-          left: 30px;
-        }
-
-        & .chevron::before {
-          border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
-          border-color:transparent transparent transparent var(--color-blue-bayoux);    
-        }
-
-        & .chevron::after {
-          left: -0.15rem;
-          top: 0px;
-          border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
-          border-color:transparent transparent transparent var(--color-concrete);    
-        }        
+        color: var(--color-blue-bayoux);      
       }
 
       & a.collapsed:hover {
         color: var(--color-orange-peel);
       }
+    }
+
+
+    & .card-header a::before {
+      display:block;
+      content: "\e914";
+      font-family: 'icomoon' !important;
+      width:0;
+      position:absolute;
+      top: 40px;  
+      left: 20px;
+      font-size: 1rem;
+    }
+
+    & .card-header a.collapsed::before {
+      content: "\e916";
+      font-size: 1.8rem;
+      left: 26px;
+      top: 32px;
     }
 
     & .card-block {

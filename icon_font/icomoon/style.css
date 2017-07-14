@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?phlman');
-  src:  url('fonts/icomoon.eot?phlman#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?phlman') format('truetype'),
-    url('fonts/icomoon.woff?phlman') format('woff'),
-    url('fonts/icomoon.svg?phlman#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?dgpyqk');
+  src:  url('fonts/icomoon.eot?dgpyqk#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dgpyqk') format('truetype'),
+    url('fonts/icomoon.woff?dgpyqk') format('woff'),
+    url('fonts/icomoon.svg?dgpyqk#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +24,24 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-chevron-left:before {
+  content: "\e90c";
+}
+.icon-chevron-down:before {
+  content: "\e914";
+}
+.icon-chevron-up:before {
+  content: "\e915";
+}
+.icon-chevron-right:before {
+  content: "\e916";
+}
+.icon-other:before {
+  content: "\e911";
+}
+.icon-gig-economy:before {
+  content: "\e913";
+}
 .icon-1099:before {
   content: "\e909";
 }
@@ -32,9 +50,6 @@
 }
 .icon-education:before {
   content: "\e90b";
-}
-.icon-gig_economy:before {
-  content: "\e90c";
 }
 .icon-government:before {
   content: "\e90d";
@@ -47,9 +62,6 @@
 }
 .icon-medical:before {
   content: "\e910";
-}
-.icon-other:before {
-  content: "\e911";
 }
 .icon-staffing:before {
   content: "\e912";

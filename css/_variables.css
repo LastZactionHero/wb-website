@@ -63,11 +63,6 @@
   --font-size-p: 1.25rem;
 
   --btn-transition: all .15s ease;
-  --btn-chevron-right-padding: 48px;
-  --btn-chevron-right-offset: 20px;
-  --btn-chevron-width: 4px;
-  
-  --chevron-size: 0.8rem;
 }
 
 /* Also defined in Javascript _viewports.js. Update Javascript if modified. */

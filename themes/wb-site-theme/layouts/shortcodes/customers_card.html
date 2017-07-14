@@ -8,7 +8,7 @@
         <div class='row'>
           {{ range .Site.Menus.customers }}
             <div class='col-md-6 menu-item'>
-              <a href='{{ .URL }}'><i class="{{ .Pre }}"></i>&nbsp;{{ .Name }}</a>
+              <a href='{{ .URL }}'><i class="{{ .Pre }}"></i><span>{{ .Name }}</span></a>
             </div>
           {{ end }}
         </div>

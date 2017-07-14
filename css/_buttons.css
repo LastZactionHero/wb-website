@@ -58,72 +58,16 @@
 /* Chevron - Base */
 .btn-chevron {
   position: relative;
-  padding-right: var(--btn-chevron-right-padding);
-}
-
-.btn-chevron::before, .btn-chevron::after {
-  display:block;
-  content:"";
-  width:0;
-  height:0em;
-  border-style:solid;
-  position:absolute;
-  top: 10px;
-  right: var(--btn-chevron-right-offset);
+  padding-right: 48px;
 }
 
 .btn-chevron::before {
-  content:"";
-  border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
-  
-}
-
-.btn-chevron::after {
-  transition: var(--btn-transition);
-  content:"";
-  right: calc(var(--btn-chevron-right-offset) + var(--btn-chevron-width));
-  border-width: var(--chevron-size) 0 var(--chevron-size) var(--chevron-size);
-}
-
-
-/* Primary Button Chevron */
-.btn-primary.btn-chevron::before {
-  border-color: transparent transparent transparent var(--color-btn-primary-text);
-}
-.btn-primary.btn-chevron::after {
-  border-color: transparent transparent transparent var(--color-btn-primary-background);
-}
-.btn-primary.btn-chevron:hover::before, .btn-primary.btn-chevron:active::before {  
-  border-color: transparent transparent transparent var(--color-btn-primary-text-hover);
-}
-.btn-primary.btn-chevron:hover::after, .btn-primary.btn-chevron:active::after {  
-  border-color: transparent transparent transparent var(--color-btn-primary-background-hover);  
-}
-
-/* Secondary Button Chevron */
-.btn-secondary.btn-chevron::before {
-  border-color: transparent transparent transparent var(--color-btn-secondary-text);
-}
-.btn-secondary.btn-chevron::after {
-  border-color: transparent transparent transparent var(--color-btn-secondary-background);
-}
-.btn-secondary.btn-chevron:hover::before, .btn-secondary.btn-chevron:active::before {  
-  border-color: transparent transparent transparent var(--color-btn-secondary-text-hover);
-}
-.btn-secondary.btn-chevron:hover::after, .btn-secondary.btn-chevron:active::after {  
-  border-color: transparent transparent transparent var(--color-btn-secondary-background-hover);
-}
-
-/* Info Button Chevron */
-.btn-info.btn-chevron::before {
-  border-color: transparent transparent transparent var(--color-btn-info-text);
-}
-.btn-info.btn-chevron::after {
-  border-color: transparent transparent transparent var(--color-btn-info-background);
-}
-.btn-primary.btn-chevron:hover::before, .btn-primary.btn-chevron:active::before {  
-  border-color: transparent transparent transparent var(--color-btn-info-text-hover);
-}
-.btn-info.btn-chevron:hover::after, .btn-info.btn-chevron:active::after {  
-  border-color: transparent transparent transparent var(--color-btn-info-background-hover);
+  display:block;
+  content: "\e916";
+  font-family: 'icomoon' !important;
+  width:0;
+  height: 100%;
+  position:absolute;
+  top: 13px; 
+  right: 30px;;
 }
