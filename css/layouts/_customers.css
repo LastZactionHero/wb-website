@@ -3,7 +3,7 @@
   padding: 64px 24px;
   background-color: white;
   color: var(--color-blue-bayoux);
-  box-shadow: 0px 0px 12px var(--color-box-shadow);
+  box-shadow: var(--standard-box-shadow);
 
   @media (--viewport-xs) {
     margin: 0px -16px 128px -16px;
@@ -120,7 +120,7 @@
       padding: 48px 24px;
     }
 
-    box-shadow: 0px 0px 12px var(--color-box-shadow);
+    box-shadow: var(--standard-box-shadow);
 
     background-color: white;
 

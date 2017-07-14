@@ -132,7 +132,7 @@ body {
 }
 
 .paper {
-  box-shadow: 0px 0px 12px var(--color-box-shadow);
+  box-shadow: var(--standard-box-shadow);
   background-color:var(--color-white);
   padding: 24px 48px;
 }
