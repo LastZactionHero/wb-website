@@ -4,7 +4,7 @@ menu:
   customers:
     name: "Healthcare"
     pre: "icon-medical"
-title: "Healthcare"
+title: "See Why the Healthcare Industry Uses WorkBright"
 
 logos:
   - "../placeholder.jpg"

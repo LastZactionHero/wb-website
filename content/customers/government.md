@@ -4,7 +4,7 @@ menu:
   customers:
     name: "Government"
     pre: "icon-government"
-title: "Government"
+title: "See Why Government Uses WorkBright"
 
 logos:
   - "../placeholder.jpg"

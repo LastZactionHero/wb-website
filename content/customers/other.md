@@ -4,7 +4,7 @@ menu:
   customers:
     name: "Other"
     pre: "icon-other"
-title: "Other"
+title: "See Why Other Industries Uses WorkBright"
 
 logos:
   - "../placeholder.jpg"

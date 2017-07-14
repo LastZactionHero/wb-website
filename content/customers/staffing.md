@@ -4,7 +4,7 @@ menu:
   customers:
     name: "Staffing"
     pre: "icon-staffing"
-title: "Staffing"
+title: "See Why the Staffing Industry Uses WorkBright"
 
 logos:
   - "../placeholder.jpg"

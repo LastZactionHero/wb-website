@@ -4,7 +4,7 @@ menu:
   customers:
     name: "HRTM"
     pre: "icon-hrtm"
-title: "Hotel, Restaurant, Tourism Management"
+title: "See Why the HTRM Industry Uses Workbright"
 
 logos:
   - "../placeholder.jpg"

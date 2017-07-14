@@ -4,7 +4,7 @@ menu:
   customers:
     name: "Gig Economy"
     pre: "icon-gig-economy"
-title: "Gig Economy"
+title: "See Why the Gig Economy Uses WorkBright"
 
 logos:
   - "../placeholder.jpg"

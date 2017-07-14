@@ -4,7 +4,7 @@ menu:
   customers:
     name: "Logistics"
     pre: "icon-logistics"
-title: "Logistics"
+title: "See Why the Logistics Industry Uses WorkBright"
 
 logos:
   - "../placeholder.jpg"
