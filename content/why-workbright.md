@@ -19,7 +19,7 @@ title: "Why Workbright"
 ## How is WorkBright Different?
 
 <div class='text-center'>
-  <a href='#' class='btn btn-info ext btn-chevron'>X Download Our Digital Onboarding Buyers Guide! X<a>
+  <a href='#' class='btn btn-info ext btn-chevron btn-text-wrap'>X Download Our Digital Onboarding Buyers Guide! X<a>
 </div>
 
 <div class='info-tabs'>

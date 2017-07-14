@@ -71,3 +71,12 @@
   top: 13px; 
   right: 30px;;
 }
+
+.btn-text-wrap {
+  white-space: normal;
+}
+.btn-text-wrap.btn-chevron::before {
+  @media(--viewport-md) {
+    display: none; /* Hide the chevron on smaller views. Unable to control chevron vertical placement if multi-line. Fixme? */
+  }
+}
