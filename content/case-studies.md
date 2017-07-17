@@ -1,9 +1,14 @@
 ---
 date: 2017-06-20T11:49:34-06:00
 title: "Case Studies"
+menu:
+  footer:
+    name: "Case Studies"
+    parent: "Resources"
+
 ---
 
-# See Why Organizations of All Types Use WorkBright
+# Case Studies
 
 {{< case_study_card title="Boulder Housing Partners" image_src="/customers/boulder-housing-partners.jpeg" >}}
 The Boulder Housing Partners HR team was juggling multiple systems before deciding to streamline their 50-page new hire paperwork packet. After implementing WorkBright, they have gained back training time, eliminated the headache of open enrollment and received overwhelmingly positive responses from new employees!
