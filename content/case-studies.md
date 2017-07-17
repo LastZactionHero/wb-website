@@ -10,16 +10,16 @@ menu:
 
 # Case Studies
 
-{{< case_study_card title="Boulder Housing Partners" image_src="/customers/boulder-housing-partners.jpeg" >}}
+{{< case_study_card title="Boulder Housing Partners" image_src="/customers/boulder-housing-partners.jpeg" download_url="/case-studies/Boulder-Housing-Partners-Case-Study.pdf">}}
 The Boulder Housing Partners HR team was juggling multiple systems before deciding to streamline their 50-page new hire paperwork packet. After implementing WorkBright, they have gained back training time, eliminated the headache of open enrollment and received overwhelmingly positive responses from new employees!
 {{< /case_study_card >}}
 
-{{< case_study_card title=" Boy Scouts of America – Denver" image_src="/customers/boyscouts-denver.jpeg" >}}
+{{< case_study_card title=" Boy Scouts of America – Denver" image_src="/customers/boyscouts-denver.jpeg" download_url="/case-studies/BSA-Denver-Web.pdf">}}
 With over 200 seasonal employees being hired each year to staff their summer camp, Megan Houghton and the team at BSA_Denver chose WorkBright to replace their manual, paper-based onboarding process with a streamlined, digital process that has shaved days off of their auditing and onboarding workload.
 {{< /case_study_card >}}
 
 {{< case_study_card title="Avid4 Adventure" image_src="/customers/camp-avid.jpg" >}}
-Avid4 Adventure is one of WorkBright’s founding clients who helped us build the platform. In this recorded webinar, you’ll get an inside look at how Avid4 Adventure leverages WorkBright for onboarding, licensing & ACA visits, background checks, and much more.
+XX NO LINK XX<br/><br/>Avid4Adventure is one of WorkBright’s founding clients who helped us build the platform. In this recorded webinar, you’ll get an inside look at how Avid4 Adventure leverages WorkBright for onboarding, licensing & ACA visits, background checks, and much more.
 {{< /case_study_card >}}
 
 {{< demo_cta size="large" message="Ready to try WorkBright?" >}}

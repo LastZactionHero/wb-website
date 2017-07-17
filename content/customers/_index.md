@@ -80,7 +80,7 @@ title: "Customers"
 
 ## Featured Case Study
 
-{{< case_study_card title="Boulder Housing Partners" image_src="/customers/boulder-housing-partners.jpeg" >}}
+{{< case_study_card title="Boulder Housing Partners" image_src="/customers/boulder-housing-partners.jpeg" download_url="/case-studies/Boulder-Housing-Partners-Case-Study.pdf" >}}
 The Boulder Housing Partners HR team was juggling multiple systems before deciding to streamline their 50-page new hire paperwork packet. After implementing WorkBright, they have gained back training time, eliminated the headache of open enrollment and received overwhelmingly positive responses from new employees!
 {{< /case_study_card >}}
 
