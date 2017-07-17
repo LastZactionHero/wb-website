@@ -4,6 +4,9 @@ menu:
   main:
     name: "Customers"
     weight: 4
+  footer:
+    name: "By Industry"
+    parent: "Customers"
 title: "Customers"
 ---
 

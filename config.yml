@@ -40,10 +40,6 @@ menu:
         URL: "#"
         Weight: 5
 
-      - Name: "X By Industry"
-        Parent: "Customers"
-        Identifier: "customers"
-        URL: "#"
       - Name: "X Regulated"
         Parent: "Customers"
         Identifier: "regulated"
