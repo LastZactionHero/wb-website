@@ -8,9 +8,9 @@ menu:
 title: "See Why Government Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "government-san-ramon.png"
+  - "government-montrose.png"
+  - "government-deltona.jpg"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year
@@ -45,4 +45,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="Very Easy to Use" name="Laura Rocchio" organization="Administrative Specialist, Foothills Park & Recreation District" photo="placeholder.jpg" >}}All staff forms are at your fingertips and easy to access! WorkBright is easy to use as it is very user friendly. The quality of the images are good as well. {{< /customers_quote >}}
+{{< customers_quote title="Very Easy to Use" name="Laura Rocchio" organization="Administrative Specialist, Foothills Park & Recreation District" photo="people/laura-rocchio.jpg" >}}All staff forms are at your fingertips and easy to access! WorkBright is easy to use as it is very user friendly. The quality of the images are good as well. {{< /customers_quote >}}

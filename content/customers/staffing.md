@@ -8,9 +8,9 @@ menu:
 title: "See Why the Staffing Industry Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "staffing-platinum.jpg"
+  - "staffing-usa-management.png"
+  - "staffing-xtech.gif"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year

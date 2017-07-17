@@ -8,9 +8,9 @@ menu:
 title: "See Why the Gig Economy Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "gig-shiftgig.png"
+  - "gig-nyff.png"
+  - "gig-lasso.png"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year
@@ -53,4 +53,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="So Easy to Use!" name="Jade Martin" organization="Data Integration Specialist, Shiftgig" photo="placeholder.jpg" >}}WorkBright has really helped our business with onboarding efficiently. Our Account Manager is amazing! He always gets it done regardless of how menial the task.{{< /customers_quote >}}
+{{< customers_quote title="So Easy to Use!" name="Jade Martin" organization="Data Integration Specialist, Shiftgig" photo="people/jade-martin.jpg" >}}WorkBright has really helped our business with onboarding efficiently. Our Account Manager is amazing! He always gets it done regardless of how menial the task.{{< /customers_quote >}}

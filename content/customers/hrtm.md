@@ -8,9 +8,9 @@ menu:
 title: "See Why the HRTM Industry Uses Workbright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "hrtm-hotel-group.png"
+  - "hrtm-verant.png"
+  - "hrtm-andale.jpg"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year
@@ -45,4 +45,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="A Wonderful Partnership" name="Isabel Dreher" organization="VP of Human Resources, The Hotel Group" photo="placeholder.jpg" >}}Today was a <strong>HUGE success!</strong> This is the first time we have EVER had our Team Members loaded into the Time Clock on DAY 1! Some fun quotes from our newest Team Members about the onboarding process: ‘I hate technology but I love this!’; ‘That was painless!’ WorkBright has been a <strong>wonderful partnership</strong> and we look forward to the future! {{< /customers_quote >}}
+{{< customers_quote title="A Wonderful Partnership" name="Isabel Dreher" organization="VP of Human Resources, The Hotel Group" photo="people/isabel-dreher.jpg" >}}Today was a <strong>HUGE success!</strong> This is the first time we have EVER had our Team Members loaded into the Time Clock on DAY 1! Some fun quotes from our newest Team Members about the onboarding process: ‘I hate technology but I love this!’; ‘That was painless!’ WorkBright has been a <strong>wonderful partnership</strong> and we look forward to the future! {{< /customers_quote >}}

@@ -8,9 +8,9 @@ menu:
 title: "See Why the 1099 Workforce Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "1099-newkirk.jpg"
+  - "1099-ctec.jpg"
+  - "1099-c-l.jpg"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year

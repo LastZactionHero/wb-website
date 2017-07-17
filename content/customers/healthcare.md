@@ -8,9 +8,9 @@ menu:
 title: "See Why the Healthcare Industry Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "healthcare-childrens.jpg"
+  - "healthcare-allegiance.png"
+  - "healthcare-goldleaf.png"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year
@@ -45,4 +45,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="Very Versatile" name="Charlene Womack" organization="HR Manager, Essence of Care" photo="placeholder.jpg" >}}I am new at this and each time I use WorkBright <strong>I learn more of the dynamics</strong> and capabilities of use!{{< /customers_quote >}}
+{{< customers_quote title="Very Versatile" name="Charlene Womack" organization="HR Manager, Essence of Care" photo="people/charlene-womack.jpg" >}}I am new at this and each time I use WorkBright <strong>I learn more of the dynamics</strong> and capabilities of use!{{< /customers_quote >}}

@@ -8,9 +8,8 @@ menu:
 title: "See Why the Logistics Industry Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "logistics-hogan.jpg"
+  - "logistics-courier.png"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year

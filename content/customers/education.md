@@ -8,9 +8,9 @@ menu:
 title: "See Why the Education Industry Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "education-whitewater.jpg"
+  - "education-crescent.png"
+  - "education-elite.png"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year
@@ -45,4 +45,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="Customer Support Rocks!" name="Stefanie Morgan" organization="Payroll & Benefits Coordinator, Pali Institute" photo="placeholder.jpg" >}}Our company has been with WorkBright for about 2 years now, and I have worked almost exclusively with Peter Holter. I have never had a question remain unanswered!{{< /customers_quote >}}
+{{< customers_quote title="Customer Support Rocks!" name="Stefanie Morgan" organization="Payroll & Benefits Coordinator, Pali Institute" photo="people/stefanie-morgan.jpg" >}}Our company has been with WorkBright for about 2 years now, and I have worked almost exclusively with Peter Holter. I have never had a question remain unanswered!{{< /customers_quote >}}

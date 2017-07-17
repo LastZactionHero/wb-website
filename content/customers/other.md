@@ -8,9 +8,9 @@ menu:
 title: "See Why Other Industries Uses WorkBright"
 
 logos:
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
-  - "../placeholder.jpg"
+  - "other-funflicks.png"
+  - "other-freezeframe.png"
+  - "other-la-chargers.png"
 info_tabs:
   - start: true
     title: Under 50 Hires per Year
