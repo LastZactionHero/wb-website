@@ -22,6 +22,7 @@
     "babel-plugin-transform-class-properties": "^6.10.2",
     "babel-plugin-transform-object-assign": "^6.8.0",
     "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-polyfill": "^6.23.0",
     "babel-preset-es2015": "^6.9.0",
     "babel-register": "^6.11.6",
     "bootstrap-v4-dev": "^4.0.0-alpha.6",

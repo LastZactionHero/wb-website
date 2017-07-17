@@ -2,7 +2,9 @@ import Viewports from "../_viewports";
 
 // Basic horizontal tab scrolling for Info Tabs component
 // Scroll the Info Tabs container horizontally to the selected link
-document.querySelectorAll('.info-tabs .tab-container .nav-link').forEach( (navLink) => {
+var nodeList = document.querySelectorAll('.info-tabs .tab-container .nav-link');
+for(var i = 0; i < nodeList.length; i++) {
+  var navLink = nodeList[i];
   navLink.addEventListener('click', (event) => {
     if(document.body.clientWidth <= Viewports.viewportPxMd) {
       const scrollOffset = 72;
@@ -10,4 +12,4 @@ document.querySelectorAll('.info-tabs .tab-container .nav-link').forEach( (navLi
       $('html,body').animate({scrollTop: scrollTo}, 250);
     }
   });
-});
+}

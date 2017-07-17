@@ -1,0 +1,40 @@
+/* Rotated-grid background is not supported. Instead, use a vertical background gradient one page-height */
+@-moz-document url-prefix() {
+  .legacy-browser-fold-gradient {
+    position: absolute;
+    height: 120vh;
+    width: 100%;
+    margin-top: -530px; 
+    background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
+    transform: skewY(-12deg);
+  }
+}
+
+/* IE 10-11 Support and Corner-Cases */
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  /* Rotated-grid background is not supported. Instead, use a vertical background gradient one page-height */
+  .legacy-browser-fold-gradient {
+    position: absolute;
+    height: 120vh;
+    width: 100%;
+    margin-top: -480px; 
+    background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
+    transform: skewY(-12deg);
+  }
+
+  /* Renders the SVG differently, difference is unknown. Just resizing it */
+  .navbar {
+    & .container {
+      & .navbar-brand {
+        background-size: 200%; 
+        background-position: -48px -20px;
+      }
+    }
+  }
+
+  /* Card is a flexbox, and IE is having issues displaying the size of .card-block correctly with it contains images that are width 100%. */
+  /* Card doesn't need to be a flexbox in these cases, so just use 'block' instead */
+  .card.logos-card, .card.case-study-card {
+     display: block; /* previously flexbox */
+  }
+}

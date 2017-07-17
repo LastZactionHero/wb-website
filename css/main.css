@@ -30,6 +30,8 @@
 @import "components/_section_return";
 
 @import "layouts/_customers";
+@import "_browser_support";
+
 
 
 body {
@@ -39,17 +41,6 @@ body {
   min-height: 100vh;          /* Make sure atleast a full display so footer sticks to bottom */
   flex-direction: column;
 }
-
-@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
-  .legacy-browser-fold-gradient {
-    position: absolute;
-    height: 100vh;
-    width: 100%;
-    background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
-  }
-}
-
-
 
 .site-content {
   flex: 1 0 auto;             /* Site content takes entire view, does not include footer */
@@ -115,10 +106,12 @@ body {
   top: 0px;
   left: 0px;
   right: 0px;
-  display: grid;
+  display: grid; 
+  grid-template-columns: 100px 100px 100px;
   grid: repeat(3, 640px) / repeat(10, 1fr);
   transform: skewY(-12deg);
   transform-origin: 0;
+
 }
 
 .stripe-background :nth-child(1) {

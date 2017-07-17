@@ -1,8 +1,10 @@
 @import "../_variables.css";
 
+
 .logos-card {
   margin-bottom: 128px;
   padding-bottom: 48px;
+
 
   & h2 {
     margin: 16px 0px;
@@ -30,6 +32,9 @@
   }
 
   & .card-block {
+    -ms-flex-positive: auto !important;
+    -ms-flex-negative: auto !important;
+    
     & a {
       font-size: 1.2rem;
       color: var(--color-orange-peel);

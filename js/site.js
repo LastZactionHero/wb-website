@@ -1,3 +1,4 @@
+import "babel-polyfill";
 import "bootstrap-v4-dev";
 import "slick-carousel";
 import "jquery.simple-text-rotator";
@@ -6,6 +7,7 @@ import Appear from "../node_modules/appear/dist/appear.js";
 
 import InfoTabs from "./components/info_tabs";
 import Accordion from "./components/accordion";
+import Browser from "./util/browser";
 
 iFrameResize({});
 
@@ -37,8 +39,9 @@ $(document).ready(function(){
 });
 
 // Rotating text on the home page
+const rotateAnimation = Browser.isInternetExplorer() ? 'fade' : 'flipUp';
 $(".rotate").textrotator({
-  animation: "flipUp", // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin. 
+  animation: rotateAnimation, // You can pick the way it animates when rotating through words. Options are dissolve (default), fade, flip, flipUp, flipCube, flipCubeUp and spin. 
   separator: ",", // If you don't want commas to be the separator, you can define a new separator (|, &, * etc.) by yourself using this field. 
   speed: 4000 // How many milliseconds until the next word show. 
 });
@@ -47,11 +50,14 @@ $(".rotate").textrotator({
 const adjustNavbar = function() {
   const scrollThreshold = 48;
 
-  if(document.body.scrollTop > scrollThreshold) { 
+  // Supports IE - document.documentElement.scrollTop used in IE, document.body.scrollTop used elsewhere
+  const scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop);
+  
+  if(scrollTop > scrollThreshold) { 
     $('.navbar').addClass('navbar-scrolled');
   } else {
     $('.navbar').removeClass('navbar-scrolled');
-    $('.navbar').css('margin-top', scrollThreshold - document.body.scrollTop);
+    $('.navbar').css('margin-top', scrollThreshold - scrollTop);
   }
 }
 // Run on document load (incase it refreshes halfway down) and on scroll
