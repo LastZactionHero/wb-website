@@ -6,5 +6,5 @@
       Ready to get started?
     {{ end }}
   </span>
-  <a class='btn btn-primary' href='/request-a-demo'>Request a Demo</a>
+  <a class='btn btn-primary' href='{{ if .Get "link" }}{{ .Get "link" }}{{ else }}/request-a-demo{{ end }}'>{{ if .Get "button" }}{{ .Get "button" }}{{ else }}Request a Demo{{ end }}</a>
 </div>
