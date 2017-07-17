@@ -28,18 +28,17 @@ menu:
         Parent: "Solutions"
         Identifier: "about"
         URL: "#"
-      - Name: "X Employee Onboarding"
-        Parent: "Solutions"
-        Identifier: "employee_onboarding"
-        URL: "#"
+        Weight: 3
       - Name: "X Security"
         Parent: "Solutions"
         Identifier: "security"
         URL: "#"
+        Weight: 4
       - Name: "X API & Integrations"
         Parent: "Solutions"
         Identifier: "api"
         URL: "#"
+        Weight: 5
 
       - Name: "X By Industry"
         Parent: "Customers"

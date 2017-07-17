@@ -4,6 +4,11 @@ menu:
   main:
     name: "Tour"
     weight: 1
+  footer:
+    name: "Employee Onboarding"
+    parent: "Solutions"
+    weight: 2
+
 title: "Tour"
 ---
 
