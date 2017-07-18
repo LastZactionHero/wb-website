@@ -10,6 +10,9 @@ metaDataFormat: "yaml"
 
 params:
   description: Simplify the HR process with onboarding software solutions by WorkBright. Give employees a better new hire orientation with paperless onboarding.
+  address: 'WorkBright HQ | 1629 Canyon Blvd | Boulder, CO 80302'
+  phone: '844-370-1783'
+  email: 'info@workbright.com'
 
 menu:
   footer:

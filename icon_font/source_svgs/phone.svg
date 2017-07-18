@@ -1,0 +1,14 @@
+<svg width="64" height="121" viewBox="0 0 64 121" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>phone</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1328 -261)">
+<g id="phone">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(1328 261)" fill="#496274"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 53.3333 0L 10.6667 0C 4.62222 0 0 4.62647 0 10.6765L 0 110.324C 0 116.018 4.62222 121 10.6667 121L 53.3333 121C 59.3778 121 64 116.018 64 110.324L 64 10.6765C 64 4.62647 59.3778 0 53.3333 0ZM 32 117.441C 28.0889 117.441 24.8889 114.238 24.8889 110.324C 24.8889 106.409 28.0889 103.206 32 103.206C 35.9111 103.206 39.1111 106.409 39.1111 110.324C 39.1111 114.238 35.9111 117.441 32 117.441ZM 56.8889 99.6471L 7.11111 99.6471L 7.11111 17.7941L 56.8889 17.7941L 56.8889 99.6471Z"/>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<div class='contact-options'>
+  <div class='row'>
+    <div class='col-md-4 text-center'>
+      <i class='icon-address'></i>
+      {{ replace .Site.Params.address "|" "<br/>" | safeHTML }}
+    </div>
+    <div class='col-md-4 text-center'>
+      <i class='icon-phone'></i>
+      {{ .Site.Params.phone }}
+    </div>
+    <div class='col-md-4 text-center'>
+      <i class='icon-email'></i>
+      <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+    </div>
+  </div>
+</div>

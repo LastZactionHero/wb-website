@@ -1,0 +1,14 @@
+.contact-options {
+  padding: 24px 0px;
+  font-weight: bold;
+
+  & i {
+    display: block;
+    margin-bottom: 16px;
+    font-size: 3rem;
+  }
+
+  & a {
+    text-decoration: none;
+  }
+}

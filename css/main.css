@@ -17,6 +17,7 @@
 @import "_slick";
 
 @import "components/_case_study_card";
+@import "components/_contact_options";
 @import "components/_customers_card";
 @import "components/_demo_cta";
 @import "components/_dropdown_nav";
