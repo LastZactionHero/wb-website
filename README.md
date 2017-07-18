@@ -1,4 +1,4 @@
-# Workbright Website
+# WorkBright Website
 
 ## Setup
 ```

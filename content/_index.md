@@ -23,7 +23,7 @@ testimonial_carousel:
 {{% rotating_title message="Paperwork Sucks. Work" endings="Fast.,Smart.,Remote.,Mobile.,Compliant.,Bright." %}}
 
 
-Workbright's digital onboarding solution removes the headache of new hire paperwork and gets employees ready to work BEFORE their first day of work. See how it works here:
+WorkBright's digital onboarding solution removes the headache of new hire paperwork and gets employees ready to work BEFORE their first day of work. See how it works here:
 
 {{< youtube v6KsiexGrg0 >}}
 

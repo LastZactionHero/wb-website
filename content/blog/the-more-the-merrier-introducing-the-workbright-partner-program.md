@@ -1,5 +1,5 @@
 ---
-title: "The More the Merrier: Introducing the Workbright Partner Program"
+title: "The More the Merrier: Introducing the WorkBright Partner Program"
 author: "Chapelle"
 date: 2016-06-22
 tags: [ "company-news", "hr-best-practices", "mission-critical-workforce", "partner", "partner-program", "workbright" ]
@@ -7,11 +7,11 @@ slug: the-more-the-merrier-introducing-the-workbright-partner-program
 ---
 Today, we are very excited to announce the launch of a new Partner Program that will allow YOU to share in WorkBright's success!   
   
-The Workbright Partner Program is a community driven effort, sharing a portion of WorkBright’s revenue with the people that are out in the streets singing our praise and helping other companies go digital with their onboarding.   
+The WorkBright Partner Program is a community driven effort, sharing a portion of WorkBright’s revenue with the people that are out in the streets singing our praise and helping other companies go digital with their onboarding.   
   
-Workbright Partners have unique access to company insights, sales materials, affiliate banners, and direct access to the WorkBright Partnership team. Partners earn 20% revenue for any customers that they recommend and sign up to Workbright.  
+WorkBright Partners have unique access to company insights, sales materials, affiliate banners, and direct access to the WorkBright Partnership team. Partners earn 20% revenue for any customers that they recommend and sign up to WorkBright.  
   
-Know someone that would love Workbright? Or work with clients that could benefit from digital onboarding? [Apply to Workbright’s Partner Program today](https://workbright.growsumo.com)!
+Know someone that would love WorkBright? Or work with clients that could benefit from digital onboarding? [Apply to WorkBright’s Partner Program today](https://workbright.growsumo.com)!
 #### **FAQs**
 Who is the WorkBright Partner Program available to?
 - Organizations working with seasonal, contract, and temporary workforces

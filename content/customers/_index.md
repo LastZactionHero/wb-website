@@ -10,7 +10,7 @@ menu:
 title: "Customers"
 ---
 
-# See Why Our Customers Love Workbright
+# See Why Our Customers Love WorkBright
 
 {{< customers_card >}}
 

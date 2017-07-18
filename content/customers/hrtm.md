@@ -5,7 +5,7 @@ menu:
     name: "Hotel, Restaurant, Tourism Management (HRTM)"
     pre: "icon-hrtm"
     weight: 9
-title: "See Why the HRTM Industry Uses Workbright"
+title: "See Why the HRTM Industry Uses WorkBright"
 
 logos:
   - "hrtm-hotel-group.png"

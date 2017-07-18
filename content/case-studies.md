@@ -83,7 +83,7 @@ XX NO LINK XX<br/><br/>Avid4Adventure is one of WorkBright’s founding clients 
       <div class='short-quote'>"Game Changer"</div>
       <div class='full-quote'>
         <p>We run a multi-location seasonal camp business and used to spend SO much time organizing and chasing paperwork. WorkBright has remedied that situation. Our employees have raved about the ease of the system and I have such peace of mind knowing that I can easily view (from almost anywhere) exactly what is in everyone’s file.</p>
-        <p>It is also incredibly customizable and when we do have questions and/or issues Workbright is immediate in contacting us. They have really thought through the onboarding experience (from both the employer and employee side) and developed something that has made a time-consuming nightmare of a process if I dare-say easy.</p>
+        <p>It is also incredibly customizable and when we do have questions and/or issues WorkBright is immediate in contacting us. They have really thought through the onboarding experience (from both the employer and employee side) and developed something that has made a time-consuming nightmare of a process if I dare-say easy.</p>
       </div>
       <div class='person'>
         <div class='name'>Julia Yosen</div>

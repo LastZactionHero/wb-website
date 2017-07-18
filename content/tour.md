@@ -86,4 +86,4 @@ Digital HR Filing Cabinet: Unlike traditional paper filing cabinets, WorkBright 
 
 Easy Import / Export: We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export information via csv or excel files. If you want something more seamless, you can leverage our API and your technical team to integrate directly to other software platforms.
 
-{{< demo_cta size="large" message="Ready to try Workbright?" >}}
+{{< demo_cta size="large" message="Ready to try WorkBright?" >}}

@@ -136,7 +136,7 @@ Feel free to join us anyway! We'd love for you to see how we're leading the way 
 
 We are so thankful to our current clients and friends of the business who have helped us grow to where we are today. Even better than a thank you, we are now able to SHARE our success with YOU through our new WorkBright Partner Program!  
   
-The [Workbright Partner Program](https://workbright.growsumo.com/app/page) is a community driven effort, sharing a portion of WorkBright’s revenue with those people that are out in the streets singing our praise and helping other companies go digital with their onboarding.   
+The [WorkBright Partner Program](https://workbright.growsumo.com/app/page) is a community driven effort, sharing a portion of WorkBright’s revenue with those people that are out in the streets singing our praise and helping other companies go digital with their onboarding.   
   
 Partners accepted in to the program ([apply here](https://workbright.growsumo.com/app/)) have unique access to company insights, sales materials, affiliate banners, and direct access to the WorkBright Partnership team. Partners earn 20% revenue for any customers that they recommend and sign up to WorkBright.  
   

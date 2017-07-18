@@ -2,13 +2,13 @@
 date: 2017-06-20T11:48:15-06:00
 menu:
   main:
-    name: "Why Workbright"
+    name: "Why WorkBright"
     weight: 2
   footer:
-    name: "Why Workbright"
+    name: "Why WorkBright"
     parent: "Solutions"
     weight: 1
-title: "Why Workbright"
+title: "Why WorkBright"
 ---
 
 # Let’s Get Real… Traditional Onboarding Paperwork Sucks!
@@ -61,7 +61,7 @@ title: "Why Workbright"
           </p>
           <div class='support-profile'>
             <div>Peter Holter</div>
-            <div>Customer Success, Workbright</div>
+            <div>Customer Success, WorkBright</div>
           </div>
         </div>
         <div class="tab-pane" id="mobile-first" role="tabpanel">
