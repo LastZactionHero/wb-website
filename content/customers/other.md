@@ -45,4 +45,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="We Love WorkBright!" name="Danielle Armbruster" organization="HRIS Director, YMCA of Boulder Valley" photo="placeholder.jpg" >}}The system is intuitive, easy to use, great functionality on computers, tables or smart phones. It’s easily customizable to our organization. The customer service is exceptional. We get great feedback from new employees as they onboard. We love WorkBright.{{< /customers_quote >}}
+{{< customers_quote title="We Love WorkBright!" name="Danielle Armbruster" organization="HRIS Director, YMCA of Boulder Valley" photo="people/danielle-armbruster.jpg" >}}The system is intuitive, easy to use, great functionality on computers, tables or smart phones. It’s easily customizable to our organization. The customer service is exceptional. We get great feedback from new employees as they onboard. We love WorkBright.{{< /customers_quote >}}
