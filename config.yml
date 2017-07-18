@@ -86,11 +86,6 @@ menu:
         Identifier: "core_values"
         URL: "#"
 
-      - Name: "X Contact"
-        Parent: "Stay in Touch"
-        Identifier: "contact"
-        URL: "#"
-        Weight: -10
       - Name: "Twitter"
         Parent: "Stay in Touch"
         URL: "https://twitter.com/workbrightHR"
