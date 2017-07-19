@@ -23,12 +23,26 @@ title: "Tour"
     <div class='tour-step-body'>
       <h3>Made for Mobile</h3>
       <p>
-        X WRONG VIDEO X<br/>Today’s modern workforce is constantly connected to their smartphone. That’s why we made WorkBright’s digital onboarding not just ‘mobile friendly’ but mobile FIRST, specifically designed to complete all forms quickly and efficiently from any smart enabled device. Even administrators can approve, reject and countersign I-9s from their mobile device!
+        Today’s modern workforce is constantly connected to their smartphone. That’s why we made WorkBright’s digital onboarding not just ‘mobile friendly’ but mobile FIRST, specifically designed to complete all forms quickly and efficiently from any smart enabled device. Even administrators can approve, reject and countersign I-9s from their mobile device!
       </p>
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
         <video src="/videos/made-for-mobile.mp4" loop />
+      </div>
+    </div>
+  </li>
+
+  <li class='tour-step'>
+    <div class='tour-step-body'>
+      <h3>Applicant Tracking Integration</h3>
+      <p>
+        Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our WorkBright ATS page ***X NO PAGE X***.
+      </p>
+    </div>
+    <div class='tour-step-video-wrapper'>
+      <div class='video-background'>
+        <!-- <video src="" loop /> -->
       </div>
     </div>
   </li>
