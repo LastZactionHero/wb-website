@@ -65,6 +65,10 @@
           padding: 0px 10px;
         }
       }
+
+      & .nav-link:hover {
+        opacity: 1;
+      }
     }
 
     & .nav-item.active {
