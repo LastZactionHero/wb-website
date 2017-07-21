@@ -1,6 +1,6 @@
 ---
 title: WorkBright
-baseURL: "http://workbright.com/"
+baseURL: "http://www.workbright.com/"
 languageCode: "en-us"
 
 theme:          "wb-site-theme"
