@@ -180,7 +180,7 @@ iframe.pardot-form {
   }
 
   /* Fix the size of the rotating word to keep the line of text in place, not readjusting on each change */
-  & .rotate {
+  & .rotate, & .rotate-preload {
     /* Using average between shortest and longest word widths */
     width: 175px; /* Shortest 100px, longest 240px */
     @media(--viewport-xs) {
@@ -192,5 +192,20 @@ iframe.pardot-form {
 
     display: inline-block;
     text-align: left;
+  }
+
+  & .second-phrase-preload {
+    display: none;
+  }
+}
+
+/* Prevent a quick flicker in the title */
+.rotating-title.rotating-title-hidden {
+  & .second-phrase-preload {
+    display: inline-block;
+  }
+
+  & .second-phrase {
+    display: none;
   }
 }
