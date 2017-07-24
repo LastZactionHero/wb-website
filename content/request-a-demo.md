@@ -3,8 +3,6 @@ date: 2017-06-20T11:49:34-06:00
 type: "titled"
 title: "Digital New Hire Onboarding"
 subtitle: "Simplify & automate the onboarding process"
-pardotFormTitle: "Request a Free Demonstration Here!"
-pardotFormUrl: "http://www2.workbright.com/l/81162/2017-07-21/d3q69b"
 ---
 
 <div class='paper'>
