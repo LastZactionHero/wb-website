@@ -26,17 +26,6 @@ menu:
       - Name: "Stay in Touch"
         Weight: 5
 
-      - Name: "X Security"
-        Parent: "Solutions"
-        Identifier: "security"
-        URL: "#"
-        Weight: 4
-      - Name: "X API & Integrations"
-        Parent: "Solutions"
-        Identifier: "api"
-        URL: "#"
-        Weight: 5
-
       - Name: "X Regulated"
         Parent: "Customers"
         Identifier: "regulated"

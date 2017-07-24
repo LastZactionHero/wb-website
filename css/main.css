@@ -208,7 +208,7 @@ iframe.pardot-form {
   }
 }
 
-& .form-bg {
+.form-bg {
   background-color: var(--color-concrete);
   padding: 8px 24px;
   margin-top: -16px;

@@ -1,5 +1,17 @@
 {{ partial "page-wrapper-top" . }}
   <h1>{{ .Title }}</h1>
   <h2>{{ .Params.Subtitle }}</h2>
-  {{ .Content }}
+  <div class='paper'>
+    <div class='row'>
+      <div class='col-md-6'>
+        {{ .Content }}
+      </div>
+      <div class='col-md-6'>
+        <h3 class='text-center'>{{ .Params.pardot_form_cta }}</h3>
+        <div class='form-bg'>
+          <iframe src="{{ .Param.pardot_form_url }}" width="100%" height="500" type="text/html" frameborder="0" allowTransparency="true" style="border: 0" class='pardot-form'></iframe>
+        </div>
+      </div>
+    </div>
+  </div>
 {{ partial "page-wrapper-bottom" . }}

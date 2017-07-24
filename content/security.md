@@ -4,8 +4,8 @@ type: "paper"
 menu:
   footer:
     name: "Security & Privacy"
-    parent: "About"
-    weight: 1
+    parent: "Solutions"
+    weight: 5
 title: "Security & Privacy"
 ---
 
