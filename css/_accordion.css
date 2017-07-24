@@ -57,6 +57,16 @@
     & .card-block {
       padding: 36px 24px;
       font-size: 1.25rem;
+
+      & ul {
+        margin: 48px 0px;
+        padding: 0px;
+        list-style-type: none;
+
+        & li {
+          margin-bottom: 48px;
+        }
+      }
     }
   }
 }

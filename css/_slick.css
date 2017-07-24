@@ -8,11 +8,13 @@
   font-style: normal; 
 }
 
-.slick-dots li.slick-active button:before {
-  color: var(--color-white);
-}
+.slick-carousel-light {
+  & .slick-dots li.slick-active button:before {
+    color: var(--color-white); 
+  }
 
-.slick-dots li button:before {
-  color: var(--color-white-transparent-30);
-  opacity: 1.0
+  & .slick-dots li button:before {
+    color: var(--color-white-transparent-30); 
+    opacity: 1.0 
+  }
 }

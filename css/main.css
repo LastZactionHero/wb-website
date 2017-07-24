@@ -14,8 +14,11 @@
 @import "_dropdown";
 @import "_forms";
 @import "_navbar";
+@import "_paper";
 @import "_slick";
 
+
+@import "components/_image_carousel";
 @import "components/_case_study_card";
 @import "components/_contact_options";
 @import "components/_customers_card";
@@ -125,12 +128,6 @@ body {
   background: linear-gradient(90deg, var(--color-pine-green), var(--color-keppel));
 }
 
-.paper {
-  box-shadow: var(--standard-box-shadow);
-  background-color:var(--color-white);
-  padding: 24px 48px;
-}
-
 /* TODO: Not sure where to put this style. Currently used in one spot, 'Why WorkBright 'page */
 a.ext {
   margin-bottom: 72px;
@@ -208,4 +205,11 @@ iframe.pardot-form {
   & .second-phrase {
     display: none;
   }
+}
+
+& .form-bg {
+  background-color: var(--color-concrete);
+  padding: 8px 24px;
+  margin-top: -16px;
+  border-radius: var(--border-radius);
 }

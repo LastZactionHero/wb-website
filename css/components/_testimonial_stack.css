@@ -80,7 +80,7 @@
       width: var(--testimonial-stack-logo-width);
       height: var(--testimonial-stack-logo-height);
 
-      border-radius: 16px;
+      border-radius: var(--border-radius);
       box-shadow: var(--standard-box-shadow);
 
       & .logo {

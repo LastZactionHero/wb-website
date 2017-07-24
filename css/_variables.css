@@ -63,6 +63,8 @@
   --font-size-p: 1.25rem;
 
   --btn-transition: all .15s ease;
+
+  --border-radius: 16px;
 }
 
 /* Also defined in Javascript _viewports.js. Update Javascript if modified. */

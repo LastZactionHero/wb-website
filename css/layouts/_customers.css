@@ -59,7 +59,7 @@
       display: inline-block;
       float: right;
       margin-right: -96px;
-      border-radius: 16px;
+      border-radius: var(--border-radius);
       @media(--viewport-sm) {
         width: 100%;
         margin-left: 0px;

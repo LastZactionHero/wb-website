@@ -37,7 +37,7 @@ title: "Tour"
     <div class='tour-step-body'>
       <h3>Applicant Tracking Integration</h3>
       <p>
-        Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our WorkBright ATS page ***X NO PAGE X***.
+        Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our <a href="/ats">WorkBright ATS page</a>.
       </p>
     </div>
     <div class='tour-step-video-wrapper'>

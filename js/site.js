@@ -5,6 +5,8 @@ import "jquery.simple-text-rotator";
 import iFrameResize from "../node_modules/iframe-resizer/js/iframeResizer.min.js";
 import Appear from "../node_modules/appear/dist/appear.js";
 
+import Viewports from "./_viewports";
+
 import InfoTabs from "./components/info_tabs";
 import Accordion from "./components/accordion";
 import Browser from "./util/browser";
@@ -31,10 +33,28 @@ window.ap = appear({
 
 // Start any Slick Carousels
 $(document).ready(function(){
-  $('.slick-carousel').slick({
+  // Testimonial Carousel
+  $('.testimonial-carousel .slick-carousel').slick({
     autoplay: true,
     dots: true,
     arrows: false
+  });
+
+  $('.image-carousel .slick-carousel').slick({
+    autoplay: true,
+    dots: true,
+    arrows: false,
+    slidesToShow: 3,
+    slidesToScroll: 3,
+    responsive: [
+      {
+        breakpoint: Viewports.viewportPxSm,
+        settings: {
+          slidesToShow: 1,
+          slidesToScroll: 1
+        }
+      }
+    ]
   });
 });
 

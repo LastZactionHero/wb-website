@@ -22,6 +22,11 @@ ul.tour {
         text-align: left;        
       }
 
+      & p {
+        & a {
+          text-decoration: underline;
+        }
+      }
     }
 
     & .tour-step-image {

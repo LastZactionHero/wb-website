@@ -1,0 +1,13 @@
+<li>
+  <div class='row'>
+    <div class='col-md-{{ with .Get "image"}}8{{ else }}12{{ end }}'>
+      {{ .Inner }}
+    </div>
+
+    {{ if .Get "image"}}
+      <div class='col-md-4'>
+        <img src="/images/{{ .Get "image" }}" width="100%" />
+      </div>
+    {{ end }}
+  </div>
+</li>

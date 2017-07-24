@@ -26,11 +26,6 @@ menu:
       - Name: "Stay in Touch"
         Weight: 5
 
-      - Name: "X Applicant Tracking System"
-        Parent: "Solutions"
-        Identifier: "about"
-        URL: "#"
-        Weight: 3
       - Name: "X Security"
         Parent: "Solutions"
         Identifier: "security"

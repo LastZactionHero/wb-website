@@ -1,0 +1,7 @@
+.image-carousel {
+  & .slide {
+    & img {
+      width: 100%;
+    }
+  }
+}
