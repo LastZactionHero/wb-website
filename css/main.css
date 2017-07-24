@@ -214,3 +214,11 @@ iframe.pardot-form {
   margin-top: -16px;
   border-radius: var(--border-radius);
 }
+
+.image-aligned-left {
+  margin-right: 16px;
+}
+
+.image-aligned-right {
+  margin-right: 16px;
+}
