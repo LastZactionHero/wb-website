@@ -9,7 +9,6 @@ title: "See Why Other Industries Uses WorkBright"
 
 logos:
   - "other-funflicks.png"
-  - "other-freezeframe.png"
   - "other-la-chargers.png"
 info_tabs:
   - start: true
