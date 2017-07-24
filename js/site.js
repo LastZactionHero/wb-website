@@ -2,6 +2,7 @@ import "babel-polyfill";
 import "bootstrap-v4-dev";
 import "slick-carousel";
 import "jquery.simple-text-rotator";
+import "featherlight";
 import iFrameResize from "../node_modules/iframe-resizer/js/iframeResizer.min.js";
 import Appear from "../node_modules/appear/dist/appear.js";
 

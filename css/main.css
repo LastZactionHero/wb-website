@@ -4,6 +4,7 @@
 @import "slick-carousel/slick/slick-theme.css";
 @import "jquery.simple-text-rotator/simpletextrotator.css";
 @import "../icon_font/icomoon/style.css";
+@import "featherlight/release/featherlight.min.css";
 
 @import "_variables.css";
 @import "_type";
