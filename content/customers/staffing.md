@@ -53,4 +53,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="WorkBright has made our job so much easier!" name="Sarah Horner Fish" organization="Executive Director, Tom Sawyer Camps" photo="placeholder.jpg" >}}… as well as our employees jobs! I love how quickly we get our staff paperwork back! Staff are filling our new hire forms with a much quicker turn around time and the customer service is great! {{< /customers_quote >}}
+{{< customers_quote title="WorkBright has made our job so much easier!" name="Sarah Horner Fish" organization="Executive Director, Tom Sawyer Camps" photo="people/sarah-fish.jpg" >}}… as well as our employees jobs! I love how quickly we get our staff paperwork back! Staff are filling our new hire forms with a much quicker turn around time and the customer service is great! {{< /customers_quote >}}

@@ -52,4 +52,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="X" name="X" organization="X" photo="placeholder.jpg" >}}X{{< /customers_quote >}}
+{{< customers_quote title="Love WorkBright!" name="Katie Feenstra" organization="Payroll Administrator, Blue Iron" >}}The system is easy to use and my guys in the field easily understand it. They are out in the field and are not computer savvy. We love the system. Takes away from mounds of paperwork.{{< /customers_quote >}}

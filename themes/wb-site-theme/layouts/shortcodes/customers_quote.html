@@ -2,7 +2,9 @@
   <h2>{{ .Get "title" }}</h2>
   <p>&quot;{{ .Inner }}&quot;</p>
   <div class='attribution'>
+    {{ if .Get "photo" }}
     <div class='photo' style='background-image: url("/images/{{ .Get "photo" }}")'></div>
+    {{ end }}
     <div class='details'>
       <div>{{ .Get "name" }}</div>
       <div>{{ .Get "organization" }}</div>
