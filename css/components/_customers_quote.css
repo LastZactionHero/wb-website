@@ -20,7 +20,7 @@
 
   & p {
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: normal;
 
     @media (--viewport-xs) {
       text-align: center;
