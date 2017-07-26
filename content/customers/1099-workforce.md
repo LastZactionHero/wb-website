@@ -45,4 +45,4 @@ info_tabs:
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
 {{< /customer_benefit >}}
 
-{{< customers_quote title="I Love WorkBright!" name="Allison Tierney" organization="Human Resources Specialist, Charter Township of Independence" photo="placeholder.jpg" >}}It is so easy to use and makes the hiring process more efficient. The web form feature is helpful of our employees and I love the ability to sign multiple I-9s.{{< /customers_quote >}}
+{{< customers_quote title="I Love WorkBright!" name="Allison Tierney" organization="Human Resources Specialist, Charter Township of Independence" >}}It is so easy to use and makes the hiring process more efficient. The web form feature is helpful of our employees and I love the ability to sign multiple I-9s.{{< /customers_quote >}}
