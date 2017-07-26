@@ -1,0 +1,18 @@
+<svg width="134" height="138" viewBox="0 0 134 138" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>communication-tools</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="matrix(2 0 0 2 2764 -244)">
+<g id="communication-tools">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-1382 122)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-1358.38 135.463)" fill="#496274"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 33.5 0L 0 21.878L 0 69L 67 69L 67 21.878L 33.5 0ZM 27.9725 48.5524L 33.5 52.1707L 38.86 48.7207L 59.1275 64.7927L 7.5375 64.7927L 27.9725 48.5524ZM 4.1875 62.1L 4.1875 32.9854L 24.2875 46.1122L 4.1875 62.1ZM 42.545 46.2805L 62.8125 32.9854L 62.8125 62.3524L 42.545 46.2805ZM 33.5 5.04878L 62.8125 24.2341L 62.8125 28.1049L 33.5 47.122L 4.1875 28.0207L 4.1875 24.15L 33.5 5.04878Z"/>
+<path id="path1_fill" d="M 19.765 15.8195L 16.75 12.7902L 11.9762 17.6707L 11.9762 0L 7.78875 0L 7.78875 17.6707L 3.015 12.7902L 6.38962e-07 15.8195L 9.8825 25.6646L 19.765 15.8195Z"/>
+</defs>
+</svg>
