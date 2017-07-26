@@ -1,0 +1,35 @@
+<svg width="201" height="201" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>noun_916729_cc</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1280 -163)">
+<g id="noun_916729_cc">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(1280 163)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(1392.32 192.559)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(1415.97 192.559)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(1439.62 192.559)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1321.38 263.5)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(1404.15 263.5)" fill="#496274"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(1362.76 263.5)" fill="#496274"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 183.265 0L 17.7353 0C 7.94068 0 0 7.94068 0 17.7353L 0 183.265C 0 193.059 7.94068 201 17.7353 201L 183.265 201C 193.059 201 201 193.059 201 183.265L 201 17.7353C 201 7.94068 193.059 0 183.265 0ZM 183.265 183.265L 17.7353 183.265L 17.7353 65.0294L 183.265 65.0294L 183.265 183.265ZM 183.265 53.2059L 17.7353 53.2059L 17.7353 17.7353L 183.265 17.7353L 183.265 53.2059Z"/>
+<path id="path1_fill" d="M 11.8235 0L 0 0L 0 11.8235L 11.8235 11.8235L 11.8235 0Z"/>
+<path id="path2_fill" d="M 11.8235 35.4706L 23.6471 35.4706L 23.6471 47.2941L 35.4706 47.2941L 35.4706 0L 23.6471 0L 23.6471 23.6471L 11.8235 23.6471L 11.8235 0L 0 0L 0 23.6471C 0 30.1666 5.30404 35.4706 11.8235 35.4706Z"/>
+<path id="path3_fill" d="M 17.7353 47.2941C 27.5157 47.2941 35.4706 39.3393 35.4706 29.5588L 35.4706 17.7353C 35.4706 7.95487 27.5157 0 17.7353 0C 7.95487 0 0 7.95487 0 17.7353L 0 29.5588C 0 39.3393 7.95487 47.2941 17.7353 47.2941ZM 11.8235 17.7353C 11.8235 14.4767 14.4767 11.8235 17.7353 11.8235C 20.9939 11.8235 23.6471 14.4767 23.6471 17.7353L 23.6471 29.5588C 23.6471 32.8174 20.9939 35.4706 17.7353 35.4706C 14.4767 35.4706 11.8235 32.8174 11.8235 29.5588L 11.8235 17.7353Z"/>
+</defs>
+</svg>
