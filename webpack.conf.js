@@ -1,5 +1,6 @@
 const path = require("path");
 const webpack = require("webpack");
+var CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
   module: {
@@ -35,7 +36,10 @@ module.exports = {
     }),
     new webpack.ProvidePlugin({
       Tether: "tether",
-    })
+    }),
+    new CopyWebpackPlugin([
+      { from: 'dist/404/index.html', to: '../404.html' }, // Copy the 404 page to the root directory
+    ])
   ],
 
   context: __dirname,
