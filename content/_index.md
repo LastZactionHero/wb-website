@@ -41,7 +41,7 @@ WorkBright's digital onboarding solution removes the headache of new hire paperw
         <a class="dropdown-item" href="/tour">Onboarding</a>
         <a class="dropdown-item" href="/ats">Online Applications (ATS)</a>
         <a class="dropdown-item" href="/tour">ATS + Onboarding</a>
-        <a class="dropdown-item" href="#">X - Not Sure</a>
+        <a class="dropdown-item" href="/request-a-demo">Not Sure</a>
         <a class="dropdown-item" href="https://app.workbright.com">I’m a new employee looking to onboard</a>
       </div>
     </div>
