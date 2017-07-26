@@ -4,7 +4,7 @@ type: "landing"
 title: "Free Flip Book"
 subtitle: "Retaining Your Best Seasonal Employees!"
 pardot_form_cta: "Get Your Copy"
-pardot_form_url: "http://www2.workbright.com/l/81162/2017-07-21/d3q69b"
+pardot_form_url: "http://www2.workbright.com/l/81162/2015-10-14/cbr6z"
 ---
 
 ## Free Flip Book
