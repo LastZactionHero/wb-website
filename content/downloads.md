@@ -1,6 +1,10 @@
 ---
 date: 2017-06-20T11:49:34-06:00
 type: "titled"
+menu:
+  footer:
+    name: "Free Downloads"
+    parent: "Resources"
 title: "FREE HR RESOURCES"
 subtitle: "Click on a topic below to learn more and download your copy!"
 pardot_form_cta: "Enter Your Information Here To Reserve Your Seat!"
