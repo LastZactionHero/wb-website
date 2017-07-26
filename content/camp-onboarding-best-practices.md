@@ -35,6 +35,8 @@ The seasonal staff that represents your camp all summer long has a unique set of
 - Rehiring and engaging through the off season
 - Q&A: Ask you burning onboarding, culture, and retention questions to industry experts!
 
+---
+
 **Co-Presenter:** David Secunda, Co-Founder & CEO of WorkBright
 
 {{% image_aligned src="/images/landing/david-secunda.jpg" align="left" width="128px" %}}

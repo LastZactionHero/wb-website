@@ -18,13 +18,13 @@ For rapidly hiring companies, finding qualified candidates in bulk can be a labo
 
 Join us to explore how the digital age has changed the game of recruiting to BE a marketing and branding practice. Learn how your marketing team can help drive the recruiting pipeline through social media channels and walk away with best practices and 12+ tactics  you can implement to expose your brand and drive new hires!
 
-“This eBook taught me how to work with my marketing team to drive the recruiting pipeline. Social media is a game changer for HR professionals that can’t be ignored.”
+_“This eBook taught me how to work with my marketing team to drive the recruiting pipeline. Social media is a game changer for HR professionals that can’t be ignored.”_
 
 ### 3 Things you will learn:
 
 **1. How to divide up the tasks and gain buy-in between HR and Marketing.**
 
-“Your marketing team can help you out in a major way if you know when to reach out and how to approach it. Having clearly defined goals and some understanding of your expectations and channels can go a long way towards creating a successful recruiting strategy via social media.”
+_“Your marketing team can help you out in a major way if you know when to reach out and how to approach it. Having clearly defined goals and some understanding of your expectations and channels can go a long way towards creating a successful recruiting strategy via social media.”_
 
 {{% image_aligned src="/images/landing/socialrecruting-book-open.png" align="right" width="128px" %}}
 

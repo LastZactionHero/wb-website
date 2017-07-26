@@ -16,7 +16,8 @@ pardot_form_url: "http://www2.workbright.com/l/81162/2017-07-21/d3q69b"
 
 As HR professionals, we are GUARDIANS of vast amounts of personal and sensitive data. Yet how many HR professionals have received prior training in Information Security Awareness? Our polls indicate that it’s less than 10%. Unfortunately, this gap comes from historic thought processes that security and data privacy are largely IT issues. As we will illustrate, that is no longer the case. It only takes ONE piece of personally identifying information to steal an identity… and think about how many social security numbers you’ve seen!
 
-“An exploration in to the modern day challenges HR professionals may not even know they are facing! Plus some great tips on how to keep yourself and your employees safe. A must read!”
+
+_“An exploration in to the modern day challenges HR professionals may not even know they are facing! Plus some great tips on how to keep yourself and your employees safe. A must read!”_
 
 ### 3 Things You Will Learn:
 

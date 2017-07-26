@@ -35,16 +35,9 @@ With WorkBright’s new ATS you can find qualified candidates with ease, enable 
 
 **How to Attend:** Enter your information in the form to the left and an email will be sent with log in information!
 
---- 
+---
 
-{{% image_aligned src="/images/landing/circle-dave.png" align="left" width="128px" %}}
-**Co-Presenter:** 
-
-David Secunda
-
-Co-Founder & CEO of WorkBright
-<div class='clearfix'></div>
-
+{{% about_dave title="About the Presenter" %}}
 
 ---
 ### Ready to Take Hiring to the Next Level?
