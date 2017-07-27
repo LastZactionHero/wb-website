@@ -35,23 +35,9 @@ title: "Tour"
 
   <li class='tour-step'>
     <div class='tour-step-body'>
-      <h3>Applicant Tracking Integration</h3>
-      <p>
-        Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our <a href="/ats">WorkBright ATS page</a>.
-      </p>
-    </div>
-    <div class='tour-step-video-wrapper'>
-      <div class='video-background'>
-        <!-- <video src="" loop /> -->
-      </div>
-    </div>
-  </li>
-
-  <li class='tour-step'>
-    <div class='tour-step-body'>
       <h3>Fingertip Signature</h3>
       <p>
-        A typed “signature” in a generic font isn’t a best practice for legal or federal forms. WorkBright utilizes best-in-class e-signature technology by fingertip on a smartphone or by mouse on a computer, making sure the signature on your forms looks the same as the employee’s pen signature. This decreases your liability of signatures not being accepted in a court of law so you can sleep better at night!
+        A typed "signature" in a generic font isn’t a best practice for legal or federal forms. WorkBright utilizes best-in-class e-signature technology by fingertip on a smartphone or by mouse on a computer, making sure the signature on your forms looks the same as the employee’s pen signature. This decreases your liability of signatures not being accepted in a court of law so you can sleep better at night!
       </p>
     </div>
     <div class='tour-step-video-wrapper'>
@@ -84,20 +70,75 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/automated-email-reminders.mp4" />
+        <video src="/videos/automated-email-reminders.mp4" loop />
       </div>
     </div>
   </li>
 
+  <li class='tour-step'>
+    <div class='tour-step-body'>
+      <h3>Smart I-9</h3>
+      <p>
+      I-9 compliance is a major concern for all HR departments. With WorkBright’s Smart I-9™, we guide your employees through this otherwise complicated form in an easy-to-follow wizard format with field validation to ensure proper completion. Administrators can even countersign I-9s one-by-one or in bulk on the first day of work!
+      </p>
+    </div>
+    <div class='tour-step-video-wrapper'>
+      <div class='video-background'>
+        <video src="/videos/smart-i9.mp4" loop />
+      </div>
+    </div>
+  </li>
 </ul>
 
+<div>
+  <h3>Employee Error Resolution</h3>
+  <p>
+    WorkBright helps ensure your employee files are accurate and up to date in two ways. First, we incorporate field validation to help avoid errors up front. Next, if an employee does submit something that is incorrect, our error correction workflow is pre-configured with automatic emails telling them what is wrong and how to fix it, as well as follow up reminders until it is resubmitted.
+  </p>
+</div>
+<div class="desktop-video-background">
+  <video loop src="/videos/error-resolution.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</div>
 
-## Digital HR Filing Cabinet
+<div>
+  <h3>Digital HR Filing Cabinet</h3>
+  <p>
+    Unlike traditional paper filing cabinets, WorkBright gives you full visibility into each employee’s file from any internet connected device. Knowing instantly if an employee has missing or out of date information means you can get the issue corrected and rest easy knowing you are ready for an audit at any time!
+  </p>
+</div>
+<div class="desktop-video-background">
+  <video loop src="/videos/hr-filing-cabinet.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</div>
 
-Digital HR Filing Cabinet: Unlike traditional paper filing cabinets, WorkBright gives you full visibility into each employee’s file from any internet connected device. Knowing instantly if an employee has missing or out of date information means you can get the issue corrected and rest easy knowing you are ready for an audit at any time!
+<div>
+  <h3>Easy Import/Export</h3>
+  <p>
+    We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export information via csv or excel files. If you want something more seamless, you can leverage our API and your technical team to integrate directly to other software platforms.
+  </p>
+</div>
+<div class="desktop-video-background">
+  <video loop src="/videos/bulk-import.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</div>
 
-## Easy Import / Export
+<div>
+  <h3>Reporting</h3>
+  <p>
+    WorkBright allows you to drill down to the FIELD level on all your employees information! Use our sophisticated reporting tools to create directories, see who has out of date certificates, and filter on any information your employees have submitted through their new hire paperwork.
+  </p>
+</div>
+<div class="desktop-video-background">
+  <video loop src="/videos/reporting.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</div>
 
-Easy Import / Export: We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export information via csv or excel files. If you want something more seamless, you can leverage our API and your technical team to integrate directly to other software platforms.
+<div>
+  <h3>Applicant Tracking Integration</h3>
+  <p>
+    Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our WorkBright ATS page (link). 
+  </p>
+</div>
 
 {{< demo_cta size="large" message="Ready to try WorkBright?" >}}

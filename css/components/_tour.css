@@ -112,3 +112,63 @@ ul.tour {
     }
   }
 }
+
+
+/* TODO: should this belong within tour steps? */
+.desktop-video-background {
+  position: relative;
+  background-image: url("/images/video-background-desktop.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0px auto;
+  
+  @media(--viewport-sm) {
+    width: 510px;
+    height: 432px;
+  }
+
+
+  @media(--viewport-sm-up) {
+    width: 100%;
+    height: 400px;
+  }
+
+  @media(--viewport-md-up) {
+    width: 100%;
+    height: 530px;
+  }
+
+  @media(--viewport-lg-up) {
+    width: 100%;
+    height: 670px;
+  }
+
+  
+  & video {
+    position: absolute;
+    
+    @media(--viewport-sm) {
+      left: 61px;
+      top: 24px;
+      width: 389px;
+    }
+
+    @media(--viewport-sm-up) {
+      left: 68px;
+      top: 27px;
+      width: 434px;
+    }
+
+    @media(--viewport-md-up) {
+      left: 92px;
+      top: 37px;
+      width: 586px;
+    }
+
+    @media(--viewport-lg-up) {
+      left: 110px;
+      top: 43px;
+      width: 702px;
+    }
+  }
+}
