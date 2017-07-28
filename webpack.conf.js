@@ -39,6 +39,9 @@ module.exports = {
     }),
     new CopyWebpackPlugin([
       { from: 'dist/404/index.html', to: '../404.html' }, // Copy the 404 page to the root directory
+    ]),
+    new CopyWebpackPlugin([
+      { from: '_redirects', to: '../_redirects', toType: 'file' }, // Copy the _redirects file to the root dist directory
     ])
   ],
 
