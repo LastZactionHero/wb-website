@@ -2,12 +2,16 @@
 title: "SHRM Wrap-up: 4 Takeaways You Need To Know!"
 author: "Chapelle"
 date: 2015-07-30
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: shrm-wrap-up-4-takeaways-you-need-to-know
+description: The 4 key takeaways you must need to know during SHRM is here! Read more about our blog at www.workbright/blog.
 ---
 _By: David Secunda, Co-founder & CEO at All4Staff_   
   
- ![events_shrm_2015_feature_275px](http://199wez4890xh3ngg6h11bnnm.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/events_shrm_2015_feature_275px-150x150.jpg)It was great to meet so many of you at the Society for Human Resource Managers (SHRM) conference in Las Vegas! At All4Staff, we pride ourselves on being on the forefront of the HR industry. To keep up with our rapidly changing world, it is critical that we attend conferences, talk face-to-face with real HR managers, and invest in our own education on a daily basis. With that in mind, let me start by saying this year’s conference did NOT disappoint! From the exhibit hall to the sessions and panels, this year’s conference delivered the latest and greatest from HR managers across the country.  
+ ![events_shrm_2015_feature_275px](/images/blog/shrm-wrap-up-4-takeaways-you-need-to-know/events_shrm_2015_feature_275px-150x150.jpg)It was great to meet so many of you at the Society for Human Resource Managers (SHRM) conference in Las Vegas! At All4Staff, we pride ourselves on being on the forefront of the HR industry. To keep up with our rapidly changing world, it is critical that we attend conferences, talk face-to-face with real HR managers, and invest in our own education on a daily basis. With that in mind, let me start by saying this year’s conference did NOT disappoint! From the exhibit hall to the sessions and panels, this year’s conference delivered the latest and greatest from HR managers across the country.  
   
 With so much quality content coming out of the show, it can be a bit overwhelming to digest it all. So I’ve spent the last week pouring over my notes to come up with 4 key takeaways to share with those that were not have been able to join us in Las Vegas. Unfortunately, I couldn’t be at every session, so if you were at the show and have anything to add, please leave it in the comments box and we’ll add to this post as contributions are made!  
   
@@ -20,7 +24,7 @@ With so much quality content coming out of the show, it can be a bit overwhelmin
 - States, like California, have historically had stricter applications of FSLA. You will need to dig in to your state standards and continue to adhere to the stricter standards.
 **Takeaway #2:**  **Minimum Wage is Increasing**  
   
-[![Minimum wage will increase](http://199wez4890xh3ngg6h11bnnm.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/pay-raise1-300x130.jpg)](http://199wez4890xh3ngg6h11bnnm.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/pay-raise1.jpg)  
+[![Minimum wage will increase](/images/blog/shrm-wrap-up-4-takeaways-you-need-to-know/pay-raise1-300x130.jpg)](http://199wez4890xh3ngg6h11bnnm.wpengine.netdna-cdn.com/wp-content/uploads/2015/07/pay-raise1.jpg)  
   
 Changes in both local and federal minimum wage laws are rapidly unfolding. Many municipalities, such as San Francisco, have stricter minimum wage laws in place that must be followed if you have employees working there. It is your responsibility to be aware of both the federal and local requirements, as well as how these apply to situations such as wilderness guiding where an employee’s on/off hours could come into question.  
   

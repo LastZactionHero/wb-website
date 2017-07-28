@@ -2,12 +2,20 @@
 title: "HR Vocabulary: Boomerang Employee"
 author: "Chapelle"
 date: 2016-03-09
-tags: [ "boomerang-employees", "hiring", "hr-best-practices", "returning-employees", "vocabulary" ]
+tags:
+  - "boomerang-employees"
+  - "hiring"
+  - "returning-employees"
+  - "vocabulary"
+categories:
+  - "hr-best-practices"
+  - "vocabulary"
 slug: hr-vocabulary-boomerang-employee
+description: If a former employee of your company who left on good terms applies for an open position, should you hire them back? Learn more about Boomerang Employees
 ---
 If a former employee of your company who left on good terms applies for an open position, should you hire them back? Many companies don’t, but perhaps a better question would be, “Why wouldn’t you?”  
   
-**[![shutterstock_160799519](https://workbright.com/wp-content/uploads/2016/03/shutterstock_160799519-300x200.jpg)](https://workbright.com/wp-content/uploads/2016/03/shutterstock_160799519.jpg)Definition**  
+**[![shutterstock_160799519](/images/blog/hr-vocabulary-boomerang-employee/shutterstock_160799519-300x200.jpg)](https://workbright.com/wp-content/uploads/2016/03/shutterstock_160799519.jpg)Definition**  
   
 **Boomerang Employee:** workers who are part of the company and then leave, but want to come back later. It’s not uncommon for employees to have to leave work for family reasons, like needing to care for an elderly parent or move when a spouse gets transferred out of state. So clearly, if they are a great part of your team, you’d love to have them back when they are again available.  
   
@@ -23,7 +31,7 @@ With that much moving around going on, HR professionals will always have personn
   
 **How to Treat Them**  
   
-[![shutterstock_94198198](https://workbright.com/wp-content/uploads/2016/03/shutterstock_94198198-300x200.jpg)](https://workbright.com/wp-content/uploads/2016/03/shutterstock_94198198.jpg)Treating returning employees like they have been on a long leave makes sense in some ways, but if the time away is very long, they may need to go through the whole orientation and onboarding process again. They should expect to have to get caught up and the organization should support that. It can be presented as your way of making sure they are current on all the latest information, and have some time to reacclimate.  
+[![shutterstock_94198198](/images/blog/hr-vocabulary-boomerang-employee/shutterstock_94198198-300x200.jpg)](https://workbright.com/wp-content/uploads/2016/03/shutterstock_94198198.jpg)Treating returning employees like they have been on a long leave makes sense in some ways, but if the time away is very long, they may need to go through the whole orientation and onboarding process again. They should expect to have to get caught up and the organization should support that. It can be presented as your way of making sure they are current on all the latest information, and have some time to reacclimate.  
   
 It's important to note that there may be some awkward differences, such as a former subordinate now being their supervisor, so care should be taken to make sure everyone’s job description is clear, and management should let the current supervisor know that there are no plans to displace them.  
   

@@ -2,8 +2,12 @@
 title: "New Image Editor - August 2016"
 author: "Chapelle"
 date: 2016-08-25
-tags: [ "workbright-wire" ]
+tags:
+
+categories:
+  - "workbright-wire"
 slug: new-image-editor-august-2016
+description: 
 ---
 
 
@@ -25,7 +29,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | <!-- // Begin Template Header \ -->
 
-| <!-- // Begin Module: Standard Header Image \ --> ![](http://www2.workbright.com/l/81162/2015-12-02/n89vb/81162/27821/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
+| <!-- // Begin Module: Standard Header Image \ --> ![](/images/blog/new-image-editor-august-2016/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
 
 <!-- // End Template Header \ --> |
 | <!-- // Begin Template Body \ -->
@@ -38,7 +42,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | |
 | |
-| ![](https://pi.pardot.com/images/addthis/16x16/email.png) | 
+| ![](/images/blog/new-image-editor-august-2016/email.png) | 
 [Forward to a Friend](%%addthis_url_email%%)
  |
 
@@ -57,7 +61,7 @@ New Image EditorLink RoundupFree HRO Today WebinarNews & AnnouncementsWorkBright
   
 
  |
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psp3/81162/10596/did_you_know.png)
+| ![](/images/blog/new-image-editor-august-2016/did_you_know.png)
 
 **I-9 is OUT of the Inbox!**
 
@@ -71,24 +75,24 @@ The old I-9 had you reviewing them in the Forms Review Inbox and rejecting anywh
 
 The filters here will default to showing you all the incomplete I-9s. Check the names of anyone whose documents you’d like to review,  
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/3242hw/81162/56492/i_9_1.png)  
+ ![](/images/blog/new-image-editor-august-2016/i_9_1.png)  
   
 Then verify that the documents the new hire is presenting match the documents they’ve brought with them for inspection.
 
-![](http://www2.workbright.com/l/81162/2016-08-03/3242j1/81162/56496/1_9_2.png)  
+![](/images/blog/new-image-editor-august-2016/1_9_2.png)  
   
 If they’ve miskeyed anything, select “Edit Documentation” (circled) in the upper right.  
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/3242j3/81162/56498/1_9_3.png)The information in section 1 will pull directly from their employee profile and should be error free. If you do want to review it for extra assurance, simply click on the “View Form” button on the I-9 Selection screen,
+ ![](/images/blog/new-image-editor-august-2016/1_9_3.png)The information in section 1 will pull directly from their employee profile and should be error free. If you do want to review it for extra assurance, simply click on the “View Form” button on the I-9 Selection screen,
 
   
   
 
- ![](http://www2.workbright.com/l/81162/2016-08-03/3242j5/81162/56500/i_9_4.png)  
+ ![](/images/blog/new-image-editor-august-2016/i_9_4.png)  
   
 And review (and potentially reject) the form from there.  
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/3242j7/81162/56502/I_9_5.png)
+ ![](/images/blog/new-image-editor-august-2016/I_9_5.png)
 
 Need more help? [Check out our support center](https://workbright.desk.com/) or contact our support team at [support@workbright.com](mailto:support@workbright.com).
 
@@ -123,9 +127,9 @@ Outsourcing](https://workbright.com/thank-you-performance-review/)**
 
   
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/32475r/81162/56546/OdciRNyF5C.gif)One of the things we are most proud of at WorkBright is our mobile-first functionality. That means that employees can fill out ALL their paperwork and complete ALL actions, from any smart device. That even includes uploading photos of IDs, certificates, and more, directly from the camera on a phone or tablet.  
+ ![](/images/blog/new-image-editor-august-2016/OdciRNyF5C.gif)One of the things we are most proud of at WorkBright is our mobile-first functionality. That means that employees can fill out ALL their paperwork and complete ALL actions, from any smart device. That even includes uploading photos of IDs, certificates, and more, directly from the camera on a phone or tablet.  
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/32475t/81162/56548/G2dYi4HC7j.gif)Up until now, the photo that was taken or uploaded was the final submission. Still cool, but let's be honest... we're not all photographers who take perfect photos. We were noticing some submissions were being rejected due to poor quality so we set out to fix that problem and allow editing of images from directly in the WorkBright app!  
+ ![](/images/blog/new-image-editor-august-2016/G2dYi4HC7j.gif)Up until now, the photo that was taken or uploaded was the final submission. Still cool, but let's be honest... we're not all photographers who take perfect photos. We were noticing some submissions were being rejected due to poor quality so we set out to fix that problem and allow editing of images from directly in the WorkBright app!  
   
 **Current WorkBright Customers** This week, your employees will be able to crop, rotate, and do basic editing of images when they are uploaded. Coming soon, the administrator will be able to do the same anytime after they are in the employees file. Just one more way WorkBright is making your employee files BEAUTIFUL!   
   
@@ -149,11 +153,11 @@ See our mobile interface in action by requesting a demonstration. We can even in
 
 **[\>\>Register for the Accredited Webinar Here \<\<](https://attendee.gotowebinar.com/register/2822903021854584580)**
 
- ![](http://www2.workbright.com/l/81162/2016-08-02/3236ww/81162/56366/b5dda81b47cef545c8b0e62a8cfdebf2.jpg)Each individual has a unique combination of talents, passions, and skills that form their “Unique Ability.” Learning to identify those strengths in yourself and your team members will allow your team to focus on doing more of what each individual loves and is best suited to perform well in.  
+ ![](/images/blog/new-image-editor-august-2016/b5dda81b47cef545c8b0e62a8cfdebf2.jpg)Each individual has a unique combination of talents, passions, and skills that form their “Unique Ability.” Learning to identify those strengths in yourself and your team members will allow your team to focus on doing more of what each individual loves and is best suited to perform well in.  
   
 Luckily, for us in 2016, technology makes it easy to outsource those pieces of your workload that you are not uniquely suited to be excellent at. Identifying those tasks allows you to focus in on doing more of what works and fulfills you.   
   
- ![](http://www2.workbright.com/l/81162/2016-05-04/2j2nyc/81162/44550/David_Secunda2_180x300.png) **Join HRO Today and WorkBright founder, David Secunda,** as we explore this topic and teach you:
+ ![](/images/blog/new-image-editor-august-2016/David_Secunda2_180x300.png) **Join HRO Today and WorkBright founder, David Secunda,** as we explore this topic and teach you:
 - How to identify and utilize each team member's unique ability
 - How to identify processes that can be outsourced
 - Three different types of outsourcing and when to use each
@@ -190,7 +194,7 @@ WorkBright News & Announcements
 
   
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/324721i/81162/56538/DJ_Howard.jpg)If you've called in to WorkBright in the past 6 months and heard "Ya'll" on the call - you were definitely talking to DJ. WorkBright's lone southener uprooted his life, his wife, and their 2 year old dog Simba to come join the team in January of 2016 and has been emerging as a WorkBright rockstar ever since!  
+ ![](/images/blog/new-image-editor-august-2016/DJ_Howard.jpg)If you've called in to WorkBright in the past 6 months and heard "Ya'll" on the call - you were definitely talking to DJ. WorkBright's lone southener uprooted his life, his wife, and their 2 year old dog Simba to come join the team in January of 2016 and has been emerging as a WorkBright rockstar ever since!  
   
 Now, it's your turn to get to know DJ! Check out this short interview with him and if you get him on the line next time you call, ask him about his 15 minutes of fame as the LSU punter... it's a great story!   
   
@@ -206,7 +210,7 @@ I was most drawn to WorkBright when I saw a smart and capable team building and 
   
 My favorite thing is that the people I work with realize that work is important, but it isn’t the only thing in life. They see the value of taking a break, enjoying the outdoors and having a good time.  
   
- ![](http://www2.workbright.com/l/81162/2016-08-03/32472p/81162/56540/DJ_How2.jpg)  
+ ![](/images/blog/new-image-editor-august-2016/DJ_How2.jpg)  
   
 **What motivates you?**  
   

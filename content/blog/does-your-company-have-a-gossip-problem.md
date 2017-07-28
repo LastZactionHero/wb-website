@@ -2,12 +2,16 @@
 title: "Does Your Company Have a Gossip Problem?"
 author: "Chapelle"
 date: 2015-10-01
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: does-your-company-have-a-gossip-problem
+description: How To Manage Gossip Problem In Your Company? | WorkBright
 ---
 _By: Melissa M., WorkBright_  
   
-[![Gossip Problem](https://workbright.com/wp-content/uploads/2015/10/gossip-300x199.jpg)](https://workbright.com/wp-content/uploads/2015/10/gossip.jpg)Gossip has been at the center of many a TV office sitcom, but in reality, there’s nothing funny about the confusion and bad feelings it causes in real life. Tragic tales with their roots “around the water cooler” abound, and whether their repetition is for entertainment or education, they all have the same moral—office gossip is counter-productive and bad for morale. That’s why it’s important to see if your company is plagued by this all-too-common disease.  
+[![Gossip Problem](/images/blog/does-your-company-have-a-gossip-problem/gossip-300x199.jpg)](https://workbright.com/wp-content/uploads/2015/10/gossip.jpg)Gossip has been at the center of many a TV office sitcom, but in reality, there’s nothing funny about the confusion and bad feelings it causes in real life. Tragic tales with their roots “around the water cooler” abound, and whether their repetition is for entertainment or education, they all have the same moral—office gossip is counter-productive and bad for morale. That’s why it’s important to see if your company is plagued by this all-too-common disease.  
   
 **Identifying the problem**   
   
@@ -23,7 +27,7 @@ A certain amount of gossip seems to be human nature, but in business, you want t
   
   
   
-[![Gossip Problem](https://workbright.com/wp-content/uploads/2015/10/prevent-problems-300x216.png)](https://workbright.com/wp-content/uploads/2015/10/prevent-problems.png)  
+[![Gossip Problem](/images/blog/does-your-company-have-a-gossip-problem/prevent-problems-300x216.png)](https://workbright.com/wp-content/uploads/2015/10/prevent-problems.png)  
   
   
   

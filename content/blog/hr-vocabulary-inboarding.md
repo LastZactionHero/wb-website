@@ -2,8 +2,12 @@
 title: "HR Vocabulary: Inboarding"
 author: "Chapelle"
 date: 2015-09-03
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: hr-vocabulary-inboarding
+description: Here are the 3 basic ideas on how to keep your best employees thru engagement and planning, and improve your company's Inboarding process.
 ---
 _By: Melissa M., WorkBright_  
   
@@ -13,7 +17,7 @@ Hiring is a major endeavor with the average cost of simply onboarding a new empl
   
 Inboarding **:** A process through which current employees are trained and groomed for growth opportunities within an organization. It is also the term that’s being used for the steps that can be taken to retain good employees. It doesn’t involve anything complicated, and most of the things we recommend fall under “good management,” if not plain old common sense.  
   
-**[![Inboarding](https://workbright.com/wp-content/uploads/2015/09/career-ladder.jpg)](https://workbright.com/wp-content/uploads/2015/09/career-ladder.jpg)Why it matters**  
+**[![Inboarding](/images/blog/hr-vocabulary-inboarding/career-ladder.jpg)](/images/blog/hr-vocabulary-inboarding/career-ladder.jpg)Why it matters**  
   
 The process of recruiting talent is a significant expense for businesses. Every time someone leaves, that expense is incurred all over again. Not to mention you’ve lost part of your team, which affects productivity.  
   

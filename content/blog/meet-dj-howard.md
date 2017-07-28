@@ -2,10 +2,17 @@
 title: "Meet DJ Howard"
 author: "Chapelle"
 date: 2016-09-22
-tags: [ "company-news", "culture", "mission-critical-workforce", "workbright" ]
+tags:
+  - "culture"
+  - "workbright"
+categories:
+  - "company-news"
+  - "culture"
+  - "mission-critical-workforce"
 slug: meet-dj-howard
+description: 
 ---
-![](http://www2.workbright.com/l/81162/2016-08-03/324721i/81162/56538/DJ_Howard.jpg)If you've called into WorkBright in the past 6 months and heard "Ya'll" on the call - you were definitely talking to DJ. WorkBright's lone southerner uprooted his life, his wife, and their 2 year old dog Simba to come join the team in January of 2016 and has been emerging as a WorkBright rockstar ever since!  
+![](/images/blog/meet-dj-howard/DJ_Howard.jpg)If you've called into WorkBright in the past 6 months and heard "Ya'll" on the call - you were definitely talking to DJ. WorkBright's lone southerner uprooted his life, his wife, and their 2 year old dog Simba to come join the team in January of 2016 and has been emerging as a WorkBright rockstar ever since!  
   
 Now, it's your turn to get to know DJ! Check out this short interview with him and if you get him on the line next time you call, ask him about his 15 minutes of fame as the LSU punter... it's a great story!  
   
@@ -19,7 +26,7 @@ I was most drawn to WorkBright when I saw a smart and capable team building and 
   
   
   
- ![Dj & His wife Hannah](https://workbright.com/wp-content/uploads/2016/09/Pasted-image-at-2016_08_03-14_51-300x225.png)  
+ ![Dj & His wife Hannah](/images/blog/meet-dj-howard/Pasted-image-at-2016_08_03-14_51-300x225.png)  
   
   
   

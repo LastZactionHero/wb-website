@@ -2,8 +2,12 @@
 title: "Advanced User Permissions - June 2016"
 author: "Chapelle"
 date: 2016-08-25
-tags: [ "workbright-wire" ]
+tags:
+
+categories:
+  - "workbright-wire"
 slug: advanced-user-permissions-june-2016
+description: 
 ---
 
 
@@ -25,7 +29,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | <!-- // Begin Template Header \ -->
 
-| <!-- // Begin Module: Standard Header Image \ --> ![](http://www2.workbright.com/l/81162/2015-12-02/n89vb/81162/27821/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
+| <!-- // Begin Module: Standard Header Image \ --> ![](/images/blog/advanced-user-permissions-june-2016/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
 
 <!-- // End Template Header \ --> |
 | <!-- // Begin Template Body \ -->
@@ -38,7 +42,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | |
 | |
-| ![](https://pi.pardot.com/images/addthis/16x16/email.png) | 
+| ![](/images/blog/advanced-user-permissions-june-2016/email.png) | 
 [Forward to a Friend](%%addthis_url_email%%)
  |
 
@@ -57,7 +61,7 @@ User PermissionsLink RoundupSHRM 2016News & AnnouncementsWorkBright WorkplaceDid
   
 
  |
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psp3/81162/10596/did_you_know.png)
+| ![](/images/blog/advanced-user-permissions-june-2016/did_you_know.png)
 
 WorkBright Tips
 
@@ -70,13 +74,13 @@ Does your dashboard show that a much smaller number of your staff are “totally
   
 Looking something like this...
 
-![](http://www2.workbright.com/l/81162/2016-06-07/2qbjvw/81162/49112/TT1.PNG)
+![](/images/blog/advanced-user-permissions-june-2016/TT1.PNG)
 
 In the example above, if only 90 have incomplete required forms, that means that 299 staff have done everything they can, so why does it only say 28 are finished? This is because you, the administrator, haven’t finished their “internal forms” -- typically things like uploading background check results or references.
 
 To bring your dashboard up to speed, you just need to knock out those internal forms. Since it’s often 1 or 2 of the same forms for every employee, here’s the quickest route -- go to the Onboarding Tab \> Forms, then click on the name of the form to access a mini-dashboard devoted to just that form.
 
-![](http://www2.workbright.com/l/81162/2016-06-07/2qbjwh/81162/49114/TT2.PNG)
+![](/images/blog/advanced-user-permissions-june-2016/TT2.PNG)
 
 Hover over a person’s name to make a “More button” appear to the right, which will include an “Upload” option.
 
@@ -84,7 +88,7 @@ That will take you into a screen where you have an upload option:
 
 WorkBright will accept images or PDFs. Select the file you want to upload from your computer and upload.
 
-![](http://www2.workbright.com/l/81162/2016-06-07/2qbjwp/81162/49116/TT3.PNG)
+![](/images/blog/advanced-user-permissions-june-2016/TT3.PNG)
 
 Want help troubleshooting? [Check out the help article](https://workbright.desk.com/customer/en/portal/articles/2433336-how-to-upload-or-import-a-pdf-scan-or-other-document-into-a-personnel-file) with some common welcome email FAQs or contact our support team at [support@workbright.com](mailto:support@workbright.com).
 
@@ -117,7 +121,7 @@ Help us decide what to develop next by clicking your most desired learning topic
 **[\>\> Join the Webinar to See it in Action \<\<](https://attendee.gotowebinar.com/register/6485975486885835266)**
 When WorkBright sets out to solve a major HR issue like access control to personal employee information, we go ALL IN! For the past 6 months our team has been thinking through every user permission issue, meeting with leading HR experts, studying the legal implications of access, and building out one of the most advanced user permission feature sets available in HR technology!   
   
- ![](http://www2.workbright.com/l/81162/2016-06-07/2qbb6k/81162/49074/User_Permissions.PNG)Finally, on June 22nd, we are ready to release this new functionality **FOR FREE** to all of our existing customers and any new customers that start Working Bright in the month of June! Check out the details below and[join our Director of Customer Success on 6/22 at 10am PT to see it for yourself.](https://attendee.gotowebinar.com/register/6485975486885835266)   
+ ![](/images/blog/advanced-user-permissions-june-2016/User_Permissions.PNG)Finally, on June 22nd, we are ready to release this new functionality **FOR FREE** to all of our existing customers and any new customers that start Working Bright in the month of June! Check out the details below and[join our Director of Customer Success on 6/22 at 10am PT to see it for yourself.](https://attendee.gotowebinar.com/register/6485975486885835266)   
   
 **User Permissions FAQ:**  
   
@@ -130,7 +134,7 @@ When WorkBright sets out to solve a major HR issue like access control to person
 - Allowing access to approve, reject, countersign, and perform other actions
 - Custom permission options for individual managers & administrators
 - Much, Much More! 
-**Who does User Permissions most benefit?** **![](http://www2.workbright.com/l/81162/2016-06-07/2qbb8m/81162/49076/UP2.PNG)**User permissions is primarily beneficial for larger HR teams or HR teams that distribute part of the paperwork process to managers and team leads. However, you can never be too careful when it comes to protecting your employee's personal information so we think this is a huge win for all WorkBright users and HR departments looking to go paperless!  
+**Who does User Permissions most benefit?** **![](/images/blog/advanced-user-permissions-june-2016/UP2.PNG)**User permissions is primarily beneficial for larger HR teams or HR teams that distribute part of the paperwork process to managers and team leads. However, you can never be too careful when it comes to protecting your employee's personal information so we think this is a huge win for all WorkBright users and HR departments looking to go paperless!  
   
 **How do I get User Permissions turned on for my account?** First things first, we are thrilled to offer user permissions 100% free to any new or existing clients who are <u>signed up before July 1st</u>. Since this new feature set is so advanced, we will be offering it by request only and are requiring clients to attend our live training event or view the recording before we flip the switch to allow user permissions on your account.  
   
@@ -151,7 +155,7 @@ When WorkBright sets out to solve a major HR issue like access control to person
 
 ## 5 Can't Miss Sessions at SHRM 2016
 
-![](http://www2.workbright.com/l/81162/2016-06-07/2qbhzt/81162/49100/SHRM_DC_2016_Annual_Conference.png)
+![](/images/blog/advanced-user-permissions-june-2016/SHRM_DC_2016_Annual_Conference.png)
 
 We are so excited to join over 13,000 of our HR friends at this year’s [SHRM 2016 Annual Conference & Exposition](https://annual.shrm.org/)! The conference begins on June 19th in Washington D.C. and we’ve been scouring the website checking out all the exciting presentations that will run the full 4 days of the conference.  
   
@@ -189,7 +193,7 @@ WorkBright News & Announcements
 
   
   
- ![](http://www2.workbright.com/l/81162/2016-06-08/2qfnxk/81162/49260/profile.jpg)One of the things we are most proud of at WorkBright is our quick implementation time and outstanding customer support. Kelcie Bynum is a key piece to this puzzle and if you've come on with WorkBright in the past 6 months, there's a good chance she was the one setting up your forms - sometimes in less than 4 DAYS!  
+ ![](/images/blog/advanced-user-permissions-june-2016/profile.jpg)One of the things we are most proud of at WorkBright is our quick implementation time and outstanding customer support. Kelcie Bynum is a key piece to this puzzle and if you've come on with WorkBright in the past 6 months, there's a good chance she was the one setting up your forms - sometimes in less than 4 DAYS!  
   
 Since Kelcie is emerging as a WorkBright rockstar and starting to work directly with many of you throughout your time with WorkBright, we thought it would be nice for you to get to know her on a more personal level. Maybe next time you connect you can ask her about, Kansas, Washington, Oregon or her other travels mentioned in this interview!  
   

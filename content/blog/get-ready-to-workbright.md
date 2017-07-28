@@ -2,12 +2,16 @@
 title: "Get Ready To WorkBright!"
 author: "Chapelle"
 date: 2015-06-23
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: get-ready-to-workbright
+description: Be informed! All4Staff has changed its name to WorkBright. A name that effectively portrays our brand promise. Visit www.workbright to find out more.
 ---
 The All4Staff team is pleased to announce that we are changing our name to WorkBright on July 1st, 2015! This decision comes after months of deliberation, requests for submissions, feedback from peers, and surveying; and we are very thankful to everyone that helped us arrive at a Company name that effectively portrays our brand promise:  
   
-[![workbright](https://workbright.com/wp-content/uploads/2015/06/WorkBright-W-Top-225pxHR.png)](http://workbright.wpengine.com/wp-content/uploads/2015/06/WorkBright-W-Top-225pxHR.png)“To empower companies to be great employers by equipping them with HR technology that makes life easier and employees happier.”  
+[![workbright](/images/blog/get-ready-to-workbright/WorkBright-W-Top-225pxHR.png)](http://workbright.wpengine.com/wp-content/uploads/2015/06/WorkBright-W-Top-225pxHR.png)“To empower companies to be great employers by equipping them with HR technology that makes life easier and employees happier.”  
   
 So why WorkBright?  
   

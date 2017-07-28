@@ -2,8 +2,12 @@
 title: "User Import Now Available - May 2016"
 author: "Chapelle"
 date: 2016-08-25
-tags: [ "workbright-wire" ]
+tags:
+
+categories:
+  - "workbright-wire"
 slug: user-import-now-available-may-2016
+description: 
 ---
 
 
@@ -25,7 +29,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | <!-- // Begin Template Header \ -->
 
-| <!-- // Begin Module: Standard Header Image \ --> ![](http://www2.workbright.com/l/81162/2015-12-02/n89vb/81162/27821/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
+| <!-- // Begin Module: Standard Header Image \ --> ![](/images/blog/user-import-now-available-may-2016/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
 
 <!-- // End Template Header \ --> |
 | <!-- // Begin Template Body \ -->
@@ -38,7 +42,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | |
 | |
-| ![](https://pi.pardot.com/images/addthis/16x16/email.png) | 
+| ![](/images/blog/user-import-now-available-may-2016/email.png) | 
 [Forward to a Friend](%%addthis_url_email%%)
  |
 
@@ -57,7 +61,7 @@ User ImportLink RoundupDavid SecundaNews & AnnouncementsWorkBright WorkplaceDid 
   
 
  |
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psp3/81162/10596/did_you_know.png)
+| ![](/images/blog/user-import-now-available-may-2016/did_you_know.png)
 
 WorkBright Tips
 
@@ -70,10 +74,10 @@ With summer hiring in full swing, we wanted to detail out how to resend your wel
   
 1. First, **double check their email address on the overview tab of their Personnel File.** On occasion, you may have misentered their email address, and that would be the cause for the new hire not receiving the invite. Double check that the email address in WorkBright is the same as the one they’ve been communicating with you from. If it isn’t you can edit it easily:  
   
- ![](http://www2.workbright.com/l/81162/2016-05-04/2j2p27/81162/44568/resend_1.png)  
+ ![](/images/blog/user-import-now-available-may-2016/resend_1.png)  
   
 2. Once you’ve ensured the email address is correct, you can **resend the invite on the employment tab** of their Personnel File.  
- ![](http://www2.workbright.com/l/81162/2016-05-04/2j2p29/81162/44570/resend_2.png)
+ ![](/images/blog/user-import-now-available-may-2016/resend_2.png)
 
 Want help troubleshooting? [Check out the help article](https://workbright.desk.com/customer/portal/articles/2354422) with some common welcome email FAQs or contact our support team at [support@workbright.com](mailto:support@workbright.com).
 
@@ -106,7 +110,7 @@ Check the right hand column for our video blog on this subject and help us decid
 **[\>\> Join our Webinar to See it in Action \<\<](https://attendee.gotowebinar.com/register/6717408390153750788)**
 We are thrilled to announce that you can now **add employees, contractors, and volunteers in bulk from a spreadsheet!** Our Director of Customer Success, Peter Holter will be showcasing this new feature on a live webinar next Wednesday, (5/11) at 11pm PT, [click here to reserve your seat](https://attendee.gotowebinar.com/register/6717408390153750788).  
   
- **![](http://www2.workbright.com/l/81162/2016-05-04/2j2n3f/81162/44548/kb_file_upload.gif)Why are we so excited about User Import?** Not only will it help us get new clients up and running in lightning speed, this new functionality will be particularly helpful for seasonal customers AND those that manage multiple locations from a centralized HR office.  
+ **![](/images/blog/user-import-now-available-may-2016/kb_file_upload.gif)Why are we so excited about User Import?** Not only will it help us get new clients up and running in lightning speed, this new functionality will be particularly helpful for seasonal customers AND those that manage multiple locations from a centralized HR office.  
   
 First, our **seasonal customers** will now be able to easily batch (from an ATS or other source) the new season's employees and upload information to start the onboarding process in just a few clicks. Second, we've heard from many of you that **managing workforces across multiple locations** can become cumbersome with communication from different department and/or area managers. Our new simple, intuitive, user import tool alleviates these communication frustrations by giving managers the tools to deliver succinct, detailed information about new hires to a centralized HR office for easy import and onboarding.  
   
@@ -131,7 +135,7 @@ Want to learn more? [Join our live webinar next week](https://attendee.gotowebin
 
   
   
- ![](http://www2.workbright.com/l/81162/2016-05-04/2j2nyc/81162/44550/David_Secunda2_180x300.png)David Secunda, Co-Founder and CEO of WorkBright, is a passionate entrepreneur and HR enthusiast who has been selected to serve on numerous boards and host speaking engagements across the country for his expertise and forward-thinking perspective on the changing face of the HR industry. His companies have received the distinction of being selected as one of the Top 100 Best Places to Work in the United States, and Top 50 Companies to Watch in Colorado.  
+ ![](/images/blog/user-import-now-available-may-2016/David_Secunda2_180x300.png)David Secunda, Co-Founder and CEO of WorkBright, is a passionate entrepreneur and HR enthusiast who has been selected to serve on numerous boards and host speaking engagements across the country for his expertise and forward-thinking perspective on the changing face of the HR industry. His companies have received the distinction of being selected as one of the Top 100 Best Places to Work in the United States, and Top 50 Companies to Watch in Colorado.  
   
 WorkBright is excited to announce that we will be accepting requests for David to share his expertise at tradeshows, masterminds, meetings, and more across the country.[Visit our speaking engagement page](https://workbright.com/david/) to view past keynotes and submit your request using the form! 
 
@@ -165,7 +169,7 @@ WorkBright News & Announcements
 The world of HR is changing at a rapid pace. While terms like "I9" and "DOL" have been used for decades, there is a new 21st century set of employee issues and buzzwords that college graduates will be coming out of the gate ready to address, and we don't want you to fall behind! Below are our first 3 blog posts on new HR terms that, if you haven't already heard, you will in the near future.  
   
 
-[![](http://www2.workbright.com/l/81162/2016-05-04/2j2p1m/81162/44566/shutterstock_160799519_300x200.jpg)](https://workbright.com/hr-vocabulary-inboarding/)
+[![](/images/blog/user-import-now-available-may-2016/shutterstock_160799519_300x200.jpg)](https://workbright.com/hr-vocabulary-inboarding/)
 
 - [Inboarding](https://workbright.com/hr-vocabulary-inboarding/)
 - [Millennial Mindset](https://workbright.com/hr-vocabulary-millennial-mindset/)

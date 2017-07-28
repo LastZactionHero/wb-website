@@ -2,8 +2,12 @@
 title: "4 Minimum Wage Exemptions Every HR Manager Should Know"
 author: "Chapelle"
 date: 2017-11-30
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: 4-minimum-wage-exemptions-every-hr-manager-should-know
+description: 
 ---
 A Human Resources Manager has to frequently make some very important decisions concerning employee relations and employment law. One of the most crucial being the decision of which employee the minimum wage laws to apply, some are set in stone by the Federal Fair Labor Standards Act (FLSA).  
   

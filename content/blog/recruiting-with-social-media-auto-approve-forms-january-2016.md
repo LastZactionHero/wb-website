@@ -2,12 +2,16 @@
 title: "Recruiting with Social Media & Auto-Approve Forms - January 2016"
 author: "Patrick"
 date: 2016-01-26
-tags: [ "workbright-wire" ]
+tags:
+
+categories:
+  - "workbright-wire"
 slug: recruiting-with-social-media-auto-approve-forms-january-2016
+description: 
 ---
 | <!-- // Begin Template Header \ -->
 
-| <!-- // Begin Module: Standard Header Image \ --> ![](http://www2.workbright.com/l/81162/2015-12-02/n89vb/81162/27821/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
+| <!-- // Begin Module: Standard Header Image \ --> ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
 
 <!-- // End Template Header \ --> |
 | <!-- // Begin Template Body \ -->
@@ -30,7 +34,7 @@ slug: recruiting-with-social-media-auto-approve-forms-january-2016
   
 <!-- // Begin Module: Top Image with Content \ -->
 
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psp3/81162/10596/did_you_know.png)
+| ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/did_you_know.png)
 
 #### WorkBright Tips 
 
@@ -38,11 +42,11 @@ slug: recruiting-with-social-media-auto-approve-forms-january-2016
 
 Did you know that you can unlock ANY form for employees to make edits? With the new year, employees may be looking to update certain documents like the W4 to change allowances. Use your WorkBright account to simply open up the form for editing so employees can adjust and resubmit for 2016.
 
-1. Go to the **"Forms" tab of the employee's profile.** Click into the form you'd like to allow the employee to resubmit. Next to the refect button, there's a **short menu** that includes **"Unlock to Allow Changes."**![](http://www2.workbright.com/l/81162/2016-01-07/w2p7g/81162/31223/Screen_Shot_2016_01_07_at_7.14.03_AM.png)  
+1. Go to the **"Forms" tab of the employee's profile.** Click into the form you'd like to allow the employee to resubmit. Next to the refect button, there's a **short menu** that includes **"Unlock to Allow Changes."**![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/Screen_Shot_2016_01_07_at_7.14.03_AM.png)  
   
-2. When the **employee logs back in** to his or her account, unlocked forms will be approved, but **available for edit** as needed. ![](http://www2.workbright.com/l/81162/2016-01-07/w2p8b/81162/31225/Screen_Shot_2016_01_07_at_7.16.17_AM.png)  
+2. When the **employee logs back in** to his or her account, unlocked forms will be approved, but **available for edit** as needed. ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/Screen_Shot_2016_01_07_at_7.16.17_AM.png)  
   
-3. They can **see their existing submission** and choose to stick with that, or edit and re-complete the form for submission. ![](http://www2.workbright.com/l/81162/2016-01-07/w2p8d/81162/31227/Screen_Shot_2016_01_07_at_7.16.34_AM.png)  
+3. They can **see their existing submission** and choose to stick with that, or edit and re-complete the form for submission. ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/Screen_Shot_2016_01_07_at_7.16.34_AM.png)  
   
 Want help setting this up? Contact our support team at [support@workbright.com](mailto:support@workbright.com)  
   
@@ -62,7 +66,7 @@ Check back in our newsletter for the delivery on that topic, but help us decide 
 **[Performance Review Best Practices](https://workbright.com/thank-you-performance-review/)**
 
  |
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psh3/81162/10586/newslettter_icon.png)
+| ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/newslettter_icon.png)
 
 #### WorkBright Wire
 **Welcome to the WorkBright Wire!** This monthly publication is the official newsletter of WorkBright. Meaning if you are receiving this email then you are either (A) a current client/admin of WorkBright's digital onboarding solution or (B) an HR pro that follows us because you know that WorkBright is always on top of the lastest news, trends and topics in the HR industry!  
@@ -92,7 +96,7 @@ If you're an HR pro, continue to follow us to receive monthly updates of valuabl
   
 Our mission is to save you time and we are continuously looking for ways to shave seconds off your onboarding process! One of the things YOU said saves the most time is the 'Approve' and 'Reject' workflows that administrators use when reviewing forms that have been submitted by employees. However, after setting up thousands of forms and reviewing hundreds of new hire packets, we realized that not ALL forms need this level of review before they can be added to an employees account.  
   
- ![](http://www2.workbright.com/l/81162/2016-01-06/w2fks/81162/31151/Screen_Shot_2016_01_06_at_2.31.15_PM.png)That's why we added an 'Auto-Approve' feature that allows you to set up forms to **skip the inbox** and go directly in to your employees digital filing cabinet!  
+ ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/Screen_Shot_2016_01_06_at_2.31.15_PM.png)That's why we added an 'Auto-Approve' feature that allows you to set up forms to **skip the inbox** and go directly in to your employees digital filing cabinet!  
   
 
 **[\>\> Get A Live Tutorial Here \<\<](https://attendee.gotowebinar.com/register/8007108039109919746)**
@@ -124,7 +128,7 @@ Join us to learn how your marketing team can help drive the recruiting pipeline 
 
 **[\>\> Learn More & Reserve Your Seat Here \<\<](https://workbright.com/recruiting-social-media/)**
 
- **![](http://www2.workbright.com/l/81162/2016-01-06/w2gf8/81162/31155/shutterstock_296163992.jpg)When:** Thursday, January 28th at 12pm PT  
+ **![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/shutterstock_296163992.jpg)When:** Thursday, January 28th at 12pm PT  
   
 **Cost:** FREE! Use the link above to register.  
   
@@ -158,7 +162,7 @@ Join us to learn how your marketing team can help drive the recruiting pipeline 
 
   
   
- ![](http://www2.workbright.com/l/81162/2016-01-07/w2psq/81162/31231/Anna4.jpg)Anna is the Secunda family's 12 year old golden retriever and she is also the WorkBright therapy dog! A few days each week this sweet girl brings joy into the office and curls up at the feet of one lucky WorkBrighter for a long afternoon nap. Her interests include falling asleep tummy-up in a sun spot and the long walks to and from the office with Dave. If you're ever in the Boulder area, be sure to give us a call so you can come by and meet her... and the rest of us!   
+ ![](/images/blog/recruiting-with-social-media-auto-approve-forms-january-2016/Anna4.jpg)Anna is the Secunda family's 12 year old golden retriever and she is also the WorkBright therapy dog! A few days each week this sweet girl brings joy into the office and curls up at the feet of one lucky WorkBrighter for a long afternoon nap. Her interests include falling asleep tummy-up in a sun spot and the long walks to and from the office with Dave. If you're ever in the Boulder area, be sure to give us a call so you can come by and meet her... and the rest of us!   
   
 
  |

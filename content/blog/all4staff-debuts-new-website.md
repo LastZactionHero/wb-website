@@ -2,8 +2,12 @@
 title: "ALL4STAFF DEBUTS NEW WEBSITE!"
 author: "Davidsecunda"
 date: 2015-04-22
-tags: [ "company-news" ]
+tags:
+
+categories:
+  - "company-news"
 slug: all4staff-debuts-new-website
+description: ALL4STAFF Debuts New Website
 ---
 Boulder, Colorado, April 10, 2015. All4Staff is pleased to announce the launch of its new, fully-featured website, [www.workbright.wpengine.com](http://www.workbright.wpengine.com). The site has an all-new design with enhanced mobile responsiveness features.  
   

@@ -2,18 +2,30 @@
 title: "The 10 Best Questions To Ask When Checking References"
 author: "Chapelle"
 date: 2016-09-29
-tags: [ "best-practices", "culture", "employee-best-practices", "hiring", "how-to", "hr-best-practices", "interview", "legal" ]
+tags:
+  - "best-practices"
+  - "hiring"
+  - "interview"
+  - "legal"
+categories:
+  - "culture"
+  - "employee-best-practices"
+  - "hiring"
+  - "how-to"
+  - "hr-best-practices"
+  - "legal"
 slug: the-10-best-questions-to-ask-when-checking-references
+description: 
 ---
 A hasty hiring decision can be costly. Take the time to do your due diligence to ensure that you hire the right person for the job. Rushing to hire will only get you into trouble.  
   
- ![shutterstock_276614633](https://workbright.com/wp-content/uploads/2016/09/shutterstock_276614633-300x271.jpg)Besides social media checks, background checks, and the standard job interviews, you should always call a job candidate's references. The reference check is your first and sometimes only opportunity to learn about a candidate from an outside source.  
+ ![shutterstock_276614633](/images/blog/the-10-best-questions-to-ask-when-checking-references/shutterstock_276614633-300x271.jpg)Besides social media checks, background checks, and the standard job interviews, you should always call a job candidate's references. The reference check is your first and sometimes only opportunity to learn about a candidate from an outside source.  
   
 Not only do reference checks allow you to verify facts from resumes, cover letters, and interviews, but they also provide you the opportunity to learn about a job candidate through the eyes of another professional. This can be a make or break moment for the job candidate.  
   
 It’s your responsibility to ask a job candidate for a list of professional references. Remember that references listed by a job candidate are who they want you to contact, but if you know someone else to call, feel free to contact them instead. It's usually easier to trust someone you know than to take the word of someone you've never met.  
   
- ![shutterstock_315250214](https://workbright.com/wp-content/uploads/2016/09/shutterstock_315250214-300x200.jpg)Our advice... even if you think the candidate is the perfect fit - just pick up the phone and make a call. Give the reference a bit of background about why you are calling. Tell them who you are, what company you work for, and supply any other pertinent info. Then it's time to dive into the questions.  
+ ![shutterstock_315250214](/images/blog/the-10-best-questions-to-ask-when-checking-references/shutterstock_315250214-300x200.jpg)Our advice... even if you think the candidate is the perfect fit - just pick up the phone and make a call. Give the reference a bit of background about why you are calling. Tell them who you are, what company you work for, and supply any other pertinent info. Then it's time to dive into the questions.  
   
 Feel free to ask any questions that relate to the job, but remember that any questions about protected classes (race, age, sex, etc.) that are illegal to ask in an interview are also off limits during a reference check.
 

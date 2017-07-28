@@ -2,14 +2,25 @@
 title: "How To Make Your Company Career Site Your Most Effective Recruiting Tool"
 author: "Chapelle"
 date: 2016-09-06
-tags: [ "best-practices", "career-site", "culture", "hiring", "how-to", "hr-best-practices", "job-listings", "mission-critical-workforce" ]
+tags:
+  - "best-practices"
+  - "career-site"
+  - "hiring"
+  - "job-listings"
+categories:
+  - "culture"
+  - "hiring"
+  - "how-to"
+  - "hr-best-practices"
+  - "mission-critical-workforce"
 slug: how-to-make-your-company-career-site-your-most-effective-recruiting-tool
+description: 
 ---
 Where do the majority of job seekers find your job listings? Is it via employee referral programs, social media, job boards, career fairs, word of mouth, or some other recruitment channel? There are a lot of ways to attract people to your company, but one of the most effective recruitment tools is only a click away. It’s your company career site and you need to take advantage of it.  
   
   
   
- ![Utilizing Best Practice #1 Below: Refinery 29 has two links to their career page on their homepage. One in the title bar and one right below the fold.](https://workbright.com/wp-content/uploads/2016/09/Refinery-29-244x300.png)  
+ ![Utilizing Best Practice #1 Below: Refinery 29 has two links to their career page on their homepage. One in the title bar and one right below the fold.](/images/blog/how-to-make-your-company-career-site-your-most-effective-recruiting-tool/Refinery-29-244x300.png)  
   
   
   
@@ -26,7 +37,7 @@ Creating an effective company career site requires time and effort, but so does 
   
   
   
- ![Retailer Bonobos has their application platform posted directly below the job listing and makes share buttons easily accessible!](https://workbright.com/wp-content/uploads/2016/09/bonobos2-197x300.png)  
+ ![Retailer Bonobos has their application platform posted directly below the job listing and makes share buttons easily accessible!](/images/blog/how-to-make-your-company-career-site-your-most-effective-recruiting-tool/bonobos2-197x300.png)  
   
   
   

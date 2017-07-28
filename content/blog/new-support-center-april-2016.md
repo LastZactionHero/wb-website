@@ -2,8 +2,12 @@
 title: "New Support Center - April 2016"
 author: "Chapelle"
 date: 2016-08-25
-tags: [ "workbright-wire" ]
+tags:
+
+categories:
+  - "workbright-wire"
 slug: new-support-center-april-2016
+description: 
 ---
 
 
@@ -25,7 +29,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | <!-- // Begin Template Header \ -->
 
-| <!-- // Begin Module: Standard Header Image \ --> ![](http://www2.workbright.com/l/81162/2015-12-02/n89vb/81162/27821/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
+| <!-- // Begin Module: Standard Header Image \ --> ![](/images/blog/new-support-center-april-2016/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
 
 <!-- // End Template Header \ --> |
 | <!-- // Begin Template Body \ -->
@@ -38,7 +42,7 @@ Is this email not displaying correctly?[View it in your browser](%%view_online%%
 
 | |
 | |
-| ![](https://pi.pardot.com/images/addthis/16x16/email.png) | 
+| ![](/images/blog/new-support-center-april-2016/email.png) | 
 [Forward to a Friend](%%addthis_url_email%%)
  |
 
@@ -59,7 +63,7 @@ New Support CenterLink Roundup Recruiting with Social MediaNews & AnnouncementsW
   
 
  |
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psp3/81162/10596/did_you_know.png)
+| ![](/images/blog/new-support-center-april-2016/did_you_know.png)
 
 WorkBright Tips
 
@@ -72,25 +76,25 @@ While you cannot send a mass email directly from WorkBright, you CAN use WorkBri
 
 1. Go to Reports \> Add a New Report  
   
- ![](http://www2.workbright.com/l/81162/2016-04-07/2d2dgc/81162/41282/AR1.png)  
+ ![](/images/blog/new-support-center-april-2016/AR1.png)  
   
 _Let’s say we’d like to message all employees who drive company vehicles whose driver’s licenses are expiring before the end of the summer. We’d like to remind them to get their licenses renewed._   
   
 <u>The only field you’ll want is email</u>. That’s going to make the copy/paste into my email easier later.  
   
- ![](http://www2.workbright.com/l/81162/2016-04-07/2d2dgt/81162/41284/AR2.png)  
+ ![](/images/blog/new-support-center-april-2016/AR2.png)  
   
 2. Next, let’s add filters to get down to JUST the people we want to message. For an example, we can ask the report to filter down to just the group that drives company vehicles, and then just those people whose licenses will expire before September 1.  
   
- ![](http://www2.workbright.com/l/81162/2016-04-07/2d2dgy/81162/41286/AR3.png)  
+ ![](/images/blog/new-support-center-april-2016/AR3.png)  
   
 3. Run the report. This will yield a list of just email addresses, which I can then click “Copy”  
   
- ![](http://www2.workbright.com/l/81162/2016-04-07/2d2djc/81162/41288/AR4.png)  
+ ![](/images/blog/new-support-center-april-2016/AR4.png)  
   
 4. Easily paste into a new email!  
   
- ![](http://www2.workbright.com/l/81162/2016-04-07/2d2djf/81162/41290/AR5.png)
+ ![](/images/blog/new-support-center-april-2016/AR5.png)
 
 Want help setting this up? Contact our support team at [support@workbright.com](mailto:support@workbright.com)
 
@@ -123,11 +127,11 @@ Check the right hand column for our video blog on this subject and help us decid
 **_Articles, Frequently Asked Questions, How-To's and Much More!_[\>\> Click Here to Check it Out \<\<](https://workbright.desk.com/)**
 As we continue to grow, we are committed to maintaining our high level of customer service that sets us apart from big-box HR technology providers.  
   
- ![](http://www2.workbright.com/l/81162/2016-04-06/2cbgvy/81162/41170/Jocelyn_Martinez.jpg)Jocelyn from Boulder Housing Partners said, _“We’re very happy with the system, but the thing that makes WorkBright stand out is the outstanding customer service! The people I work with are genuinely invested in customer success which is in stark contrast to where we were before. I believe it was over the holidays this past year that I contacted Peter, the Director of Customer Success, he was teaching ski school and responded from the slopes which is above and beyond what I would ever expect!”_  
+ ![](/images/blog/new-support-center-april-2016/Jocelyn_Martinez.jpg)Jocelyn from Boulder Housing Partners said, _“We’re very happy with the system, but the thing that makes WorkBright stand out is the outstanding customer service! The people I work with are genuinely invested in customer success which is in stark contrast to where we were before. I believe it was over the holidays this past year that I contacted Peter, the Director of Customer Success, he was teaching ski school and responded from the slopes which is above and beyond what I would ever expect!”_  
   
 To help us achieve this, we've been secretly building out [our new knowledgebase](https://workbright.desk.com/) with frequently asked questions, account setup information, how-to's, and much more!   
   
- ![](http://www2.workbright.com/l/81162/2016-04-06/2cbgt5/81162/41164/Screen_Shot_2016_04_06_at_10.27.27_AM.png)
+ ![](/images/blog/new-support-center-april-2016/Screen_Shot_2016_04_06_at_10.27.27_AM.png)
   
   
 In the new knowledgebase you can easily find articles by entering search terms or browsing topics. If you don't find what you're looking for, use the Contact links to post a public question, email, or call us!  
@@ -155,7 +159,7 @@ We cherish the personal relationships we've built with our customers and trust t
 
   
   
- ![](http://www2.workbright.com/l/81162/2016-04-06/2cbhp7/81162/41174/thinpaperback_795x1003.png)For rapidly hiring companies, finding qualified candidates can be a laborious vetting and administrative challenge. Download this eBook to learn how you can drive the recruiting pipeline through social media and get best practices to expose your brand and drive candidates!  
+ ![](/images/blog/new-support-center-april-2016/thinpaperback_795x1003.png)For rapidly hiring companies, finding qualified candidates can be a laborious vetting and administrative challenge. Download this eBook to learn how you can drive the recruiting pipeline through social media and get best practices to expose your brand and drive candidates!  
   
 **A peak inside at the Table of Contents:**
 - The Changing Face of Human Resources
@@ -197,11 +201,11 @@ WorkBright News & Announcements
   
 In the spirit of our eBook roll out on [Recruiting with Social Media](https://workbright.com/socialrecruiting/), we wanted to let you can connect with us on social media too! If you're not already following us, you're missing out on some great Human Resource shares, discussions, and links!
 
-[![](http://www2.workbright.com/l/81162/2016-04-06/2cdch9/81162/41176/Facebook_Icon.png)](https://www.facebook.com/workbright/)[![](http://www2.workbright.com/l/81162/2016-04-06/2cdchf/81162/41180/Twitter_Icon.png)](https://twitter.com/workbrighthr)[![](http://www2.workbright.com/l/81162/2016-04-06/2cdchh/81162/41182/LinkedIn_Icon.png)](https://www.linkedin.com/company/all4staff)[![](http://www2.workbright.com/l/81162/2016-04-06/2cdcht/81162/41184/Youtube_Icon.png)](https://www.youtube.com/channel/UC4A46JscOhljqIyqeNo8Mhg)
+[![](/images/blog/new-support-center-april-2016/Facebook_Icon.png)](https://www.facebook.com/workbright/)[![](/images/blog/new-support-center-april-2016/Twitter_Icon.png)](https://twitter.com/workbrighthr)[![](/images/blog/new-support-center-april-2016/LinkedIn_Icon.png)](https://www.linkedin.com/company/all4staff)[![](/images/blog/new-support-center-april-2016/Youtube_Icon.png)](https://www.youtube.com/channel/UC4A46JscOhljqIyqeNo8Mhg)
 
 Follow us so you don't miss great stuff like the video below from Dave, "Background Checks: What you're really getting". Click the video below to [watch the short video blog on YouTube](https://www.youtube.com/watch?v=6K-R9LpYtqM):
 
-**[![](http://www2.workbright.com/l/81162/2016-04-06/2cdcq5/81162/41190/Screen_Shot_2016_04_06_at_12.16.12_PM.png)](https://www.youtube.com/watch?v=6K-R9LpYtqM)**
+**[![](/images/blog/new-support-center-april-2016/Screen_Shot_2016_04_06_at_12.16.12_PM.png)](https://www.youtube.com/watch?v=6K-R9LpYtqM)**
 
   
   

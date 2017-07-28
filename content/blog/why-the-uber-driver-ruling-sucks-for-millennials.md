@@ -2,8 +2,12 @@
 title: "Why the Uber Driver Ruling Sucks for Millennials"
 author: "Chapelle"
 date: 2017-11-30
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: why-the-uber-driver-ruling-sucks-for-millennials
+description: 
 ---
 Yesterday, the California Labor Commission [ruled](http://www.scribd.com/doc/268947596/Uber-Filing) that all Uber Drivers are to be categorized as employees rather than contractors. We're not going to get in to the details of this particular case or the the claims by Barbara Ann Berwick - there are [many articles](http://www.reuters.com/article/2015/06/17/us-uber-california-idUSKBN0OX1TE20150617) that do that already. But what we do want to discuss is why this totally sucks for the millions of millennial that are filling 'On-Demand' jobs like those provided by Uber.  
   

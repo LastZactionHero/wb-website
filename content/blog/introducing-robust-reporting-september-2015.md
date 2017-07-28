@@ -2,12 +2,16 @@
 title: "Introducing Robust Reporting! - September 2015"
 author: "Patrick"
 date: 2015-09-01
-tags: [ "workbright-wire" ]
+tags:
+
+categories:
+  - "workbright-wire"
 slug: introducing-robust-reporting-september-2015
+description: 
 ---
 | <!-- // Begin Template Header \ -->
 
-| <!-- // Begin Module: Standard Header Image \ --> ![](http://www2.all4staff.com/l/81162/2015-08-03/4prnm/81162/10572/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
+| <!-- // Begin Module: Standard Header Image \ --> ![](/images/blog/introducing-robust-reporting-september-2015/Newsletter_Header.png) <!-- // End Module: Standard Header Image \ --> |
 
 <!-- // End Template Header \ --> |
 | <!-- // Begin Template Body \ -->
@@ -28,7 +32,7 @@ slug: introducing-robust-reporting-september-2015
 
 <!-- // Begin Module: Top Image with Content \ -->
 
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psp3/81162/10596/did_you_know.png)
+| ![](/images/blog/introducing-robust-reporting-september-2015/did_you_know.png)
 
 #### WorkBright Tips
 **Use custom profile fields to collect additional data on your employees!**   
@@ -39,7 +43,7 @@ Do you have information you need about your new hires but it doesn't actually re
   
 
  |
-| ![](http://www2.all4staff.com/l/81162/2015-08-03/4psh3/81162/10586/newslettter_icon.png)
+| ![](/images/blog/introducing-robust-reporting-september-2015/newslettter_icon.png)
 
 #### WorkBright Wire
 **Welcome to the WorkBright Wire!** This monthly publication is the official newsletter of WorkBright. Meaning if you are receiving this email then you are either (A) a current client/admin of WorkBright's digital onboarding solution or (B) an HR pro that follows us because you know that WorkBright is always on top of the lastest news, trends and topics in the HR industry!  
@@ -66,7 +70,7 @@ Of course, if you don't want to receive the WorkBright Wire, we'll be sorry to s
 We've always allowed WorkBright users to export data for payroll but we noticed that a lot our customers were using this functionality to export other valuable information as well - like staff contact information and employee status. So we spent the last month expanding our reporting functionality to include filtering and exporting of ANY data collected on your employees in WorkBright!
 
 [**\>\>\> Check Out More Details Here \<\<\<**](https://workbright.desk.com/customer/portal/articles/2093234-creating-a-report)
- ![](http://www2.workbright.com/l/81162/2015-08-31/72chp/81162/14926/new_report.png)  
+ ![](/images/blog/introducing-robust-reporting-september-2015/new_report.png)  
   
 
 As we continually strive to be your one stop shop for all employee related information, we are so excited about the possibilities this new functionality presents as your digital employee filing cabinet. Imagine the possibilities of being able to quickly and accurately export:
@@ -96,7 +100,7 @@ Hiring is a major endeavor with the traditional cost of simply onboarding a new 
   
 **Definition:** “Inboarding” is the term that’s being used for the steps that can be taken to retain good employees. It doesn’t involve anything complicated, and most of the things we recommend fall under “good management,” if not plain old common sense.  
   
-[![career ladder](https://workbright.com/wp-content/uploads/2015/09/career-ladder.jpg)](https://workbright.com/wp-content/uploads/2015/09/career-ladder.jpg) **Why it matters:** The process of recruiting talent is a significant expense for businesses. Every time someone leaves, that expense is incurred all over again. Not to mention you’ve lost part of your team, which affects productivity.  
+[![career ladder](/images/blog/introducing-robust-reporting-september-2015/career-ladder.jpg)](/images/blog/introducing-robust-reporting-september-2015/career-ladder.jpg) **Why it matters:** The process of recruiting talent is a significant expense for businesses. Every time someone leaves, that expense is incurred all over again. Not to mention you’ve lost part of your team, which affects productivity.  
   
 But why should anyone stay with you when they can get a nice raise by changing companies? Inboarding makes it feasible for talented individuals to stay on, rather than looking elsewhere to get what they want from their jobs. Having a documented inboarding plan for good employees can save your organization thousands over the next few years and makes employees feel more engaged and committed to your organization.  
   
@@ -121,7 +125,7 @@ Are you inboarding your best employees? For three actionable tips to get you sta
 
 ## WorkBright Workplace: Meet Cary Yocum
 
- ![](http://www2.workbright.com/l/81162/2015-08-31/72cxp/81162/14928/AAEAAQAAAAAAAAKmAAAAJDM3OTI4NGJiLTU4NTktNGUzZS1iNzRiLTYxMjJmZDkwMmM5Mw.jpg)Our team is growing! On September 1st, Cary Yocum joined the WorkBright team as our Director of Sales and we couldn't be more excited about the enthusiasm, experience, and bright smile he is bringing in to the WorkBright workplace. 
+ ![](/images/blog/introducing-robust-reporting-september-2015/AAEAAQAAAAAAAAKmAAAAJDM3OTI4NGJiLTU4NTktNGUzZS1iNzRiLTYxMjJmZDkwMmM5Mw.jpg)Our team is growing! On September 1st, Cary Yocum joined the WorkBright team as our Director of Sales and we couldn't be more excited about the enthusiasm, experience, and bright smile he is bringing in to the WorkBright workplace. 
 
 That's Cary to the right with his wife and 4 boys. But get to know him better with this quick interview from his first week in our Boulder, Colorado office:  
   

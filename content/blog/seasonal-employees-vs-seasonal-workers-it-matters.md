@@ -2,8 +2,12 @@
 title: "Seasonal Employees vs. Seasonal Workers – It Matters!"
 author: "Chapelle"
 date: 2017-11-30
-tags: [ "uncategorized" ]
+tags:
+
+categories:
+  - "uncategorized"
 slug: seasonal-employees-vs-seasonal-workers-it-matters
+description: 
 ---
 _By: Melissa M., WorkBright_  
   

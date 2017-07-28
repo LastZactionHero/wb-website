@@ -2,10 +2,21 @@
 title: "10 Essential Elements Of An Effective Job Ad"
 author: "Chapelle"
 date: 2016-08-31
-tags: [ "best-practices", "employee-best-practices", "hiring", "hr-best-practices", "interview", "interviewing", "legal", "social-media" ]
+tags:
+  - "best-practices"
+  - "hiring"
+  - "interview"
+  - "social-media"
+categories:
+  - "employee-best-practices"
+  - "hiring"
+  - "hr-best-practices"
+  - "interviewing"
+  - "legal"
 slug: 10-essential-elements-of-an-effective-job-ad
+description: 
 ---
-![While this job ad does DESCRIBE the ideal candidate, they are missing Rule #4 in describing the job duties.](https://workbright.com/wp-content/uploads/2016/08/surgeon-worst-job-adverts.jpg)  
+![While this job ad does DESCRIBE the ideal candidate, they are missing Rule #4 in describing the job duties.](/images/blog/10-essential-elements-of-an-effective-job-ad/surgeon-worst-job-adverts.jpg)  
   
   
   
@@ -34,7 +45,7 @@ There is no recipe or formula for a perfect job ad, but it's a good idea to use 
 9. **Directions** - Tell the job seeker what to do after they apply. This is a test to see if they can follow directions, but also provides guidelines on what to expect next.
 
 10. **Videos & Photos** - Videos and photos bring your job ad to life. Always include media to enhance the job seeker’s experience.
- ![avid](https://workbright.com/wp-content/uploads/2016/08/avid-300x157.png)Here is a great example from WorkBright customer Avid4Adventure that incorporates a lot of the elements above. In particular, they have a killer video that describes the work of a typical employee very clearly. [Check out the full page here for some inspiration](http://www.avid4.com/jobs/).  
+ ![avid](/images/blog/10-essential-elements-of-an-effective-job-ad/avid-300x157.png)Here is a great example from WorkBright customer Avid4Adventure that incorporates a lot of the elements above. In particular, they have a killer video that describes the work of a typical employee very clearly. [Check out the full page here for some inspiration](http://www.avid4.com/jobs/).  
   
 Are you ready to write an open, honest, and transparent job ad that answers the job seeker’s questions, compels them to apply, and makes them want to work at your company? Include these 10 essential elements and you’ll be on the right track. Remember that the job ad is your first interaction with a job seeker. Always strive to make a great first impression.  
   

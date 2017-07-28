@@ -2,10 +2,17 @@
 title: "WATCH OUT: Your Next Interview Could Be a Plant"
 author: "Chapelle"
 date: 2015-09-16
-tags: [ "hr-best-practices", "legal", "new-york", "uncategorized" ]
+tags:
+  - "legal"
+  - "new-york"
+categories:
+  - "hr-best-practices"
+  - "legal"
+  - "uncategorized"
 slug: watch-out-your-next-interview-could-be-a-plant
+description: 
 ---
-[![Image courtesy of www.best-job-interview.com](https://workbright.com/wp-content/uploads/2015/09/illegalquestions-300x200.jpg)](https://workbright.com/wp-content/uploads/2015/09/illegalquestions.jpg)  
+[![Image courtesy of www.best-job-interview.com](/images/blog/watch-out-your-next-interview-could-be-a-plant/illegalquestions-300x200.jpg)](https://workbright.com/wp-content/uploads/2015/09/illegalquestions.jpg)  
   
   
   
@@ -23,7 +30,7 @@ The way it works is that the Commission will have two similarly-qualified candid
   
 While 690-A is specific to New York City, the issue of discrimination is nationwide. If the program exposes discrimination, then activists elsewhere will start asking for similar programs in their own cities and states as a way to demonstrate where discrimination is really occurring.  
   
-[![](https://workbright.com/wp-content/uploads/2015/09/Blog-Pic-Interview-300x225.jpg)](https://workbright.com/wp-content/uploads/2015/09/Blog-Pic-Interview.jpg)  
+[![](/images/blog/watch-out-your-next-interview-could-be-a-plant/Blog-Pic-Interview-300x225.jpg)](https://workbright.com/wp-content/uploads/2015/09/Blog-Pic-Interview.jpg)  
   
 Discrimination laws may be accidentally violated by any number of people in the interview process, whether they are the actual decision-maker or not. Potential co-workers or managers may ask about the candidate’s age or marital status as a way to find common ground, or offer information on the community to someone who would have to relocate. Even such innocent conversation starters can lead to problems, however, particularly if they lead to discussion of disability or sexual orientation.  
   
