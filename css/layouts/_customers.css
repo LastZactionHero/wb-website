@@ -17,7 +17,7 @@
     margin-bottom: 0px; /* TODO: Remove this line when images and copy are written. Refer to entire commit for details. */
 
     @media(--viewport-sm) {
-      border-bottom: 1px solid var(--color-silver-chalice);
+      border-bottom: 1px solid var(--color-concrete);
     }
 
     & .title {
@@ -30,15 +30,13 @@
       /* TODO: Remove down when images and copy are written. Refer to entire commit for details. */
       /* vvv */
       width: 100%; 
-      line-height: 64px;
       /* ^^^ Remove up from here ^^^ */
 
       @media(--viewport-sm) {
         width: 100%;
       }
 
-      font-weight: bold;
-      font-size: 1.25rem;
+      font-size: 1.65rem;
       margin-bottom: 16px;
     }
 

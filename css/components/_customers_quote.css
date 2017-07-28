@@ -8,9 +8,10 @@
 
   box-shadow: var(--standard-box-shadow);
 
-  background-color: white;
+  background-color: var(--color-concrete);
 
   & h2 {
+    font-weight: bold;
     margin: 0px 0px 24px 0px;
     text-align: left;
     @media (--viewport-xs) {
@@ -19,7 +20,7 @@
   }
 
   & p {
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-weight: normal;
 
     @media (--viewport-xs) {
@@ -30,6 +31,7 @@
   & .attribution {
     position: relative;
     padding-left: 80px;
+    padding-top: 20px;
     height: 72px;
 
     @media (--viewport-xs) {
@@ -59,7 +61,7 @@
   & .details {
     position: absolute;
     padding-left: 8px;
-    font-size: 0.75rem;
+    font-size: 1rem;
     bottom: 0px;
     line-height: 1.25rem;
 

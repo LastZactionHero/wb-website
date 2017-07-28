@@ -7,10 +7,11 @@
   text-transform: uppercase;
   font-weight: lighter;
   transition: var(--btn-transition);
+  box-shadow: 0 2px 14px var(--color-black-transparent-08), 0 1px 6px var(--color-black-transparent-08);
   
   &:hover, &:active, &:focus {
     transform: translateY(-1px);
-    box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+    box-shadow: 0 7px 14px var(--color-black-transparent-08), 0 3px 6px var( --color-black-transparent-08);
     border: none;
     outline: none;
   }

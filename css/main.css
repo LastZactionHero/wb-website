@@ -58,7 +58,7 @@ body {
   width: 100%;
   padding: 48px;
   color: var(--color-white);
-  background-color: var(--color-blue-bayoux);
+  background: linear-gradient(10deg, var(--color-blue-bayoux), var(--color-pine-green));
 }
 
 .footer-container {
@@ -115,7 +115,7 @@ body {
   display: grid; 
   grid-template-columns: 100px 100px 100px;
   grid: repeat(3, 640px) / repeat(10, 1fr);
-  transform: skewY(-12deg);
+  transform: skewY(var(--standard-stripe-angle));
   transform-origin: 0;
 
 }

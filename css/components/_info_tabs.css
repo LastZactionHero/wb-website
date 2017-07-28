@@ -30,6 +30,7 @@
     background-color: var(--color-white);
     color: var(--color-blue-bayoux);
     padding: 36px;
+    box-shadow: var(--standard-box-shadow);
 
     & h2 {
       font-size: 1.5rem;

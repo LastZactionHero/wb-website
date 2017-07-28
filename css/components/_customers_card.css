@@ -5,6 +5,8 @@
 }
 
 .customers-card {
+  box-shadow: var(--standard-box-shadow);
+  
   & .card-block {
 
     @media(--viewport-md-up) {

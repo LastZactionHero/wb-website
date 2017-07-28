@@ -1,3 +1,5 @@
+@import "_variables.css";
+
 /* Rotated-grid background is not supported. Instead, use a vertical background gradient one page-height */
 @-moz-document url-prefix() {
   .legacy-browser-fold-gradient {
@@ -6,7 +8,7 @@
     width: 100%;
     margin-top: -530px; 
     background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
-    transform: skewY(-12deg);
+    transform: skewY(var(--standard-stripe-angle));
   }
 }
 
@@ -19,7 +21,7 @@
     width: 100%;
     margin-top: -480px; 
     background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
-    transform: skewY(-12deg);
+    transform: skewY(var(--standard-stripe-angle));
   }
 
   /* Renders the SVG differently, difference is unknown. Just resizing it */

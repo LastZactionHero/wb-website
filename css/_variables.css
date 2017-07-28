@@ -18,6 +18,7 @@
   --color-dove-gray: #666666;
   --color-silver-chalice: #AAAAAA;
   --color-black-transparent-30: rgba(0,0,0,0.3);
+  --color-black-transparent-08: rgba(0,0,0,0.08);
   --color-black-transparent-00: rgba(0,0,0,0.0);
   --color-white-transparent-30: rgba(255.0,255.0,255.0,0.3);
 
@@ -57,14 +58,15 @@
   --color-btn-info-background-hover: var(--color-blue-stone);
   --color-btn-info-text-hover: var(--color-white);
 
-
   --standard-box-shadow: 0px 0px 12px var(--color-box-shadow);
 
   --font-size-p: 1.25rem;
 
   --btn-transition: all .15s ease;
 
-  --border-radius: 16px;
+  --border-radius: 10px;
+  
+  --standard-stripe-angle: -8deg;
 }
 
 /* Also defined in Javascript _viewports.js. Update Javascript if modified. */
