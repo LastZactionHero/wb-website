@@ -26,5 +26,9 @@
       text-transform: uppercase;
     }
   }
+  
+  @media(--viewport-sm) {
+    background: none;
+  }
 }
 
