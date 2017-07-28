@@ -1,11 +1,12 @@
 .contact-options {
-  padding: 24px 0px;
+  padding: 50px;
   font-weight: bold;
 
   & i {
     display: block;
     margin-bottom: 16px;
-    font-size: 3rem;
+    font-size: 4rem;
+    padding-top: 40px;
   }
 
   & a {
