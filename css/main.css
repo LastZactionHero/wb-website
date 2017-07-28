@@ -51,7 +51,7 @@ body {
 .site-content {
   flex: 1 0 auto;             /* Site content takes entire view, does not include footer */
   position: relative;         /* Used to aboslutely position stripe inside to take exactly the full view height */
-  padding-bottom: 120px;
+  padding-bottom: 20px;
 }
 
 .footer {
