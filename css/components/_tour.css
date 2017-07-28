@@ -53,7 +53,7 @@ ul.tour {
         }
 
 
-        @media(--viewport-sm-up) {
+        @media(--viewport-sm-up), @media(--viewport-sm)  {
           width: 400px;
           height: 690px;
         }
@@ -115,18 +115,28 @@ ul.tour {
 
 
 /* TODO: should this belong within tour steps? */
+
+.desktop-video-body {
+  margin-bottom: 60px;
+}
+
 .desktop-video-background {
   position: relative;
   background-image: url("/images/video-background-desktop.png");
   background-size: 100%;
   background-repeat: no-repeat;
   margin: 0px auto;
+
   
   @media(--viewport-sm) {
     width: 510px;
     height: 432px;
   }
-
+  
+  @media(--viewport-xs) {
+    width: 300px;
+    height: 250px;
+  }
 
   @media(--viewport-sm-up) {
     width: 100%;
@@ -151,6 +161,12 @@ ul.tour {
       left: 61px;
       top: 24px;
       width: 389px;
+    }
+    
+    @media(--viewport-xs) {
+      left: 35px;
+      top: 14px;
+      width: 230px;
     }
 
     @media(--viewport-sm-up) {

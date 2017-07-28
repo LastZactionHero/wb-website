@@ -28,7 +28,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/made-for-mobile.mp4" loop />
+        <video loop playsinline src="/videos/made-for-mobile.mp4" poster='/images/mobile-poster.png' />
       </div>
     </div>
   </li>
@@ -42,7 +42,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/fingertip-signatures.mp4" loop />
+        <video loop playsinline src="/videos/fingertip-signatures.mp4" poster='/images/mobile-poster.png'/>
       </div>
     </div>
   </li>
@@ -56,7 +56,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/photo-upload.mp4" loop />
+        <video loop playsinline src="/videos/photo-upload.mp4" />
       </div>
     </div>
   </li>
@@ -70,7 +70,7 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/automated-email-reminders.mp4" loop />
+        <video loop playsinline src="/videos/automated-email-reminders.mp4" poster='/images/mobile-poster.png' />
       </div>
     </div>
   </li>
@@ -84,57 +84,57 @@ title: "Tour"
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video src="/videos/smart-i9.mp4" loop />
+        <video loop playsinline src="/videos/smart-i9.mp4" poster='/images/mobile-poster.png'/>
       </div>
     </div>
   </li>
 </ul>
 
-<div>
+<div class='desktop-video-body'>
   <h3>Employee Error Resolution</h3>
   <p>
     WorkBright helps ensure your employee files are accurate and up to date in two ways. First, we incorporate field validation to help avoid errors up front. Next, if an employee does submit something that is incorrect, our error correction workflow is pre-configured with automatic emails telling them what is wrong and how to fix it, as well as follow up reminders until it is resubmitted.
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop src="/videos/error-resolution.mp4" type="video/mp4">
+  <video loop playsinline src="/videos/error-resolution.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
-<div>
+<div class='desktop-video-body'>
   <h3>Digital HR Filing Cabinet</h3>
   <p>
     Unlike traditional paper filing cabinets, WorkBright gives you full visibility into each employee’s file from any internet connected device. Knowing instantly if an employee has missing or out of date information means you can get the issue corrected and rest easy knowing you are ready for an audit at any time!
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop src="/videos/hr-filing-cabinet.mp4" type="video/mp4">
+  <video loop playsinline src="/videos/hr-filing-cabinet.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
-<div>
+<div class='desktop-video-body'>
   <h3>Easy Import/Export</h3>
   <p>
     We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export information via csv or excel files. If you want something more seamless, you can leverage our API and your technical team to integrate directly to other software platforms.
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop src="/videos/bulk-import.mp4" type="video/mp4">
+  <video loop playsinline src="/videos/bulk-import.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
-<div>
+<div class='desktop-video-body'>
   <h3>Reporting</h3>
   <p>
     WorkBright allows you to drill down to the FIELD level on all your employees information! Use our sophisticated reporting tools to create directories, see who has out of date certificates, and filter on any information your employees have submitted through their new hire paperwork.
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop src="/videos/reporting.mp4" type="video/mp4">
+  <video loop playsinline src="/videos/reporting.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
-<div>
+<div class='desktop-video-body'>
   <h3>Applicant Tracking Integration</h3>
   <p>
     Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our WorkBright ATS page (link). 
