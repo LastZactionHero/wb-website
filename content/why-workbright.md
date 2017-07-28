@@ -36,12 +36,12 @@ title: "Why WorkBright"
   {{< /accordion_card >}}
 
   {{< accordion_card title="<strong>Reclaim</strong> your email inbox from employee clutter" id="reclaim">}}
-    Managing employee communications and forms via your email inbox (or even worse, the physical mail) is a security and organizational nightmare! Move all employee onboarding processes into WorkBright where a secure audit trail tracks every interaction. 
+    Managing employee communications and forms via your email inbox (or even worse, the physical mail) is a security and organizational nightmare! Move all employee onboarding processes into WorkBright where a secure audit trail tracks every interaction.
     <img src="/images/demos/inbox.gif" width=100% />
   {{< /accordion_card >}}
 
   {{< accordion_card title="<strong>Happiness</strong> because you have a partner that knows YOUR workforce" id="happiness">}}
-    Today’s workforce is changing and you may not look like the traditional employer of past decades. Our flexible solution works for full time, part time, seasonal, temp and on demand employees! Plus, our mobile-first technology enables employees to complete forms from any smart device. 
+    Today’s workforce is changing and you may not look like the traditional employer of past decades. Our flexible solution works for full time, part time, seasonal, temp and on demand employees! Plus, our mobile-first technology enables employees to complete forms from any smart device.
     <img src="/images/demos/select-contractor.png" width=100%/>
   {{< /accordion_card >}}
 
@@ -51,9 +51,9 @@ title: "Why WorkBright"
 
 ## How is WorkBright Different?
 
-<div class='text-center'>
-  <a href='#' class='btn btn-info ext btn-chevron btn-text-wrap'>X Download Our Digital Onboarding Buyers Guide! X<a>
-</div>
+{{< info_button link="#" >}}
+  X Download our digital onboarding buyers guide X
+{{< /info_button >}}
 
 <div class='info-tabs'>
   <div class='row'>
@@ -120,14 +120,14 @@ title: "Why WorkBright"
         <div class="tab-pane" id="we-meet-you-where-you-are" role="tabpanel">
           <h2>We meet you where you are at</h2>
           <p>
-            Whether you are hiring 50 or 50,000, WorkBright can scale to meet your specific needs while not overcharging you for unnecessary functionality. Our API and data export feature ensures we can fit in with your existing or future infrastructure and our flexible platform easily allows for multiple hiring locations while maintaining centralized oversight.  
+            Whether you are hiring 50 or 50,000, WorkBright can scale to meet your specific needs while not overcharging you for unnecessary functionality. Our API and data export feature ensures we can fit in with your existing or future infrastructure and our flexible platform easily allows for multiple hiring locations while maintaining centralized oversight.
           </p>
           <div class='bottom-icon icon-line-graph-up-right'></div>
         </div>
         <div class="tab-pane" id="stress-free-compliance" role="tabpanel">
           <h2>Stress free compliance or Smart Forms</h2>
           <p>
-            WorkBright is much more than a fillable PDF solution. With features such as data validation and pre-filled fields, Smart forms ensure forms are filled out quickly and completely. 
+            WorkBright is much more than a fillable PDF solution. With features such as data validation and pre-filled fields, Smart forms ensure forms are filled out quickly and completely.
           </p>
           <div class='bottom-icon icon-clipboard-check-list'></div>
         </div>
@@ -145,4 +145,4 @@ title: "Why WorkBright"
 
 
 
- 
+
