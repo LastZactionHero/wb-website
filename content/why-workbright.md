@@ -42,7 +42,13 @@ title: "Why WorkBright"
 
   {{< accordion_card title="<strong>Happiness</strong> because you have a partner that knows YOUR workforce" id="happiness">}}
     Today’s workforce is changing and you may not look like the traditional employer of past decades. Our flexible solution works for full time, part time, seasonal, temp and on demand employees! Plus, our mobile-first technology enables employees to complete forms from any smart device.
-    <img src="/images/demos/select-contractor.png" width=100%/>
+
+    <div class='row mt-4'>
+      <div class='col-md-8 offset-md-2'>
+        <img src="/images/handshake.jpg" width=100% />
+      </div>
+    </div>
+    
   {{< /accordion_card >}}
 
 {{< /accordion_wrapper >}}
