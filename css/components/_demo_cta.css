@@ -18,6 +18,10 @@
   & .btn {
     margin-top: -4px;
   }
+  
+  @media(--viewport-sm) {
+    background: none;
+  }
 }
 
 .demo-cta.demo-cta-large {
