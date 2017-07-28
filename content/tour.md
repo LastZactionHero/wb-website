@@ -140,5 +140,9 @@ title: "Tour"
     Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our WorkBright ATS page (link). 
   </p>
 </div>
+<div class="desktop-video-background">
+  <video loop playsinline src="/videos/ats.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  Your browser does not support the video tag.
+</div>
 
 {{< demo_cta size="large" message="Ready to try WorkBright?" >}}
