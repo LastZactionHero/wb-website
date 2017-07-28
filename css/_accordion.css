@@ -2,7 +2,7 @@
 
 .accordion {
   margin: 64px 0px 128px 0px;
-
+  box-shadow: var(--standard-box-shadow);
   & .card {
     & .card-header {
       position: relative;
