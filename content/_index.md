@@ -22,10 +22,10 @@ testimonial_carousel:
 
 {{% rotating_title message="Paperwork Sucks. Work" endings="Fast.,Smart.,Remote.,Mobile.,Compliant.,Bright." %}}
 
+<script src="https://fast.wistia.com/embed/medias/d76aabma29.jsonp" async></script><script src="https://fast.wistia.com/assets/external/E-v1.js" async></script><div class="wistia_responsive_padding" style="padding:56.5% 0 0 0;position:relative;"><div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;"><div class="wistia_embed wistia_async_d76aabma29 videoFoam=true" style="height:100%;width:100%">&nbsp;</div></div></div>
 
-WorkBright's digital onboarding solution removes the headache of new hire paperwork and gets employees ready to work BEFORE their first day of work. See how it works here:
-
-{{< youtube v6KsiexGrg0 >}}
+WorkBright's digital onboarding solution removes the headache of new hire paperwork and gets employees ready to work
+BEFORE their first day.
 
 ## Want to learn more?
 
