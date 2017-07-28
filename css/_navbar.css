@@ -4,6 +4,7 @@
   background: var(--background-gradient-orange);
   margin-top: 0px !important;
   padding-top: 12px;
+  box-shadow: var(--standard-box-shadow);
 }
 
 .navbar {
@@ -97,7 +98,7 @@
 
         @media (--viewport-md) {
           background-color: var(--color-concrete);
-          padding: 12px;
+          padding: 20px;
           border-radius: 0px;
         }
       }
@@ -112,7 +113,15 @@
       }
 
     }
-
   } /* .navbar-nav */
-
+  
+  & .navbar-toggler-text {
+    color: white;
+    letter-spacing: 1px;
+  }
+  
+  & .navbar-toggler {
+    border: none;
+    padding: .5rem .75rem;
+  }
 } /* .navbar-light */
