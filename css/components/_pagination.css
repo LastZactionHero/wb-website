@@ -1,0 +1,38 @@
+/* 
+   Pagination - Hugo's pagination is not the same as Bootstrap 4
+   Alternative would be to re-implement Hugo's pagination to Bootstrap 4 format 
+*/
+@import "../_variables.css";
+
+ul.pagination {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  @media(--viewport-md) {
+    width: 100%;
+  }
+
+  background-color: var(--color-white);
+  box-shadow: var(--standard-box-shadow);
+
+  & li {
+    flex: 1;
+    padding: 0px 8px;
+    color: var(--color-blue-bayoux);
+    & a {
+      background-color: var(--color-white);
+      color: var(--color-blue-bayoux);
+    }
+    & a:hover {
+      text-decoration: none;
+      color: var(--color-flamingo)
+    }
+  }
+
+  & li.active {
+    & a {
+      background-color: var(--color-white);
+      color: var(--color-flamingo);
+    }
+  }
+}

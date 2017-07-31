@@ -5,7 +5,7 @@
     <div>
       <h1 id="title">The LightBulb™©®</h1>
 
-      {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") 5 }}    
+      {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") 10 }}    
 
       <ul class='post-list'>
           {{ range $paginator.Pages }}

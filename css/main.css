@@ -28,6 +28,7 @@
 @import "components/_dropdown_nav";
 @import "components/_info_tabs";
 @import "components/_logos_card";
+@import "components/_pagination";
 @import "components/_testimonial_carousel";
 @import "components/_testimonial_large";
 @import "components/_testimonial_stack";
@@ -142,6 +143,7 @@ iframe.pardot-form {
 .blog-list {
   & ul.post-list {
     list-style-type: none;
+    padding-left: 0px;
 
     & li {
       padding: 24px;
