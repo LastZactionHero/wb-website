@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "workbright-wire"
-banner: "new-support-center-april-2016/banner.png"
 slug: new-support-center-april-2016
 description: 
 ---

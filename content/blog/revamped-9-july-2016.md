@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "workbright-wire"
-banner: "revamped-9-july-2016/banner.png"
 slug: revamped-9-july-2016
 description: 
 ---

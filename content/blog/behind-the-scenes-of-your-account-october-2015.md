@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "workbright-wire"
-banner: "behind-the-scenes-of-your-account-october-2015/banner.png"
 slug: behind-the-scenes-of-your-account-october-2015
 description: 
 ---

@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "workbright-wire"
-banner: "new-image-editor-august-2016/banner.png"
 slug: new-image-editor-august-2016
 description: 
 ---

@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "workbright-wire"
-banner: "workbrights-open-api-is-here-october-2015/banner.png"
 slug: workbrights-open-api-is-here-october-2015
 description: 
 ---
@@ -123,7 +122,7 @@ Join us on Thursday, November 12th to learn more about the unique data issues fa
 
 **Presented by:** David Secunda, Co-Founder & CEO of WorkBright  
   
-[![david secunda](/images/blog/workbrights-open-api-is-here-october-2015/david-secunda-150x150.png)](http://all4staff.com/wp-content/uploads/2015/04/david-secunda.png)Dave is a passionate entrepreneur and HR enthusiast who has been selected to serve on numerous boards and host speaking engagements across the country for his expertise and forward-thinking perspective on the changing face of the HR industry.  
+Dave is a passionate entrepreneur and HR enthusiast who has been selected to serve on numerous boards and host speaking engagements across the country for his expertise and forward-thinking perspective on the changing face of the HR industry.  
   
 **Bonus:** Each attendee will receive a free, printable flyer to hang in your office to train your employees on data security. 
 
@@ -152,14 +151,6 @@ Join us on Thursday, November 12th to learn more about the unique data issues fa
 
 If you saw our feature on Cary Yocum last month, then you know that our team is GROWING. And with this growth comes some business necessities... like a place to put everyone! So we have moved our operations in to a private workspace in our home office at 1035 Pearl St. in Boulder, Colorado. _No need to update your address book, it's the same address as before for billing and operations purposes._ 
 As a **thank you** to our customers - new and old - that have made this possible, we wanted to share a few photos from our new space. If you're ever in town, give us a ring and come say hello - our view is Incredible!  
-  
- ![](/images/blog/workbrights-open-api-is-here-october-2015/Screen_Shot_2015_10_07_at_4.01.52_PM.png)  
-  
- ![](/images/blog/workbrights-open-api-is-here-october-2015/Screen_Shot_2015_10_07_at_4.02.19_PM.png)  
-  
- ![](/images/blog/workbrights-open-api-is-here-october-2015/Screen_Shot_2015_10_07_at_4.02.40_PM.png)  
-  
- ![](/images/blog/workbrights-open-api-is-here-october-2015/Screen_Shot_2015_10_07_at_4.02.30_PM.png)  
   
 
  |

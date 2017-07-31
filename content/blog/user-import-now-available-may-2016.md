@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "workbright-wire"
-banner: "user-import-now-available-may-2016/banner.png"
 slug: user-import-now-available-may-2016
 description: 
 ---
