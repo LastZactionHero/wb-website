@@ -15,16 +15,20 @@ categories:
   - "interviewing"
 slug: hr-fail-commute-concerns
 description: Can you ask or be concerned about an employees commute during the interview process? This twitter user thinks it's a #HRFail... do you?
+banner: "hr-fail-commute-concerns/banner.png"
+
 ---
-![hrfail-commute](/images/blog/hr-fail-commute-concerns/hrfail-commute-300x52.png)The heart of the question: Is asking about a candidate’s commute okay during the interview process?  
+**The heart of the question:** Is asking about a candidate’s commute okay during the interview process?  
   
 In this tweet, a young woman was interviewed for a job for which she felt highly qualified, but she didn’t get the position. During that interview, she was told that her commute was concerning to the organization. Now, this may not have been the reason she didn't get the job, but the implication of it in her interview process has lead her to believe that it was. Now, Nicole feels slighted because she does not believe it was appropriate for a hiring manager to make a decision that she thought should be hers to make. If she didn’t mind the commute, why did it bother them?  
   
-**Is it a #HRfail?**  
+### Is it a #HRfail?
   
 While the candidate is correct in that she should be able to decide how long a commute she is willing to make, it’s also a legitimate concern for the company, and there’s no law regarding it, so the answer is: no, it isn’t a #HRfail to discuss commute or to factor it into a hiring decision.  
   
- **![shutterstock_200884487](/images/blog/hr-fail-commute-concerns/shutterstock_200884487-300x206.jpg)Best Practices**  
+{{% image_aligned src="/images/blog/hr-fail-commute-concerns/shutterstock_200884487-300x206.jpg" align="right" width="256px" %}}  
+
+ **Best Practices**  
   
 It is important for a hiring manager to be confident in their decisions, so if commute is a concern, it should be discussed. It is important to note that some people really don’t mind a long commute, and some people even enjoy the time alone. Even the definition of “long” varies when it comes to travel time.  
   
@@ -40,7 +44,7 @@ As you are likely well aware, there are many topics you can’t ask in an interv
   
 Did you know that when you add a new employee to WorkBright all you need to have is first and last name + email address? Leave the rest of the details like address and SSN to them! Just one more way WorkBright is helping you save time with your new hires.  
   
-Not a WorkBright user but want to be able to easily onboard new employees? [Request a free trial here.](https://workbright.com/benefits-features/)  
+Not a WorkBright user but want to be able to easily onboard new employees? [Request a free trial here.](/request-a-demo)  
   
 By: Melissa M., WorkBright  
   

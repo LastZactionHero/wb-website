@@ -2,6 +2,9 @@
   <div class='blog-post'>
     <h1>{{ .Title }}</h1>
     <div class='paper'>
+      {{ if isset .Page.Params "banner" }}
+        <img src="/images/blog/{{ .Page.Params.banner }}" class='banner'/>
+      {{ end }}
       {{ .Content }}
     </div>
   </div>

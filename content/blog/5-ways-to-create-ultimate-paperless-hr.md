@@ -8,6 +8,7 @@ categories:
   - "hr-best-practices"
 slug: 5-ways-to-create-ultimate-paperless-hr
 description: 4 Ways To Create The Ultimate Paperless HR
+banner: "5-ways-to-create-ultimate-paperless-hr/banner.png"
 ---
 Many years after the advent of computers, the paperless HR department still remains an elusive goal to many managers. And who could blame them? HR is a department teeming with processes, procedures, and all sorts of legal requirements - most of which are very much paper-based. To go paperless, HR managers have to consider all sorts of security, accuracy, accessibility, and compliance issues.  
   
@@ -34,8 +35,10 @@ To fully implement these paperless office measures, proper support infrastructur
 If you are a business that needs to onboard new employees fast, you know the administrative overheads can be very overwhelming. An effective mobile HR onboarding system drastically reduces the time it takes to collect and process form for these new hires.  
   
 **A great mobile onboarding software allows:**
+
 - Employees to access the system using any device
 - HR managers to review forms instantly, eliminating piles of paperwork that has come to be staples on desks.
 - Enable employees to securely submit documents such as certifications or licenses
 - Allows employees to sign forms digitally, using their fingertips
-All4Staff addresses the pains of the hiring and onboarding process, especially that of the underserved needs of companies that rely on part time or seasonal employees. We help employers and new employees get to work without having to go through inefficient onboarding procedures. For more information about our services, check out our [product overview](https://workbright.wpengine.com/overview).
+
+WorkBright addresses the pains of the hiring and onboarding process, especially that of the underserved needs of companies that rely on part time or seasonal employees. We help employers and new employees get to work without having to go through inefficient onboarding procedures. For more information about our services, check out our [tour](/tour).
