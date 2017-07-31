@@ -12,6 +12,7 @@ categories:
   - "employee-best-practices"
   - "hr-best-practices"
   - "retention"
+banner: "building-your-employer-brand/banner.png"
 slug: building-your-employer-brand
 description: 
 ---

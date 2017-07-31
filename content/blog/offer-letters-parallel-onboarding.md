@@ -13,6 +13,7 @@ categories:
   - "hiring"
   - "hr-best-practices"
   - "legal"
+banner: "offer-letters-parallel-onboarding/banner.jpg"
 slug: offer-letters-parallel-onboarding
 description: Join David Secunda as he discusses best practices surrounding background checks and what you are really getting when you run a background check.
 ---

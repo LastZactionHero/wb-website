@@ -9,6 +9,7 @@ categories:
   - "company-news"
   - "culture"
   - "mission-critical-workforce"
+banner: "meet-dj-howard/banner.jpg"
 slug: meet-dj-howard
 description: 
 ---

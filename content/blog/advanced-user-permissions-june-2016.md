@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "workbright-wire"
+banner: "advanced-user-permissions-june-2016/banner.png"
 slug: advanced-user-permissions-june-2016
 description: 
 ---

@@ -11,6 +11,7 @@ categories:
   - "bright-side-of-hr"
   - "hr-best-practices"
   - "legal"
+banner: "boulder-housing-partners-selects-workbright-for-employee-onboarding/banner.png"
 slug: boulder-housing-partners-selects-workbright-for-employee-onboarding
 description: 873
 ---

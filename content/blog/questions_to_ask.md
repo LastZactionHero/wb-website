@@ -11,6 +11,7 @@ categories:
   - "hiring"
   - "hr-best-practices"
   - "interviewing"
+banner: "questions_to_ask/banner.jpg"
 slug: questions_to_ask
 description: The job interview is your first face-to-face interaction with a job candidate. The questions you ask will help you make the best decision for your company.
 ---

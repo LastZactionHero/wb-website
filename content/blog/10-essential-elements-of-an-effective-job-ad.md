@@ -13,6 +13,8 @@ categories:
   - "hr-best-practices"
   - "interviewing"
   - "legal"
+banner: "/images/blog/10-essential-elements-of-an-effective-job-ad/banner.jpg"
+banner: "10-essential-elements-of-an-effective-job-ad/banner.jpg"
 slug: 10-essential-elements-of-an-effective-job-ad
 description: 
 ---

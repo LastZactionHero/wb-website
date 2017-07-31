@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "workbright-wire"
+banner: "introducing-robust-reporting-september-2015/banner.png"
 slug: introducing-robust-reporting-september-2015
 description: 
 ---

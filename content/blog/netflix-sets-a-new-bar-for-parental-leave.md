@@ -25,10 +25,6 @@ Parents have the option to come back full time, work part-time or stay home alto
   
   
   
-
-
-  
-  
 **Why it matters**  
   
 With this announcement, Netflix has shot to the top of the list of “desirable places to work” for many. Even those who aren’t planning to have a child will be attracted to a company that values their employees that much.  

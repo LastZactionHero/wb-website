@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "uncategorized"
+banner: "all4staff-named-one-of-entrepreneurs-100-brilliant-companies-to-watch/banner.png"
 slug: all4staff-named-one-of-entrepreneurs-100-brilliant-companies-to-watch
 description: Read the Entrepreneur's 100 Brilliant Companies that gives inspiration and drives changes to every companies. Know more by reading our blog here.
 ---

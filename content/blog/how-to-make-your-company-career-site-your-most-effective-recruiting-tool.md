@@ -13,6 +13,7 @@ categories:
   - "how-to"
   - "hr-best-practices"
   - "mission-critical-workforce"
+banner: "how-to-make-your-company-career-site-your-most-effective-recruiting-tool/banner.png"
 slug: how-to-make-your-company-career-site-your-most-effective-recruiting-tool
 description: 
 ---

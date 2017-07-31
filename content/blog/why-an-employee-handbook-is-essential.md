@@ -11,6 +11,7 @@ categories:
   - "employee-best-practices"
   - "how-to"
   - "hr-best-practices"
+banner: "why-an-employee-handbook-is-essential/banner.jpg"
 slug: why-an-employee-handbook-is-essential
 description: off
 ---

@@ -14,6 +14,7 @@ categories:
   - "hiring"
   - "hr-best-practices"
   - "legal"
+banner: "the-most-common-hr-mistakes-you-may-be-making/banner.jpg"
 slug: the-most-common-hr-mistakes-you-may-be-making
 description: The Most Common HR Mistakes You May Be Making
 ---

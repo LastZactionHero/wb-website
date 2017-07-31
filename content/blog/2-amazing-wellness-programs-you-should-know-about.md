@@ -14,6 +14,7 @@ categories:
   - "hr-best-practices"
   - "mission-critical-workforce"
   - "wellness"
+banner: "2-amazing-wellness-programs-you-should-know-about/banner.jpg"
 slug: 2-amazing-wellness-programs-you-should-know-about
 description: Wellness programs are not just a 'nice to have' for the millennial generation! Check out these two awesome examples and see how you can up your game...
 ---

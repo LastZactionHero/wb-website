@@ -11,6 +11,7 @@ categories:
   - "bright-side-of-hr"
   - "hr-best-practices"
   - "legal"
+banner: "background-checks-what-youre-really-getting/banner.jpg"
 slug: background-checks-what-youre-really-getting
 description: 76
 ---

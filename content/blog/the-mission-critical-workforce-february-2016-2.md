@@ -6,6 +6,7 @@ tags:
   - "mission-critical-workforce"
 categories:
   - "workbright-wire"
+banner: "the-mission-critical-workforce-february-2016-2/banner.png"
 slug: the-mission-critical-workforce-february-2016-2
 description: 
 ---

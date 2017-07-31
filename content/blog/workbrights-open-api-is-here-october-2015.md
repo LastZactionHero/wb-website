@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "workbright-wire"
+banner: "workbrights-open-api-is-here-october-2015/banner.png"
 slug: workbrights-open-api-is-here-october-2015
 description: 
 ---

@@ -13,6 +13,7 @@ categories:
   - "how-to"
   - "hr-best-practices"
   - "interviewing"
+banner: "driving-away-the-best-job-candidates/banner.jpg"
 slug: driving-away-the-best-job-candidates
 description: 
 ---

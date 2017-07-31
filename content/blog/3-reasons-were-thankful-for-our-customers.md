@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "uncategorized"
+banner: "3-reasons-were-thankful-for-our-customers/banner.jpg"
 slug: 3-reasons-were-thankful-for-our-customers
 description: 
 ---

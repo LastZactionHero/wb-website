@@ -10,12 +10,13 @@ tags:
 categories:
   - "hr-best-practices"
   - "vocabulary"
+banner: "hr-vocabulary-boomerang-employee/banner.jpg"
 slug: hr-vocabulary-boomerang-employee
 description: If a former employee of your company who left on good terms applies for an open position, should you hire them back? Learn more about Boomerang Employees
 ---
 If a former employee of your company who left on good terms applies for an open position, should you hire them back? Many companies don’t, but perhaps a better question would be, “Why wouldn’t you?”  
   
-**[![shutterstock_160799519](/images/blog/hr-vocabulary-boomerang-employee/shutterstock_160799519-300x200.jpg)](https://workbright.com/wp-content/uploads/2016/03/shutterstock_160799519.jpg)Definition**  
+**Definition**  
   
 **Boomerang Employee:** workers who are part of the company and then leave, but want to come back later. It’s not uncommon for employees to have to leave work for family reasons, like needing to care for an elderly parent or move when a spouse gets transferred out of state. So clearly, if they are a great part of your team, you’d love to have them back when they are again available.  
   

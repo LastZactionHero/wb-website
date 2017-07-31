@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "uncategorized"
+banner: "3-tips-to-set-up-for-amazing-employee-retention-in-2016/banner.jpg"
 slug: 3-tips-to-set-up-for-amazing-employee-retention-in-2016
 description: Here are three simple ideas you can implement this month to help set your company up for amazing employee retention in 2016!
 ---

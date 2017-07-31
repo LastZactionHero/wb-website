@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "uncategorized"
+banner: "can-you-count-on-your-employees-staying-on-board/banner.png"
 slug: can-you-count-on-your-employees-staying-on-board
 description: 42% of your very satisfied workers are seriously considering leaving their jobs!
 ---

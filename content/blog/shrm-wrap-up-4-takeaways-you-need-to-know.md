@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "uncategorized"
+banner: "shrm-wrap-up-4-takeaways-you-need-to-know/banner.jpg"
 slug: shrm-wrap-up-4-takeaways-you-need-to-know
 description: The 4 key takeaways you must need to know during SHRM is here! Read more about our blog at www.workbright/blog.
 ---

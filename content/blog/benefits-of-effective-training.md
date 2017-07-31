@@ -13,6 +13,7 @@ categories:
   - "hr-best-practices"
   - "retention"
   - "training"
+banner: "benefits-of-effective-training/banner.jpg"
 slug: benefits-of-effective-training
 description: 
 ---

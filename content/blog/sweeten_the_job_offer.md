@@ -15,6 +15,7 @@ categories:
   - "hiring"
   - "hr-best-practices"
   - "onboarding"
+banner: "sweeten_the_job_offer/banner.jpg"
 slug: sweeten_the_job_offer
 description: 
 ---

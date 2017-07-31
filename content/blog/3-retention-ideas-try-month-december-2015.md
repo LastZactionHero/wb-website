@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "workbright-wire"
+banner: "3-retention-ideas-try-month-december-2015/banner.png"
 slug: 3-retention-ideas-try-month-december-2015
 description: 
 ---

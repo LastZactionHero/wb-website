@@ -15,6 +15,7 @@ categories:
   - "mission-critical-workforce"
   - "performance-review"
   - "supplementary-files"
+banner: "supplemental-files/banner.png"
 slug: supplemental-files
 description: 
 ---

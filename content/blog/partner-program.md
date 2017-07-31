@@ -12,6 +12,7 @@ categories:
   - "hr-best-practices"
   - "mission-critical-workforce"
   - "partner"
+banner: "partner-program/banner.jpg"
 slug: partner-program
 description: The Workbright Partner Program shares a portion of WorkBright’s revenue with those that help other companies go digital with onboarding!
 ---

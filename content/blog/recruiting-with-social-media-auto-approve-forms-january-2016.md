@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "workbright-wire"
+banner: "recruiting-with-social-media-auto-approve-forms-january-2016/banner.png"
 slug: recruiting-with-social-media-auto-approve-forms-january-2016
 description: 
 ---

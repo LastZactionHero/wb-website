@@ -10,6 +10,7 @@ tags:
 categories:
   - "employee-best-practices"
   - "mission-critical-workforce"
+banner: "mcw-member-of-the-month-peter-holter/banner.jpg"
 slug: mcw-member-of-the-month-peter-holter
 description: 832
 ---

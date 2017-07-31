@@ -10,6 +10,7 @@ categories:
   - "employee-best-practices"
   - "hr-best-practices"
   - "retention"
+banner: "11-employee-retention-strategies-that-work/banner.jpg"
 slug: 11-employee-retention-strategies-that-work
 description: 750
 ---

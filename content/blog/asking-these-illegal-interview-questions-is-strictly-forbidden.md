@@ -14,6 +14,7 @@ categories:
   - "how-to"
   - "hr-best-practices"
   - "legal"
+banner: "asking-these-illegal-interview-questions-is-strictly-forbidden/banner.jpg"
 slug: asking-these-illegal-interview-questions-is-strictly-forbidden
 description: 
 ---

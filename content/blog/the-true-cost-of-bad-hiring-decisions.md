@@ -13,6 +13,7 @@ categories:
   - "how-to"
   - "hr-best-practices"
   - "interviewing"
+banner: "the-true-cost-of-bad-hiring-decisions/banner.jpg"
 slug: the-true-cost-of-bad-hiring-decisions
 description: 
 ---

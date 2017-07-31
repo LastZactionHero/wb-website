@@ -6,6 +6,7 @@ tags:
 
 categories:
   - "uncategorized"
+banner: "5-real-life-employee-appreciation-ideas-that-rock/banner.jpg"
 slug: 5-real-life-employee-appreciation-ideas-that-rock
 description: Here are the 5 real life employee appreciation ideas you can implement TODAY to be on your way to higher retention and happier employees!
 ---

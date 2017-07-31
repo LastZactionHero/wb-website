@@ -14,6 +14,7 @@ categories:
   - "culture"
   - "hr-best-practices"
   - "mission-critical-workforce"
+banner: "5-cant-miss-sessions-shrm-2016/banner.png"
 slug: 5-cant-miss-sessions-shrm-2016
 description: We are so excited to join over 13,000 of our HR friends at this year's SHRM 2016 Annual Conference! Here are 5 sessions you can't miss at this year's show.
 ---
