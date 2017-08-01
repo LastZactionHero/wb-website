@@ -1,5 +1,5 @@
 ---
-title: "All4Staff Named One of Entrepreneur's 100 Brilliant Companies To Watch!"
+title: "WorkBright Named One of Entrepreneur's 100 Brilliant Companies To Watch!"
 author: "Chapelle"
 date: 2015-06-12
 tags:
@@ -16,7 +16,7 @@ description: Read the Entrepreneur's 100 Brilliant Companies that gives inspirat
   
 Every year [Entrepreneur](http://www.entrepreneur.com/) selects [100 Brilliant Companies to Watch](http://www.entrepreneur.com/article/245890) that, in the Magazine's own words, "have a couple of qualities in common: They inspire us, and they are driving change."  
   
-We are thrilled to announce that [WorkBright](https://workbright.com) (formerly All4Staff) **has the honor of being included on this year's 100 Brilliant Companies** in the ["Brilliant Business Tools"](http://www.entrepreneur.com/article/245907) category!  
+We are thrilled to announce that [WorkBright](https://workbright.com) **has the honor of being included on this year's 100 Brilliant Companies** in the ["Brilliant Business Tools"](http://www.entrepreneur.com/article/245907) category!  
   
 We are especially excited about our inclusion on this list because of the criteria that Entrepreneur used to evaluate it's finalists, _"... That's the picture of entrepreneurship today. It's a picture we try to illustrate through our selection of 100 brilliant companies, ideas and technologies that are responding to consumer demand, solving problems and filling voids we might not have even realized were there."_  
   
