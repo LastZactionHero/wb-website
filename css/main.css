@@ -193,7 +193,6 @@ iframe.pardot-form {
 .form-bg {
   background-color: var(--color-concrete);
   padding: 8px 24px;
-  margin-top: -16px;
   border-radius: var(--border-radius);
 }
 
@@ -219,6 +218,17 @@ iframe.pardot-form {
 
   & p {
     font-size: 1.25rem;
+  }
+}
+
+.page-header {
+  & h1 {
+    margin-bottom: 0;
+  }
+  
+  & h2 {
+    font-size: 1.4rem;
+    margin-top: 12px;
   }
 }
 

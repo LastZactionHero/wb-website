@@ -1,5 +1,7 @@
 {{ partial "page-wrapper-top" . }}
-  <h1>{{ .Title }}</h1>
-  <h2>{{ .Params.Subtitle }}</h2>
+  <div class='page-header'>
+    <h1>{{ .Title }}</h1>
+    <h2>{{ .Params.Subtitle }}</h2>
+  </div>
   {{ .Content }}
 {{ partial "page-wrapper-bottom" . }}
