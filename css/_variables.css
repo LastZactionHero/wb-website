@@ -60,6 +60,7 @@
   --color-btn-info-text-hover: var(--color-white);
 
   --standard-box-shadow: 0px 0px 12px var(--color-box-shadow);
+  --raised-box-shadow: 0 7px 14px var(--color-black-transparent-08), 0 3px 6px var(--color-black-transparent-08);
 
   --font-size-p: 1.25rem;
 
@@ -67,7 +68,7 @@
 
   --border-radius: 10px;
   
-  --standard-stripe-angle: -8deg;
+  --standard-stripe-angle: -5deg;
 }
 
 /* Also defined in Javascript _viewports.js. Update Javascript if modified. */
