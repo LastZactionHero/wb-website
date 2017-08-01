@@ -17,7 +17,7 @@ ul.tour {
       opacity: 1;
       height: 580px;
       max-height: 636px;
-      width: 80%;
+      width: 95%;
       z-index: 0;
       margin-top: 17px;
 
@@ -142,8 +142,8 @@ ul.tour {
       height: 580px;
       max-height: 636px;
       margin-left: 0px; 
-      width: 80%;
-      right: 0px;
+      width: 96%;
+      right: 10px;
 
       @media (--viewport-md) {
         width: 100%;
