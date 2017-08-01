@@ -38,17 +38,3 @@ file_paths.each_with_index do |file_path, file_path_idx|
     write_to_file(file_path, original_content)
   end
 end
-
-# Terrible:
-# 3-retention-ideas-try-month-december-2015
-# advanced-user-permissions-june-2016
-# behind-the-scenes-of-your-account-october-2015
-# ntroducing-robust-reporting-september-2015
-# new-image-editor-august-2016
-# new-support-center-april-2016
-# recruiting-with-social-media-auto-approve-forms-january-2016
-# revamped-9-july-2016
-# the-mission-critical-workforce-february-2016-2
-# the-mission-critical-workforce-february-2016
-# user-import-now-available-may-2016
-# workbrights-open-api-is-here-october-2015

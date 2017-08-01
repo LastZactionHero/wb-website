@@ -36,8 +36,11 @@
 @import "components/_video_embed";
 @import "components/_section_return";
 
+@import "layouts/_blog";
 @import "layouts/_customers";
+
 @import "_browser_support";
+
 
 
 
@@ -138,34 +141,6 @@ a.ext {
 
 iframe.pardot-form {
   margin: 32px 0px;
-}
-
-.blog-list {
-  & ul.post-list {
-    list-style-type: none;
-    padding-left: 0px;
-
-    & li {
-      padding: 24px;
-      margin-bottom: 16px;
-      background-color: var(--color-white);
-      color: var(--color-blue-bayoux);
-      & a {
-        color: var(--color-blue-bayoux);  
-      }
-      
-    }
-  }
-}
-
-.blog-post {
-  & img.banner {
-    margin-bottom: 24px;
-  }
-
-  & p {
-    font-size: 1rem;
-  }
 }
 
 .rotating-title {

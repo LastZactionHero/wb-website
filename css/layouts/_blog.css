@@ -1,0 +1,45 @@
+@import "../_variables.css";
+
+.blog-list {
+  & ul.post-list {
+    list-style-type: none;
+    padding-left: 0px;
+
+    & li {
+      padding: 24px;
+      margin-bottom: 16px;
+      background-color: var(--color-white);
+      box-shadow: var(--standard-box-shadow);
+      color: var(--color-blue-bayoux);
+      & a {
+        color: var(--color-flamingo);  
+      }
+
+      & h3 {
+        margin-bottom: 0px;
+      }
+      & p {
+         font-size: 1rem; 
+      }
+      & .date {
+        color: var(--color-silver-chalice);
+      }
+      
+    }
+  }
+}
+
+.blog-post {
+  & .paper {
+    padding-top: 64px;
+    padding-bottom: 64px;
+  }
+
+  & img.banner {
+    margin-bottom: 24px;
+  }
+
+  & p {
+    font-size: 1rem;
+  }
+}
