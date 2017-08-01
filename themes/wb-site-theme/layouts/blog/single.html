@@ -1,6 +1,9 @@
 {{ partial "page-wrapper-top" . }}
   <div class='blog-post'>
     <h1>{{ .Title }}</h1>
+
+    <a class='section-return' href='/blog'>View all posts</a>
+
     <div class='paper'>
       {{ if isset .Page.Params "banner" }}
         <img src="/images/blog/{{ .Page.Params.banner }}" class='banner' width=100%/>
@@ -8,5 +11,12 @@
       {{ .Content }}
       <div class='clearfix'/></div>
     </div>
+  </div>
+
+  <div class='demo-cta demo-cta-large'>
+    <span class='title'>
+    Ready to try WorkBright?
+    </span>
+    <a class='btn btn-primary' href='/request-a-demo'>Request a Demo</a>
   </div>
 {{ partial "page-wrapper-bottom" . }}

@@ -9,10 +9,20 @@
 
       <ul class='post-list'>
           {{ range $paginator.Pages }}
+            {{ $banner := .Params.banner }}
             <li>
               <h3><a href="{{ .URL }}">{{ .Title }}</a></h3>
-              <p>{{ .Date.Format "01/02/2006" }}</p>
-              <p>{{ .Summary }}</p>
+              <p class='date'>{{ .Date.Format "01/02/2006" }}</p>
+              <div class='row'>
+                <div class='{{ if isset .Params "banner" }}col-md-8{{else}}col-md-12{{end}}'>
+                  <p>{{ .Summary }}</p>
+                </div>
+                {{ if isset .Params "banner" }}
+                  <div class='col-md-4'>
+                    <img src="/images/blog/{{.Params.banner}}" width=100% />
+                  </div>
+                {{ end }}
+              </div>
             </li>
           {{ end }}
       </ul>
