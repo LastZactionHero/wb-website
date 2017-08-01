@@ -118,7 +118,7 @@ body {
   right: 0px;
   display: grid; 
   grid-template-columns: 100px 100px 100px;
-  grid: repeat(3, 640px) / repeat(10, 1fr);
+  grid: repeat(3, 680px) / repeat(10, 1fr);
   transform: skewY(var(--standard-stripe-angle));
   transform-origin: 0;
 
