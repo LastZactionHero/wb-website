@@ -54,6 +54,12 @@
       background-color: white;
       padding: 24px 16px;
     }
+    
+    /* index of Sign In button */
+    & .nav-item:nth-child(5) {
+      margin-left: 40px;
+      margin-right: 10px;
+    }
 
     & .nav-item {
       /* Basic nav-links */
@@ -84,8 +90,6 @@
     }
 
     & .nav-item-callout {
-      margin-left: 36px;
-
       @media (--viewport-md) {
         margin-left: -16px;
         margin-right: -16px;
@@ -106,6 +110,10 @@
           border-radius: 0px;
         }
       }
+      
+      & .btn-primary.nav-link {
+        background: var(--color-orange-peel);
+      }
 
       & .btn-secondary.nav-link {
         color: var(--color-flamingo);
@@ -115,7 +123,6 @@
         background-color: var(--color-white);
         color: var(--color-flamingo);
       }
-
     }
   } /* .navbar-nav */
   
