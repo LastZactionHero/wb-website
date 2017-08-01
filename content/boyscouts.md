@@ -7,8 +7,6 @@ pardot_form_cta: "Request a Free Demonstration Here!"
 pardot_form_url: "http://www2.workbright.com/l/81162/2016-08-25/34s9gm"
 ---
 
-## Why Boy Scouts Councils Across the Country Choose WorkBright!
-
 The verdict is in… Boy Scouts Councils across the country LOVE onboarding staff with WorkBright! Our focus on mobile-first technology, ability to handle both new and returning seasonal staff, and easy export to IOIPay make WorkBright the perfect choice for the unique staff at Boy Scouts of America.
 
 ### What Boy Scouts Councils Love Most About WorkBright:

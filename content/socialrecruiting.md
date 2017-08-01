@@ -8,11 +8,11 @@ pardot_form_url: "http://www2.workbright.com/l/81162/2016-03-22/2b6lny"
 ---
 
 
-{{% image_aligned src="/images/landing/socialrecruiting-paperback.png" align="left" width="128px" %}}
+{{% image_aligned src="/images/landing/socialrecruiting-paperback.png" align="right" width="128px" %}}
 
-## Free eBook: "Recruiting With Social Media"
+### Free eBook: "Recruiting With Social Media"
 
-### Enter Your Information To Get Your Copy!
+**Enter Your Information To Get Your Copy!**
 
 For rapidly hiring companies, finding qualified candidates in bulk can be a laborious vetting and administrative challenge. In this eBook David Secunda, outlines how he leveraged today’s social channels to hire more than 350 GREAT staff members each year in his other business, Avid4 Adventure.
 

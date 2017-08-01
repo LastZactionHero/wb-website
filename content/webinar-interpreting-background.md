@@ -7,7 +7,7 @@ pardot_form_cta: "Enter Your Information Here To Watch The Recording!"
 pardot_form_url: "http://www2.workbright.com/l/81162/2017-05-11/d2f2f4"
 ---
 
-## Safe to hire? Or NOT? How can you know?
+### Safe to hire? Or NOT? How can you know?
 
 Background checks are an essential part of the hiring process. Knowing how to evaluate and handle the reports you get back from your screening provider is essential. Equal employment policies and various Ban the Box statutes around the country require you to adopt background screening procedures that are sensitive to individual-level circumstances. Meanwhile, you must consider the risks involved in the roles you are seeking to fill.
 

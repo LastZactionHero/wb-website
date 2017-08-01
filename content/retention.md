@@ -7,7 +7,6 @@ pardot_form_cta: "Get Your Copy"
 pardot_form_url: "http://www2.workbright.com/l/81162/2015-10-14/cbr6z"
 ---
 
-## Free Flip Book
 ### “Retaining Your Best Employees: 27 Retention Tips from the Best Seasonal Employers” 
 
 ![](/images/landing/retention-flipbook.png)

@@ -7,7 +7,7 @@ pardot_form_cta: "Enter Your Information Here To Register!"
 pardot_form_url: "http://www2.workbright.com/l/81162/2017-02-28/bdvgk4"
 ---
 
-## Maximize Employee Satisfaction & Retention In Each Phase Of The Seasonal Employee Lifecycle!
+### Maximize Employee Satisfaction & Retention In Each Phase Of The Seasonal Employee Lifecycle!
 
 If you are involved with the management of seasonal employees, then you know that that there are many differences in working with temporary workforces vs. traditional, full time staff. In this webinar, David Secunda will share tips and tricks from over 20 years of experience working in and managing seasonal workforces at top employers including Avid4 Adventure, one of Outside Magazine’s Best Places to Work.
 

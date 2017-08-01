@@ -2,18 +2,18 @@
 date: 2017-06-20T11:49:34-06:00
 type: "landing"
 title: "David Secunda"
-subtitle: "CEO | Entrepreneur | HR Industry Leader | Public Speaker"
+subtitle: "CEO, Entrepreneur, HR Industry Leader, Public Speaker"
 pardot_form_cta: "Request a Speaking Engagement"
 pardot_form_url: "http://www2.workbright.com/l/81162/2016-03-30/2bypr1"
 ---
 
 
 
-## David Secunda
+### David Secunda
 
 {{% image_aligned src="/images/landing/david-profile.png" align="left" width="128px" %}}
 
-### CEO | HR Leader | Public Speaker
+**CEO, HR Leader, Public Speaker**
 
 David Secunda, Co-Founder and CEO of WorkBright, is a passionate entrepreneur and HR enthusiast who has been selected to serve on numerous boards and host speaking engagements across the country for his expertise and forward-thinking perspective on the changing face of the HR industry. He started WorkBright after experiencing first-hand the pain of onboarding hundreds of employees at his previous venture, Avid4 Adventure which runs day & resident camps in multiple states.
 
