@@ -221,3 +221,44 @@ iframe.pardot-form {
     font-size: 1.25rem;
   }
 }
+
+.home-header {
+  & h1 {
+    text-align: left;
+    margin-bottom: 42px;
+    
+    @media(--viewport-xs) {
+      text-align: center;
+    }
+    
+    @media(--viewport-sm) {
+      text-align: center;
+    }
+    @media(--viewport-md) {
+      text-align: center;
+    }
+  }
+  
+  & h2 {
+    text-align:left;
+    font-size: 1.4rem;
+    
+    @media(--viewport-sm) {
+      font-size: 1.2rem;
+    }
+  }
+}
+
+.home-select-box-cta {
+  margin-top: 120px;
+  margin-bottom: 50px;
+  
+  @media(--viewport-sm) {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+}
+
+.wistia_responsive_wrapper {
+  box-shadow: var(--raised-box-shadow);
+}
