@@ -2,7 +2,7 @@
 date: 2017-06-20T11:49:34-06:00
 type: "titled"
 title: "Digital New Hire Onboarding"
-subtitle: "Simplify & automate the onboarding process"
+subtitle: "Simplify and automate the onboarding process"
 ---
 
 <div class='paper'>

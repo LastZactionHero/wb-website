@@ -11,7 +11,7 @@ menu:
 title: "Why WorkBright"
 ---
 
-# Let’s Get Real… Traditional Onboarding Paperwork Sucks!
+# Let’s Get Real…<br>Traditional Onboarding Paperwork Sucks!
 
 
 {{< accordion_wrapper >}}

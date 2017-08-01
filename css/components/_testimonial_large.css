@@ -2,6 +2,8 @@
 
 .testimonial-large {
   margin-bottom: 64px;
+  background: linear-gradient(160deg, var(--color-blue-oxford), var(--color-pine-green) 40%, var(--color-blue-lagoon));
+  padding: 50px;
   & .logo-wrapper {
     background-color: var(--color-white);
     padding: 64px 16px;
