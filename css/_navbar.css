@@ -5,6 +5,10 @@
   margin-top: 0px !important;
   padding-top: 12px;
   box-shadow: var(--standard-box-shadow);
+  
+  @media (--viewport-md) {
+    padding-top: 22px;
+  }
 }
 
 .navbar {
@@ -18,7 +22,7 @@
   color: var(--color-white);
 
   margin-bottom: 84px;
-  margin-top: 48px;
+  margin-top: 28px;
   @media (--viewport-md) {
     margin-top: 8px;
   }

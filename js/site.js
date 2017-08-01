@@ -71,7 +71,7 @@ $(".rotating-title").removeClass("rotating-title-hidden");
 
 // Fixed position navbar, place higher up on screen along with scroll
 const adjustNavbar = function() {
-  const scrollThreshold = 48;
+  const scrollThreshold = 28;
 
   // Supports IE - document.documentElement.scrollTop used in IE, document.body.scrollTop used elsewhere
   const scrollTop = Math.max(document.documentElement.scrollTop, document.body.scrollTop);
