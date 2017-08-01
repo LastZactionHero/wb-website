@@ -6,9 +6,10 @@
   padding-bottom: 48px;
 
 
-  & h2 {
+  & h3 {
     margin: 16px 0px;
     color: var(--color-flamingo);
+    text-align: center;
   }
 
   & .logo-grid {
