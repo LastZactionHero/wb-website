@@ -188,9 +188,9 @@ ul.tour {
 
 .desktop-video-wrapper {
   position: absolute;
-  background: linear-gradient(160deg, var(--color-blue-oxford), var(--color-pine-green) 60%, var(--color-blue-lagoon));
-  height: 700px;
-  max-height: 700px;
+  background: linear-gradient(180deg, var(--color-blue-oxford), var(--color-pine-green) 60%, var(--color-blue-lagoon));
+  height: 900px;
+  max-height: 900px;
   width: 96%;
   z-index: -1;
   
@@ -204,13 +204,13 @@ ul.tour {
     height: 800px;
     max-height: 800px;
   }
-  @media(--viewport-md-up) {
+  @media(--viewport-md) {
     height: 600px;
     max-height: 600px;
   }
   @media(--viewport-lg) {
-    height: 600px;
-    max-height: 600px;
+    height: 900px;
+    max-height: 900px;
   }
 }
 
