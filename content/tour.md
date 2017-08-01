@@ -14,12 +14,9 @@ title: "Tour"
 
 # Hire Faster
 
-{{< youtube v6KsiexGrg0 >}}
-
-{{< demo_cta size="large">}}
-
 <ul class="tour">
   <li class='tour-step'>
+    <div class='tour-step-wrapper'></div>
     <div class='tour-step-body'>
       <h3>Made for Mobile</h3>
       <p>
@@ -34,6 +31,7 @@ title: "Tour"
   </li>
 
   <li class='tour-step'>
+    <div class='tour-step-wrapper'></div>
     <div class='tour-step-body'>
       <h3>Fingertip Signature</h3>
       <p>
@@ -48,6 +46,7 @@ title: "Tour"
   </li>
 
   <li class='tour-step'>
+    <div class='tour-step-wrapper'></div>
     <div class='tour-step-body'>
       <h3>Photo Upload</h3>
       <p>
@@ -62,6 +61,7 @@ title: "Tour"
   </li>
 
   <li class='tour-step'>
+    <div class='tour-step-wrapper'></div>
     <div class='tour-step-body'>
       <h3>Automated Email Reminders</h3>
       <p>
@@ -76,6 +76,7 @@ title: "Tour"
   </li>
 
   <li class='tour-step'>
+    <div class='tour-step-wrapper'></div>
     <div class='tour-step-body'>
       <h3>Smart I-9</h3>
       <p>
@@ -90,6 +91,7 @@ title: "Tour"
   </li>
 </ul>
 
+<div class='desktop-video-wrapper'></div>
 <div class='desktop-video-body'>
   <h3>Employee Error Resolution</h3>
   <p>
@@ -101,6 +103,7 @@ title: "Tour"
   Your browser does not support the video tag.
 </div>
 
+<div class='desktop-video-wrapper'></div>
 <div class='desktop-video-body'>
   <h3>Digital HR Filing Cabinet</h3>
   <p>
@@ -112,6 +115,7 @@ title: "Tour"
   Your browser does not support the video tag.
 </div>
 
+<div class='desktop-video-wrapper'></div>
 <div class='desktop-video-body'>
   <h3>Easy Import/Export</h3>
   <p>
@@ -123,6 +127,7 @@ title: "Tour"
   Your browser does not support the video tag.
 </div>
 
+<div class='desktop-video-wrapper'></div>
 <div class='desktop-video-body'>
   <h3>Reporting</h3>
   <p>
@@ -134,6 +139,7 @@ title: "Tour"
   Your browser does not support the video tag.
 </div>
 
+<div class='desktop-video-wrapper'></div>
 <div class='desktop-video-body'>
   <h3>Applicant Tracking Integration</h3>
   <p>
