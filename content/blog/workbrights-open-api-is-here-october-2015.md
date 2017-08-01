@@ -77,7 +77,7 @@ At WorkBright, we are all about streamlining your process and making your life e
 
   
   
- ![API (/images/blog/workbrights-open-api-is-here-october-2015/Application Program Interface) is the connection that makes it possible for two programs to interact with each other.](http://www2.workbright.com/l/81162/2015-10-07/byznw/81162/21164/shutterstock_294412070.jpg)_An API (/images/blog/workbrights-open-api-is-here-october-2015/Application Program Interface) is the connection that makes it possible for two programs to exchange certain pieces of information while keeping the rest of the system(s) safe and secure._   
+ {{% image_aligned src="/images/blog/workbrights-open-api-is-here-october-2015/Application Program Interface" align="right" width="256px" %}}_An API (/images/blog/workbrights-open-api-is-here-october-2015/Application Program Interface) is the connection that makes it possible for two programs to exchange certain pieces of information while keeping the rest of the system(s) safe and secure._   
   
 Now, enterprise customers can work with their technical teams to configure our API with their existing systems (like ATS, ERP, or any other system that stores employee data) to keep employee records up-to-date and synchronized like they were one database. Additionally, customers with large recruiting operations (e.g. staffing, on-demand workforces, etc.) can programmatically 'push' employee data INTO WorkBright from an ATS - eliminating the need for any kind of manual data entry or CSV import/export.   
   

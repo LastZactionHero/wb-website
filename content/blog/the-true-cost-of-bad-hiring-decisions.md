@@ -19,7 +19,7 @@ description:
 ---
 Hiring is a critical aspect of running a successful business. Putting the right people in the right positions is essential to building a strong team that works together and thrives together. Unfortunately, solving the hiring puzzle is no easy task, but it’s a job that must get done.  
   
- ![b4095a22c9bc8e8ae2785dddbbe76f36](/images/blog/the-true-cost-of-bad-hiring-decisions/b4095a22c9bc8e8ae2785dddbbe76f36-300x240.jpg)If you've been in a hiring position for long, then you know that there are a good number of job seekers that you do NOT want to hire. Even worse, you have probably seen the impact that a late, lazy, arrogant, dishonest, mean spirited, awful employee can have on your work place. Bad hires that are a poor fit for the job, the team, and the company are an HR nightmare. Occasionally one of these people slips through the cracks and joins your team. It's a costly mistake that needs to be avoided at all costs.  
+ {{% image_aligned src="/images/blog/the-true-cost-of-bad-hiring-decisions/b4095a22c9bc8e8ae2785dddbbe76f36-300x240.jpg" align="right" width="256px" %}}If you've been in a hiring position for long, then you know that there are a good number of job seekers that you do NOT want to hire. Even worse, you have probably seen the impact that a late, lazy, arrogant, dishonest, mean spirited, awful employee can have on your work place. Bad hires that are a poor fit for the job, the team, and the company are an HR nightmare. Occasionally one of these people slips through the cracks and joins your team. It's a costly mistake that needs to be avoided at all costs.  
   
 Even the best companies make bad hiring decisions from time to time. Why does it happen? According to a post from [NewtonSoftware.com](http://newtonsoftware.com/blog/2016/07/06/the-real-cost-of-a-bad-hire/), here is why bad hiring decisions happen:
 
@@ -29,7 +29,8 @@ Even the best companies make bad hiring decisions from time to time. Why does it
 - 10% - Fewer recruiters due to the recession have made it difficult to go through applications
 - 9% - Didn’t check references
 - 8% - Lack of strong employment brand
- ![bad-employee-traits](/images/blog/the-true-cost-of-bad-hiring-decisions/bad-employee-traits.gif)  
+
+ {{% image_aligned src="/images/blog/the-true-cost-of-bad-hiring-decisions/bad-employee-traits.gif" align="left" width="256px" %}}  
   
 Most of these things are within your control. Yet bad hiring decisions still happen and the results of a poor hiring decision are going to cost you big. Did you know that:
 - 80% of employee turnover is caused by bad hires

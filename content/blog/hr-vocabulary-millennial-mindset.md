@@ -15,7 +15,7 @@ Millenials (people born from about 1980 to the early 2000s) made big news a few 
   
   
   
-[![toms-one-for-one-campaign](/images/blog/hr-vocabulary-millennial-mindset/toms-one-for-one-campaign-300x200.jpg)](https://workbright.com/wp-content/uploads/2015/11/toms-one-for-one-campaign.jpg)  
+[{{% image_aligned src="/images/blog/hr-vocabulary-millennial-mindset/toms-one-for-one-campaign-300x200.jpg" align="right" width="256px" %}}](https://workbright.com/wp-content/uploads/2015/11/toms-one-for-one-campaign.jpg)  
   
   
   
@@ -33,7 +33,7 @@ You would be hard-pressed to find young professionals today who are willing to g
   
 It’s also important to note that the millennial mindset is catching! Recent studies show that the 45-54 year-old demographic is rapidly adopting YouTube, Facebook, and other online platforms, and the older generation is no longer standoffish about tech, but fully embracing it.  
   
- **![shutterstock_293642408](/images/blog/hr-vocabulary-millennial-mindset/shutterstock_293642408-300x200.jpg)How to accommodate the 'Millennial Mindset'**  
+ **{{% image_aligned src="/images/blog/hr-vocabulary-millennial-mindset/shutterstock_293642408-300x200.jpg" align="left" width="256px" %}}How to accommodate the 'Millennial Mindset'**  
   
 Here are a few ways for your HR department to meet the expectations of millennials:
 - Provide online training that presents the info you need to convey in an interactive format, and tie it in with company values that millennials identify with.

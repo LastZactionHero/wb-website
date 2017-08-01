@@ -13,7 +13,9 @@ banner: "meet-dj-howard/banner.jpg"
 slug: meet-dj-howard
 description: 
 ---
-![](/images/blog/meet-dj-howard/DJ_Howard.jpg)If you've called into WorkBright in the past 6 months and heard "Ya'll" on the call - you were definitely talking to DJ. WorkBright's lone southerner uprooted his life, his wife, and their 2 year old dog Simba to come join the team in January of 2016 and has been emerging as a WorkBright rockstar ever since!  
+{{% image_aligned src="/images/blog/meet-dj-howard/DJ_Howard.jpg" align="right" width="256px" %}}  
+
+If you've called into WorkBright in the past 6 months and heard "Ya'll" on the call - you were definitely talking to DJ. WorkBright's lone southerner uprooted his life, his wife, and their 2 year old dog Simba to come join the team in January of 2016 and has been emerging as a WorkBright rockstar ever since!  
   
 Now, it's your turn to get to know DJ! Check out this short interview with him and if you get him on the line next time you call, ask him about his 15 minutes of fame as the LSU punter... it's a great story!  
   
@@ -27,7 +29,7 @@ I was most drawn to WorkBright when I saw a smart and capable team building and 
   
   
   
- ![Dj & His wife Hannah](/images/blog/meet-dj-howard/Pasted-image-at-2016_08_03-14_51-300x225.png)  
+ {{% image_aligned src="/images/blog/meet-dj-howard/Pasted-image-at-2016_08_03-14_51-300x225.png" align="right" width="256px" %}}  
   
   
   

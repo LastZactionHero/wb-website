@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "uncategorized"
-banner: "3-reasons-were-thankful-for-our-customers/banner.jpg"
 slug: 3-reasons-were-thankful-for-our-customers
 description: 
 ---
@@ -19,7 +18,7 @@ The best part about all of this growth? Working with our amazing new and old cus
   
   
   
-[![THANK YOU from the WorkBright team for an amazing 2015!](/images/blog/3-reasons-were-thankful-for-our-customers/WorkBright-Team-225x300.jpg)](https://workbright.com/wp-content/uploads/2015/11/WorkBright-Team.jpg)  
+[{{% image_aligned src="/images/blog/3-reasons-were-thankful-for-our-customers/WorkBright-Team-225x300.jpg" align="right" width="256px" %}}](https://workbright.com/wp-content/uploads/2015/11/WorkBright-Team.jpg)  
   
   
   

@@ -6,11 +6,10 @@ tags:
 
 categories:
   - "uncategorized"
-banner: "all4staff-named-one-of-entrepreneurs-100-brilliant-companies-to-watch/banner.png"
 slug: all4staff-named-one-of-entrepreneurs-100-brilliant-companies-to-watch
 description: Read the Entrepreneur's 100 Brilliant Companies that gives inspiration and drives changes to every companies. Know more by reading our blog here.
 ---
-[![WorkBright is included in Entrepreneur's 100 Brilliant Companies](/images/blog/all4staff-named-one-of-entrepreneurs-100-brilliant-companies-to-watch/Entrepreneur-Magazine-272x300.png)](http://workbright.wpengine.com/wp-content/uploads/2015/06/Entrepreneur-Magazine.png)  
+[{{% image_aligned src="/images/blog/all4staff-named-one-of-entrepreneurs-100-brilliant-companies-to-watch/Entrepreneur-Magazine-272x300.png" align="right" width="256px" %}}](http://workbright.wpengine.com/wp-content/uploads/2015/06/Entrepreneur-Magazine.png)  
   
   
   
@@ -23,5 +22,3 @@ We are especially excited about our inclusion on this list because of the criter
 If you've read [our story](http://workbright.wpengine.com/company/), then you know that that's exactly what we are trying to do... change the way that HR directors, managers, and hiring agents think about onboarding by bringing HR processes in to the 21st century to make them easier, more efficient, and more secure.  
   
 [Click here](http://www.entrepreneur.com/article/245890) to see the full list of 100 Brilliant Companies, and enter your information below or [click here](http://www.workbright.com) to learn more about WorkBright!  
-  
-[pardot-form id="360" title="Demo Page Form"]

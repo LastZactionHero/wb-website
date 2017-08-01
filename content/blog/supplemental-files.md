@@ -21,7 +21,7 @@ description:
 ---
 WorkBright is thrilled to announce the release of a new feature - Supplemental File Upload! Our vision for WorkBright has always been that you would have ONE digital repository for ALL your employee files and our rockstar engineering team has been hard at work on this new supplemental file upload functionality to give you the ability to do just that!  
   
- ![supplemental](/images/blog/supplemental-files/supplemental-300x251.gif)Think of the 'Supplemental' tab as your digital filing cabinet for any documents related to an individual employee AFTER they are hired. For example, you could upload:
+ {{% image_aligned src="/images/blog/supplemental-files/supplemental-300x251.gif" align="right" width="256px" %}}Think of the 'Supplemental' tab as your digital filing cabinet for any documents related to an individual employee AFTER they are hired. For example, you could upload:
 
 - Disciplinary Action Sheets
 - Compensation Adjustments

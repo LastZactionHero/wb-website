@@ -21,7 +21,7 @@ Parents have the option to come back full time, work part-time or stay home alto
   
   
   
-[![Image courtesy of ThinkProgress](/images/blog/netflix-sets-a-new-bar-for-parental-leave/2014-10-20-Map.png)](http://thinkprogress.org/health/2012/05/24/489973/paid-maternity-leave-us/)  
+[{{% image_aligned src="/images/blog/netflix-sets-a-new-bar-for-parental-leave/2014-10-20-Map.png" align="right" width="256px" %}}](http://thinkprogress.org/health/2012/05/24/489973/paid-maternity-leave-us/)  
   
   
   
@@ -33,7 +33,7 @@ The tech sector has worked hard to attract women, and extending parental leave h
   
 Netflix’s new policy raises the bar—higher than we’ve seen it go in a long time. To avoid losing talent to Netflix, other companies need to think of ways to compete on the human resources field so that they will be perceived as just as rewarding. In turn, their competitors will have to raise the bar to keep up, spreading the effect even wider.  
   
- ![Parental Leave](/images/blog/netflix-sets-a-new-bar-for-parental-leave/PPL_baby_hi-res-300x230.jpeg)Microsoft has already taken action to stay at the front of the pack. While nowhere near as extreme as the Netflix offer, they did make a significant increase in their parental benefits by increasing mothers’ paid time off from 12 to 20 weeks, and fathers, who previously only received four paid days off (and were allowed to take off another 8 days without pay), will now receive 12 paid weeks off.  
+ {{% image_aligned src="/images/blog/netflix-sets-a-new-bar-for-parental-leave/PPL_baby_hi-res-300x230.jpeg" align="left" width="256px" %}}Microsoft has already taken action to stay at the front of the pack. While nowhere near as extreme as the Netflix offer, they did make a significant increase in their parental benefits by increasing mothers’ paid time off from 12 to 20 weeks, and fathers, who previously only received four paid days off (and were allowed to take off another 8 days without pay), will now receive 12 paid weeks off.  
   
 The competition for highly skilled workers is stiff, and if offering better benefits makes companies more desirable, then we can expect to see much more of it, as the ripple effect causes more and more companies to make changes to their own policies to increase their attractiveness to potential talent.  
   

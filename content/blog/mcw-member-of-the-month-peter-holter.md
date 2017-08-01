@@ -16,7 +16,7 @@ description: 832
 ---
 Meet Peter Holter, WorkBright's Director of Customer Success and the guy who keeps us focused and connected to on our end-users... **the Mission Critical Workforce.** Whenever we start talking through new features or try to address a new problem a customer has brought up, Peter is one of the key team members that keeps us focused on the seasonal, contract, freelance, part-time, temporary and contingent workforces that are actually using the system every day.  
   
-[![P1000134](/images/blog/mcw-member-of-the-month-peter-holter/P1000134-300x225.jpg)](https://workbright.com/wp-content/uploads/2016/02/P1000134.jpg)Why? **_Because he lived it and still does!_** As both a Mission Critical employee for multiple companies and as a Mission Critical Workforce manager for Vail Resorts. Peter embodies the adventurous, passion-seeking spirit that draws people to Mission Critical work.  
+[{{% image_aligned src="/images/blog/mcw-member-of-the-month-peter-holter/P1000134-300x225.jpg" align="right" width="256px" %}}](https://workbright.com/wp-content/uploads/2016/02/P1000134.jpg)Why? **_Because he lived it and still does!_** As both a Mission Critical employee for multiple companies and as a Mission Critical Workforce manager for Vail Resorts. Peter embodies the adventurous, passion-seeking spirit that draws people to Mission Critical work.  
   
 So this February, we sat down with Peter to talk through the benefits and struggles of stringing together several different jobs throughout the year to create a sustainable lifestyle, and how he continues to contribute to the Mission Critical Workforce today!   
   
@@ -26,7 +26,7 @@ Read Peter's story below, and if you know anyone that embodies the Mission Criti
 * * *
   
   
-**[![peter holter](/images/blog/mcw-member-of-the-month-peter-holter/peter-holter.png)](/images/blog/mcw-member-of-the-month-peter-holter/peter-holter.png)We find that a lot of MCW members have an early entrepreneurial experience, what was your first job?**  
+**[{{% image_aligned src="/images/blog/mcw-member-of-the-month-peter-holter/peter-holter.png" align="left" width="256px" %}}](/images/blog/mcw-member-of-the-month-peter-holter/peter-holter.png)We find that a lot of MCW members have an early entrepreneurial experience, what was your first job?**  
   
 My first job ever was when I was 13 as a caddy on the golf course. My older brother was doing it and I pretty much followed him into whatever he was doing. Plus it was a good job to have as a young kid because you could work as much or as little as you wanted to. If you hung out there you could get a loop and go make a few bucks. It was $10 for 18 holes so not a great wage but I did it for two summers and I got to be outside and make a little cash. So I guess that was a first entrepreneurial experience!   
   
@@ -38,7 +38,7 @@ My first year out of college I worked at office for 11 months. I was 22 and wasn
   
 **When you joined the MCW with Vail what was the plan after the ski season?**   
   
- ![CHINA A 707](/images/blog/mcw-member-of-the-month-peter-holter/CHINA-A-707-300x225.jpg)No plan. I literally had no plan as to what I would do after the winter. It was ingrained in me from teachers, society, etc. that I needed to settle into something steady and consistent after college. But I wasn't into the office job I had, so I looked at that first winter of instructing as 4-5 months then I have to figure out what I _REALLY_ need to be doing. At the beginning I thought it was short term, I did not think I would stay for 7 years.   
+ {{% image_aligned src="/images/blog/mcw-member-of-the-month-peter-holter/CHINA-A-707-300x225.jpg" align="right" width="256px" %}}No plan. I literally had no plan as to what I would do after the winter. It was ingrained in me from teachers, society, etc. that I needed to settle into something steady and consistent after college. But I wasn't into the office job I had, so I looked at that first winter of instructing as 4-5 months then I have to figure out what I _REALLY_ need to be doing. At the beginning I thought it was short term, I did not think I would stay for 7 years.   
   
 **So how did you find your next job?**   
   
@@ -52,7 +52,7 @@ The next summer I worked for an outdoor program in Vail that had a very defined 
   
 The summer season job was great but unlike the valet job, it had a defined start and end date. That introduced a new set of problems because I had gaps in the spring and fall. I wasn't planning well in the beginning, so during those lulls in the year, you hit this point where you have time but no money so you're not really equipped to get out and do these big things most people would want to do with big blocks of time.  
   
-[![P1000882](/images/blog/mcw-member-of-the-month-peter-holter/P1000882-300x225.jpg)](https://workbright.com/wp-content/uploads/2016/02/P1000882.jpg)To account for that I picked up work doing maintenance at the golf course or the tennis courts in town. Every time I thought about leaving that lifestyle it was during the spring or fall when I wasn't doing one of the jobs I was passionate about. When I wasn't making full use of who I was as a person.  
+[{{% image_aligned src="/images/blog/mcw-member-of-the-month-peter-holter/P1000882-300x225.jpg" align="left" width="256px" %}}](https://workbright.com/wp-content/uploads/2016/02/P1000882.jpg)To account for that I picked up work doing maintenance at the golf course or the tennis courts in town. Every time I thought about leaving that lifestyle it was during the spring or fall when I wasn't doing one of the jobs I was passionate about. When I wasn't making full use of who I was as a person.  
   
 The two jobs that I built my year around were skiing at Vail and [Adventures Cross-Country](http://www.adventurescrosscountry.com/) -- in both I was working with kids, in the outdoors, teaching activities, teaching leadership, teamwork, group dynamics, that's what got me excited. The things I did in the spring and fall were to string those together and they were definitely the biggest challenge.   
   
@@ -64,7 +64,7 @@ I still am! I did it full time for 7 years and am now in my 5th winter as a part
   
 Yes, I was promoted to management and I was part of a team of 3 with the Vail childrens ski school that managed a staff of 210 ski and snowboard instructors. The business was growing every year and even if we had retained 100% of instructors, we still would have had to hire to keep up with Vail's growth.  
   
-[![P1010215](/images/blog/mcw-member-of-the-month-peter-holter/P1010215-300x225.jpg)](https://workbright.com/wp-content/uploads/2016/02/P1010215.jpg)Our biggest focus every year was, how do we retain more of these instructors so they are excited about coming back next season? That lessened the number of good new instructors we needed to look for and train. Now Vail is a little different in that they attract a lot of great candidates. A lot of these are people, like myself, moved out to Colorado with the intention of working at Vail. In contrast to a lot of other places, the brand and reputation drew in top talent. Our problem was filtering the candidates and finding the ones that would fit our team well.   
+[{{% image_aligned src="/images/blog/mcw-member-of-the-month-peter-holter/P1010215-300x225.jpg" align="right" width="256px" %}}](https://workbright.com/wp-content/uploads/2016/02/P1010215.jpg)Our biggest focus every year was, how do we retain more of these instructors so they are excited about coming back next season? That lessened the number of good new instructors we needed to look for and train. Now Vail is a little different in that they attract a lot of great candidates. A lot of these are people, like myself, moved out to Colorado with the intention of working at Vail. In contrast to a lot of other places, the brand and reputation drew in top talent. Our problem was filtering the candidates and finding the ones that would fit our team well.   
   
 **How did you find those good fit employees then? Looking for anything in particular that fit the profile of a good Mission Critical employee?**   
   
@@ -84,7 +84,7 @@ Second, **plan really well.** Look ahead to the next season or project. The best
 * * *
   
   
- ![WorkBright-W-Top-225pxHR](/images/blog/mcw-member-of-the-month-peter-holter/WorkBright-W-Top-225pxHR.png)If you work with the Mission Critical Workforce and are not currently using WorkBright for your onboarding, [Request a free trial here.](https://workbright.com/benefits-features/)  
+ {{% image_aligned src="/images/blog/mcw-member-of-the-month-peter-holter/WorkBright-W-Top-225pxHR.png" align="left" width="256px" %}}If you work with the Mission Critical Workforce and are not currently using WorkBright for your onboarding, [Request a free trial here.](https://workbright.com/benefits-features/)  
   
 _By: Chapelle Ryon, WorkBright_  
   

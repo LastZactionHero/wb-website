@@ -12,7 +12,7 @@ categories:
 slug: watch-out-your-next-interview-could-be-a-plant
 description: 
 ---
-[![Image courtesy of www.best-job-interview.com](/images/blog/watch-out-your-next-interview-could-be-a-plant/illegalquestions-300x200.jpg)](https://workbright.com/wp-content/uploads/2015/09/illegalquestions.jpg)  
+[{{% image_aligned src="/images/blog/watch-out-your-next-interview-could-be-a-plant/illegalquestions-300x200.jpg" align="right" width="256px" %}}](https://workbright.com/wp-content/uploads/2015/09/illegalquestions.jpg)  
   
   
   

@@ -14,7 +14,6 @@ categories:
   - "i9"
   - "legal"
   - "uncategorized"
-banner: "ask-an-expert-how-long-to-keep-i9-files/banner.jpg"
 slug: ask-an-expert-how-long-to-keep-i9-files
 description: Get the answer to how long you need to store I9 files and, more importantly, when you need to dispose of your I9 files! Read more at www.workbright/blog.
 ---

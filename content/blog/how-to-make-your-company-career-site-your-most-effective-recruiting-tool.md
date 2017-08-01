@@ -21,7 +21,7 @@ Where do the majority of job seekers find your job listings? Is it via employee 
   
   
   
- ![Utilizing Best Practice #1 Below: Refinery 29 has two links to their career page on their homepage. One in the title bar and one right below the fold.](/images/blog/how-to-make-your-company-career-site-your-most-effective-recruiting-tool/Refinery-29-244x300.png)  
+ {{% image_aligned src="/images/blog/how-to-make-your-company-career-site-your-most-effective-recruiting-tool/Refinery-29-244x300.png" align="right" width="256px" %}}  
   
   
   
@@ -34,15 +34,11 @@ Creating an effective company career site requires time and effort, but so does 
 - **Easy To Find** – Make the link to your career page abundantly obvious. Add it to every page so you can get more traffic.
 - **Engaging** - Job seekers want to land on a career page that excites them. Sell your company as an excellent place to work through photos, videos, infographics, reviews, etc.
 - **Highlight Culture and Brand** - Job seekers want to know what you're all about. Show them what your company stands for.
--   
   
-  
-  
- ![Retailer Bonobos has their application platform posted directly below the job listing and makes share buttons easily accessible!](/images/blog/how-to-make-your-company-career-site-your-most-effective-recruiting-tool/bonobos2-197x300.png)  
-  
-  
-  
+{{% image_aligned src="/images/blog/how-to-make-your-company-career-site-your-most-effective-recruiting-tool/bonobos2-197x300.png" align="right" width="256px" %}}  
+
 **Success Stories** – Tell new job seekers about what they can do when they work for you. Use real and true employee stories that highlight rapid promotions, award winning work, or employee testimonials.
+
 - **Searchable** – Enable job seekers to easily search jobs.
 - **SEO** - Include keywords that job seekers are going to search for to make your jobs easy to find.
 - **Stay Up-To-Date** - Update job postings regularly. Keep information timely and accurate.

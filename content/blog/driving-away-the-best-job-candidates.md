@@ -19,7 +19,7 @@ description:
 ---
 Quality job candidates are hard to find and even harder to hire. Why is this? Could it be that your company’s hiring and recruiting processes are driving away the best job candidates?  
   
- ![shutterstock_127223492](/images/blog/driving-away-the-best-job-candidates/shutterstock_127223492-287x300.jpg)During the hiring process, it's your job to make a good first impression. Do your absolute best to convince every job candidate that your company is the best option. Sell the job and the company at every step of the hiring process. One bad impression during this delicate time and you could scare the perfect job candidate away – and that’s unacceptable.
+ {{% image_aligned src="/images/blog/driving-away-the-best-job-candidates/shutterstock_127223492-287x300.jpg" align="right" width="256px" %}}During the hiring process, it's your job to make a good first impression. Do your absolute best to convince every job candidate that your company is the best option. Sell the job and the company at every step of the hiring process. One bad impression during this delicate time and you could scare the perfect job candidate away – and that’s unacceptable.
 
 #### 
 
@@ -43,7 +43,7 @@ Quality job candidates are hard to find and even harder to hire. Why is this? Co
 8. **Too Focused On The Perfect Employee** - When HR only wants to hire the perfect employee, they unintentionally alienate other job seekers. Be open and responsive to anyone who is qualified for the job.
 
 9. **Uncompetitive Job Offer** – Offer a competitive employment package. If you don’t, the best candidates will happily go and work for your competitor.
- ![shutterstock_121928176](/images/blog/driving-away-the-best-job-candidates/shutterstock_121928176-263x300.jpg)Want to improve your hiring and recruiting processes? Take a step back and look at the bigger picture. Put yourself in the job seeker’s shoes. Go through the hiring process from their point of view. You may notice that your company's current hiring techniques and recruitment strategies are actually driving away the best job candidates.  
+ {{% image_aligned src="/images/blog/driving-away-the-best-job-candidates/shutterstock_121928176-263x300.jpg" align="left" width="256px" %}}Want to improve your hiring and recruiting processes? Take a step back and look at the bigger picture. Put yourself in the job seeker’s shoes. Go through the hiring process from their point of view. You may notice that your company's current hiring techniques and recruitment strategies are actually driving away the best job candidates.  
   
 Luckily, the hiring process is completely in your hands. A few simple tweaks to the way that you hire can ultimately get the results you’ve been hoping for.  
   

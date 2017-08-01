@@ -6,7 +6,6 @@ tags:
 
 categories:
   - "uncategorized"
-banner: "can-you-count-on-your-employees-staying-on-board/banner.png"
 slug: can-you-count-on-your-employees-staying-on-board
 description: 42% of your very satisfied workers are seriously considering leaving their jobs!
 ---
@@ -14,7 +13,7 @@ It’s well known that employees don’t stay with one company for decades like 
   
 **Mercer Publishes a Wake-Up Call**  
   
-[![Screen Shot 2016-01-12 at 3.44.01 PM](/images/blog/can-you-count-on-your-employees-staying-on-board/Screen-Shot-2016-01-12-at-3.44.01-PM-211x300.png)](http://www.mercer.us/content/dam/mercer/attachments/global/inside-employees-minds/inside-employees-minds-engagement-paradox-infographic-united-states.pdf)Global employment consulting company, [Mercer](http://www.mercer.us/), recently published the results of [Mercer’s 2015 Inside Employees’ Minds](http://www.mercer.us/insights/focus/inside-employees-minds-the-transforming-employment-experience/infographic.html)Survey that found 42% of US Workers who are very satisfied with their jobs are “seriously considering” leaving. That’s quite eye-opening for HR specialists, and emphasizes the need to know your workforce, and to be prepared for change.  
+[{{% image_aligned src="/images/blog/can-you-count-on-your-employees-staying-on-board/Screen-Shot-2016-01-12-at-3.44.01-PM-211x300.png" align="right" width="300px" %}}](http://www.mercer.us/content/dam/mercer/attachments/global/inside-employees-minds/inside-employees-minds-engagement-paradox-infographic-united-states.pdf)Global employment consulting company, [Mercer](http://www.mercer.us/), recently published the results of [Mercer’s 2015 Inside Employees’ Minds](http://www.mercer.us/insights/focus/inside-employees-minds-the-transforming-employment-experience/infographic.html)Survey that found 42% of US Workers who are very satisfied with their jobs are “seriously considering” leaving. That’s quite eye-opening for HR specialists, and emphasizes the need to know your workforce, and to be prepared for change.  
   
 It’s also interesting that over 60% of those who said they “feel a strong sense of commitment to my organization” and “would recommend my organization to others as a good place to work” said _they are considering leaving._ If you’re interested in seeing more statistics from the report, the results are summarized in an infographic by [clicking here](http://www.mercer.us/insights/focus/inside-employees-minds-the-transforming-employment-experience/infographic.html).  
   

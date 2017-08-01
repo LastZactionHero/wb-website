@@ -24,7 +24,7 @@ Recruitment is a fairly aggressive industry, and the latest move to keep up with
   
 Recuitainment is a blend of recruitment and entertainment, which is also the fundamental concept that it is based on. Applying for jobs can be very dull business, but for some it is extraordinarily creative, to the point where human resources staff waste far too much time assessing the real meaning behind overblown claims on resumes.  
   
- ![shutterstock_252909271](/images/blog/hr-vocabulary-recuitainment/shutterstock_252909271-300x200.jpg)Gamification (introducing the elements of games, such as badges, points, and prizes) into business plays a huge part in recuitainment. Quizzes and online competitions are used to get potential talent to show their stuff. Social media is also coming into play.  
+ {{% image_aligned src="/images/blog/hr-vocabulary-recuitainment/shutterstock_252909271-300x200.jpg" align="right" width="256px" %}}Gamification (introducing the elements of games, such as badges, points, and prizes) into business plays a huge part in recuitainment. Quizzes and online competitions are used to get potential talent to show their stuff. Social media is also coming into play.  
   
 **Why it matters**   
   
@@ -32,7 +32,7 @@ Especially in the tech sector, the skills needed change all the time, and findin
   
 One example in the tech field is to sponsor a “codefest,” or a “hackathon,” which is an event where a group of coders work collaboratively on a short project. Millennials expect to be entertained, and meeting that expectation is the best way to attract them.  
   
- ![shutterstock_381164716](/images/blog/hr-vocabulary-recuitainment/shutterstock_381164716-300x200.jpg)Gamification in recruitment doesn't just stop on getting them in the door, it can also be part of the interview process. Consider having a group interview of your final candidates and have them all work on a group project - for example, build a structure with these materials that is at least 2 feet tall and can hold a glass of water. Through this process you will see who emerges as a leader and how individuals go about solving a problem.  
+ {{% image_aligned src="/images/blog/hr-vocabulary-recuitainment/shutterstock_381164716-300x200.jpg" align="left" width="256px" %}}Gamification in recruitment doesn't just stop on getting them in the door, it can also be part of the interview process. Consider having a group interview of your final candidates and have them all work on a group project - for example, build a structure with these materials that is at least 2 feet tall and can hold a glass of water. Through this process you will see who emerges as a leader and how individuals go about solving a problem.  
   
 **For WorkBright Users**  
   

@@ -100,7 +100,7 @@ Hiring is a major endeavor with the traditional cost of simply onboarding a new 
   
 **Definition:** “Inboarding” is the term that’s being used for the steps that can be taken to retain good employees. It doesn’t involve anything complicated, and most of the things we recommend fall under “good management,” if not plain old common sense.  
   
-[![career ladder](/images/blog/introducing-robust-reporting-september-2015/career-ladder.jpg)](/images/blog/introducing-robust-reporting-september-2015/career-ladder.jpg) **Why it matters:** The process of recruiting talent is a significant expense for businesses. Every time someone leaves, that expense is incurred all over again. Not to mention you’ve lost part of your team, which affects productivity.  
+[{{% image_aligned src="/images/blog/introducing-robust-reporting-september-2015/career-ladder.jpg" align="right" width="256px" %}}](/images/blog/introducing-robust-reporting-september-2015/career-ladder.jpg) **Why it matters:** The process of recruiting talent is a significant expense for businesses. Every time someone leaves, that expense is incurred all over again. Not to mention you’ve lost part of your team, which affects productivity.  
   
 But why should anyone stay with you when they can get a nice raise by changing companies? Inboarding makes it feasible for talented individuals to stay on, rather than looking elsewhere to get what they want from their jobs. Having a documented inboarding plan for good employees can save your organization thousands over the next few years and makes employees feel more engaged and committed to your organization.  
   

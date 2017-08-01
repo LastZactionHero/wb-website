@@ -17,7 +17,7 @@ Hiring is a major endeavor with the average cost of simply onboarding a new empl
   
 Inboarding **:** A process through which current employees are trained and groomed for growth opportunities within an organization. It is also the term that’s being used for the steps that can be taken to retain good employees. It doesn’t involve anything complicated, and most of the things we recommend fall under “good management,” if not plain old common sense.  
   
-**[![Inboarding](/images/blog/hr-vocabulary-inboarding/career-ladder.jpg)](/images/blog/hr-vocabulary-inboarding/career-ladder.jpg)Why it matters**  
+**[{{% image_aligned src="/images/blog/hr-vocabulary-inboarding/career-ladder.jpg" align="right" width="256px" %}}](/images/blog/hr-vocabulary-inboarding/career-ladder.jpg)Why it matters**  
   
 The process of recruiting talent is a significant expense for businesses. Every time someone leaves, that expense is incurred all over again. Not to mention you’ve lost part of your team, which affects productivity.  
   

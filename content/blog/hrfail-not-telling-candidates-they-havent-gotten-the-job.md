@@ -23,7 +23,7 @@ Maybe HR staff thought that they were protecting the company or more likely they
   
   
   
- ![#HRFail](/images/blog/hrfail-not-telling-candidates-they-havent-gotten-the-job/4463478302_c7b380e78c-300x201.jpg)  
+ {{% image_aligned src="/images/blog/hrfail-not-telling-candidates-they-havent-gotten-the-job/4463478302_c7b380e78c-300x201.jpg" align="right" width="256px" %}}  
   
   
   
@@ -40,7 +40,7 @@ For the rest of the applicants, employing an ATS system that automatically shoot
 - Include a _brief_ explanation of why they were not selected. One sentence will do. Be open to discussion and ask if they have any questions.
 - Be honest in your responses.
 - You’re busy, and may have a lot of these to do, so it’s totally fine to keep the conversation brief. Answer questions and wish them well in their search, but don’t feel like it’s your job to chat until they feel better about it. Friends and family can take care of that!
- ![interview-in-progress](/images/blog/hrfail-not-telling-candidates-they-havent-gotten-the-job/interview-in-progress-300x200.jpg)Considering that some of your candidates may have heard about your position though a current employee, your communication with all candidates could have positive (or negative) impact on your company culture as well! It’s more challenging, but making a more transparent and open approach to hiring—and not hiring—results in better relationships with candidates, and may attract them back in the future.  
+ {{% image_aligned src="/images/blog/hrfail-not-telling-candidates-they-havent-gotten-the-job/interview-in-progress-300x200.jpg" align="left" width="256px" %}}Considering that some of your candidates may have heard about your position though a current employee, your communication with all candidates could have positive (or negative) impact on your company culture as well! It’s more challenging, but making a more transparent and open approach to hiring—and not hiring—results in better relationships with candidates, and may attract them back in the future.  
   
 **For WorkBright Users**   
   

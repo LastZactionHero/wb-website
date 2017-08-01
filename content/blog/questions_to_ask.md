@@ -17,7 +17,7 @@ description: The job interview is your first face-to-face interaction with a job
 ---
 After carefully scrutinizing countless resumes, you've finally selected the job candidates that truly interest you. These individuals could be the next addition to your company's team, but they have to make it through the job interview process first.  
   
- ![shutterstock_347126126](/images/blog/questions_to_ask/shutterstock_347126126-200x300.jpg)The job interview is your first face-to-face interaction with a job candidate. Whether you conduct your job interview via video or in person, it's important to ask the right job interview questions. The questions you ask will help you make the best hiring decision for your company.  
+ {{% image_aligned src="/images/blog/questions_to_ask/shutterstock_347126126-200x300.jpg" align="right" width="256px" %}}The job interview is your first face-to-face interaction with a job candidate. Whether you conduct your job interview via video or in person, it's important to ask the right job interview questions. The questions you ask will help you make the best hiring decision for your company.  
   
 Job interview questions are designed to help you learn as much about the candidate as possible. The responses you hear will tell you how they work as a team, what they want in a manager, how they handle conflicts, what they see as their career path, how they think, what they've accomplished, how they view themselves, and more. This is vital info for any job interviewer to know.  
   

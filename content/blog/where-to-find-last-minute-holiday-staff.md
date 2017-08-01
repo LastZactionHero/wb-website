@@ -15,25 +15,25 @@ _By: Melissa M., WorkBright_
   
 The good news is, lots of hardworking folks are looking to pick up a few extra shifts to pay for their own holiday celebrations, you just need to know where to find them! So if you're scrambling to find last minute staff for the holiday or winter season, here's a list of 5 of our favorite job sites you may not have tried before. Check them out and get ready for the applicants to roll in!  
   
- **[![S-Logo-Only-Orange](/images/blog/where-to-find-last-minute-holiday-staff/S-Logo-Only-Orange-150x150.jpg)](https://workbright.com/wp-content/uploads/2015/12/S-Logo-Only-Orange.jpg) [Snagajob.com](http://www.snagajob.com/)**  
+ **[{{% image_aligned src="/images/blog/where-to-find-last-minute-holiday-staff/S-Logo-Only-Orange-150x150.jpg" align="right" width="128px" %}}](https://workbright.com/wp-content/uploads/2015/12/S-Logo-Only-Orange.jpg) [Snagajob.com](http://www.snagajob.com/)**  
   
 Snagajob has a seasonal job section that Google can link to directly. Applicants who allow their location to be accessed when searching (or have cookies on their computers with their location from previous searches) will be shown seasonal jobs in their area.  
   
-**[![indeed](/images/blog/where-to-find-last-minute-holiday-staff/indeed-150x150.jpg)](https://workbright.com/wp-content/uploads/2015/12/indeed.jpg)[Indeed.com](http://www.indeed.com/)**  
+**[{{% image_aligned src="/images/blog/where-to-find-last-minute-holiday-staff/indeed-150x150.jpg" align="left" width="128px" %}}](https://workbright.com/wp-content/uploads/2015/12/indeed.jpg)[Indeed.com](http://www.indeed.com/)**  
   
 Indeed is one of the massive information sites online and you can get started with them for FREE! Seasonal job listings include major retailers such as Target and Alamo National car rentals.  
   
-**[![gI_JobMonkeyLogo.gif](/images/blog/where-to-find-last-minute-holiday-staff/gI_JobMonkeyLogo.gif-150x150.jpg)](https://workbright.com/wp-content/uploads/2015/12/gI_JobMonkeyLogo.gif.jpg)[Jobmonkey.com](http://www.jobmonkey.com/)**  
+**[{{% image_aligned src="/images/blog/where-to-find-last-minute-holiday-staff/gI_JobMonkeyLogo.gif-150x150.jpg" align="right" width="128px" %}}](https://workbright.com/wp-content/uploads/2015/12/gI_JobMonkeyLogo.gif.jpg)[Jobmonkey.com](http://www.jobmonkey.com/)**  
   
 “The coolest jobs on earth” is the tagline for this job site, and their postings include a wide range of job types from the Alaska fishing industry to nursing or transportation categories. The site presents openings by industry, like “ski resort jobs” and by special characteristics, such as “cool jobs,” so it would be a great place to list your seasonal work if you are in a less traditional business.  
   
-**[![linkedin](/images/blog/where-to-find-last-minute-holiday-staff/linkedin-150x150.png)](https://workbright.com/wp-content/uploads/2015/12/linkedin.png)[LinkedIn](https://www.linkedin.com/)**  
+**[{{% image_aligned src="/images/blog/where-to-find-last-minute-holiday-staff/linkedin-150x150.png" align="left" width="128px" %}}](https://workbright.com/wp-content/uploads/2015/12/linkedin.png)[LinkedIn](https://www.linkedin.com/)**  
   
 LinkedIn is a social network designed to help professionals connect with each other, and the seasonal job postings here aren’t typically the massive numbers of retail positions that inevitably accompany the holiday sales season. However, if you need writers or designers for seasonal products, or other professionals to support a seasonal increase in your work load, this is a great place to look.  
   
 The site that works best for your hiring needs will depend on the kind of hiring you need to do, and the level of employee you need, but this list should get you off to a good start and will hopefully get your creative ideas flowing. The internet offers many ways to access any population that you need to reach!  
   
- **[![coolworks](/images/blog/where-to-find-last-minute-holiday-staff/coolworks-150x150.jpeg)](https://workbright.com/wp-content/uploads/2015/12/coolworks.jpeg) [Coolworks.com](http://www.coolworks.com/)**  
+ **[{{% image_aligned src="/images/blog/where-to-find-last-minute-holiday-staff/coolworks-150x150.jpeg" align="right" width="128px" %}}](https://workbright.com/wp-content/uploads/2015/12/coolworks.jpeg) [Coolworks.com](http://www.coolworks.com/)**  
   
 Coolworks, as the name implies, promotes fun and unusual jobs. If you are looking for seasonal staff for a ski resort or wilderness experience, this is a great place to list. Listings give you a full page to show off pictures of the job location and tell prospects what makes your job the one for them.  
   

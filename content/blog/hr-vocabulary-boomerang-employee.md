@@ -32,7 +32,7 @@ With that much moving around going on, HR professionals will always have personn
   
 **How to Treat Them**  
   
-[![shutterstock_94198198](/images/blog/hr-vocabulary-boomerang-employee/shutterstock_94198198-300x200.jpg)](https://workbright.com/wp-content/uploads/2016/03/shutterstock_94198198.jpg)Treating returning employees like they have been on a long leave makes sense in some ways, but if the time away is very long, they may need to go through the whole orientation and onboarding process again. They should expect to have to get caught up and the organization should support that. It can be presented as your way of making sure they are current on all the latest information, and have some time to reacclimate.  
+[{{% image_aligned src="/images/blog/hr-vocabulary-boomerang-employee/shutterstock_94198198-300x200.jpg" align="right" width="256px" %}}](https://workbright.com/wp-content/uploads/2016/03/shutterstock_94198198.jpg)Treating returning employees like they have been on a long leave makes sense in some ways, but if the time away is very long, they may need to go through the whole orientation and onboarding process again. They should expect to have to get caught up and the organization should support that. It can be presented as your way of making sure they are current on all the latest information, and have some time to reacclimate.  
   
 It's important to note that there may be some awkward differences, such as a former subordinate now being their supervisor, so care should be taken to make sure everyone’s job description is clear, and management should let the current supervisor know that there are no plans to displace them.  
   

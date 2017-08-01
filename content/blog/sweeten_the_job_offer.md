@@ -26,14 +26,14 @@ If you want to recruit top talent, you need to offer perks and benefits. There�
 #### Below is a list of perks and benefits that every job seeker wants:
 
 - **Health Benefits** – Everyone needs health insurance. Can your company subsidize the costs of healthcare for your entire team?
-- **![shutterstock_222496936](/images/blog/sweeten_the_job_offer/shutterstock_222496936-300x199.jpg)Paid Time Off** - Do you offer vacation, sick days, and PTO? When employees can take a break, they'll come back refreshed, relaxed, and refocused.
+- **{{% image_aligned src="/images/blog/sweeten_the_job_offer/shutterstock_222496936-300x199.jpg" align="right" width="256px" %}}Paid Time Off** - Do you offer vacation, sick days, and PTO? When employees can take a break, they'll come back refreshed, relaxed, and refocused.
 - **Retirement Plans** - Planning for the future can be a challenge. A healthy 401K program is a big bonus.
 - **Professional Development** - Offer training and support to help your employees be the best that they can be.
 - **Flexible and/or Remote Work Opportunities** – Giving your employees the freedom to work flexible hours or telecommute will save money and boost productivity. Plus, it will increase employee satisfaction.
 - **Employee Housing** - Finding housing is always a struggle - especially for seasonal workers. Access to affordable housing is a huge benefit that every job seeker needs.
 - **Tuition Reimbursement** – Help to pay back student loans and your employees will stick around - especially job hoppers and millennials.
 - **Deals And Discounts** – It’s hard to turn down deals and discounts on gear and services. Help your employees get the things they need at professional rates.
-- **![shutterstock_514373203](/images/blog/sweeten_the_job_offer/shutterstock_514373203-300x195.jpg)Pet Friendly Offices** – No one wants to leave their pet locked up all day. Can you make your office pet friendly?
+- **{{% image_aligned src="/images/blog/sweeten_the_job_offer/shutterstock_514373203-300x195.jpg" align="left" width="256px" %}}Pet Friendly Offices** – No one wants to leave their pet locked up all day. Can you make your office pet friendly?
 - **Niche Specific Perks** – Can your business provide ski passes, park passes, outerwear, paid travel, etc.? Workers always appreciated unique, industry specific perks.
 When it comes to perks and benefits, the sky's the limit. Some companies literally go over-the-top by offering pet sitting, free food, concierge services, childcare, unlimited vacation, wellness centers, growth opportunities, game centers, casual dress codes, stock options, and the list goes on. Anything that makes your company more appealing will also attract top talent. You can get creative with your perks as well! For example, do you only give bank holidays as time off to your employees? Consider giving employees a "roaming holiday" that they can use on any other "holiday" like their birthday, anniversary, or non-given holiday like Columbus day.  
   

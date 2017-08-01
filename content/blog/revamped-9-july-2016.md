@@ -136,7 +136,7 @@ Feel free to join us anyway! We'd love for you to see how we're leading the way 
 
 ## Join Us in our Brand New WorkBright Partner Program!
 
-![Partner with these guys!](/images/blog/revamped-9-july-2016/lt_boulder_workbright.jpg)
+{{% image_aligned src="/images/blog/revamped-9-july-2016/lt_boulder_workbright.jpg" align="right" width="256px" %}}
 
 We are so thankful to our current clients and friends of the business who have helped us grow to where we are today. Even better than a thank you, we are now able to SHARE our success with YOU through our new WorkBright Partner Program!  
   
