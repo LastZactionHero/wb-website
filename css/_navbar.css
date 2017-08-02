@@ -59,6 +59,11 @@
     & .nav-item:nth-child(5) {
       margin-left: 40px;
       margin-right: 10px;
+      
+      @media (--viewport-md) {
+        margin-left: -16px;
+        margin-right: -16px;
+      }
     }
 
     & .nav-item {
@@ -108,11 +113,20 @@
           background-color: var(--color-concrete);
           padding: 20px;
           border-radius: 0px;
+          margin-top: 13px;
+          box-shadow: none;
+          font-weight: bold;
         }
       }
       
       & .btn-primary.nav-link {
-        background: var(--color-orange-peel);
+        background-color: var(--color-orange-peel);
+        
+        @media (--viewport-md) {
+          background-color: var(--color-concrete);
+          box-shadow: none;
+          font-weight: bold;
+        }
       }
 
       & .btn-secondary.nav-link {
@@ -120,7 +134,6 @@
       }
 
       & .btn-secondary.nav-link:hover {
-        background-color: var(--color-white);
         color: var(--color-flamingo);
       }
     }
