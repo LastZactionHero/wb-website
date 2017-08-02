@@ -2,7 +2,7 @@
 date: 2017-06-20T11:50:27-06:00
 menu:
   customers:
-    name: "Hotel, Restaurant, Tourism Management (HRTM)"
+    name: "Hospitality & Tourism (HRTM)"
     pre: "icon-hrtm"
     weight: 9
 title: "See Why the HRTM Industry Uses WorkBright"
@@ -18,7 +18,7 @@ info_tabs:
     body: Don’t hire a lot but need to ease the burden of employee churn and/or ready to go digital? WorkBright can help!
     bullets:
       - Pay individually as you onboard
-      - Customized form distribution by role 
+      - Customized form distribution by role
       - Completely digital interface
   - title: Over 50 Hires Per Year
     tab_id: over_50
@@ -33,7 +33,7 @@ info_tabs:
     bullets:
       - Hire large number of employees in groups
       - Rehire from previous seasons/contracts
-      - Countersign I-9s & make edits in bulk 
+      - Countersign I-9s & make edits in bulk
 ---
 {{< customer_benefit title="Automate the Distribution of New Hire Paperwork Digitally" image="placeholder.jpg">}}
   xxxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx xxxx
