@@ -50,7 +50,7 @@ title: "Tour"
     <div class='tour-step-body'>
       <h3>Photo Upload</h3>
       <p>
-        WorkBright allows your employees to use their smartphone camera to take a photo of licenses, certificates, and/or paper documents and directly upload them to their employee file. This functionality eliminates the need for photo copies, ensures employees have the correct and up to date certifications, and completes the mobile experience. 
+        WorkBright allows your employees to use their smartphone camera to take a photo of licenses, certificates, and/or paper documents and directly upload them to their employee file. This functionality eliminates the need for photo copies, ensures employees have the correct and up to date certifications, and completes the mobile experience.
       </p>
     </div>
     <div class='tour-step-video-wrapper'>
@@ -119,7 +119,9 @@ title: "Tour"
 <div class='desktop-video-body'>
   <h3>Easy Import/Export</h3>
   <p>
-    We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export information via csv or excel files. If you want something more seamless, you can leverage our API and your technical team to integrate directly to other software platforms.
+    We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export
+    information via CSV or Excel files. If you want something more seamless, you can leverage our API and your
+    technical team to integrate directly to other software platforms. <a href="/api">Learn more about our API here.</a>
   </p>
 </div>
 <div class="desktop-video-background">
@@ -143,7 +145,10 @@ title: "Tour"
 <div class='desktop-video-body'>
   <h3>Applicant Tracking Integration</h3>
   <p>
-    Use WorkBright’s ATS (link) to find candidates with ease using a custom online application and free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate with candidates, visit our WorkBright ATS page (link). 
+    Use <a href="/ats/">WorkBright’s ATS</a> to find candidates with ease using a custom online application and
+    free job posting to over 500 boards. Once you’ve found your perfect hires, you can quickly begin the onboarding
+    process with just a few clicks! To learn more about how WorkBright ATS can help you find, screen, and communicate
+    with candidates, visit our <a href="/ats/">WorkBright’s ATS page</a>.
   </p>
 </div>
 <div class="desktop-video-background">
