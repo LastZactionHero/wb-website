@@ -24,6 +24,8 @@ Avid4Adventure is one of WorkBright’s founding clients who helped us build the
 
 {{< demo_cta size="large" message="Ready to try WorkBright?" >}}
 
+<a id="quotes"></a>
+
 ## What our customers are saying
 
 <div class='testimonial-stack'>

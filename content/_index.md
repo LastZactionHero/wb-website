@@ -52,7 +52,7 @@ testimonial_carousel:
 {{% logos_card %}}
 {{% testimonial_carousel %}}
 
-{{< info_button link="/case-studies" >}}
+{{< info_button link="/case-studies#quotes" >}}
   See what our customers say
 {{< /info_button >}}
 

@@ -5,8 +5,7 @@ title: "Privacy Policy for WorkBright Public Website"
 menu:
   footer:
     name: "Privacy Policy"
-    parent: "About"
-    weight: 1
+    parent: "Resources"
 ---
 
 Thank you for visiting www.WorkBright.com (the **“Website”**) which is operated by WorkBright.com. (**“WorkBright”**, **“we”**, or **“us”**). Protecting individual privacy is important to us. This Privacy Policy is intended to notify you or, in the case that you represent a company or other entity, that company or other entity (**“you”**), of the type of information that we may collect from users of this Website and to generally summarize how we use and protect that information. Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. BY USING THE WEBSITE YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE.
