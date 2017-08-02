@@ -36,22 +36,17 @@ testimonial_carousel:
   </div>
 </div>
 
-<div class='row home-select-box-cta'>
-  <div class='col-md-10 offset-md-1' style="">
-  <h2>Want to learn more?</h2>
-  <div class="dropdown dropdown-nav">
-    <a class="btn btn-secondary btn-lg dropdown-toggle" href="#" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-      Select what you're looking for...
-    </a>
-
-    <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-      <a class="dropdown-item" href="/tour">Onboarding</a>
-      <a class="dropdown-item" href="/ats">Online Applications (ATS)</a>
-      <a class="dropdown-item" href="/tour">ATS + Onboarding</a>
-      <a class="dropdown-item" href="/request-a-demo">Not Sure</a>
-      <a class="dropdown-item" href="https://app.workbright.com">I’m a new employee looking to onboard</a>
-    </div>
-  </div>
+<div class="col-md-8 col-sm-10 offset-md-2 offset-sm-1">
+  <div class="action-list-wrapper">
+    <h4> What are you looking for?</h4>
+    <br/>
+    <ul class="action-list">
+      <li><a href="/tour">Onboarding</a></li>
+      <li><a href="/ats">Online Application (ATS)</a></li>
+      <li><a href="/tour">ATS + Onboarding</a></li>
+      <li><a href="/request-a-demo">Not Sure</a></li>
+      <li><a href="https://app.workbright.com">I'm a New Employee looking to onboard</a></li>
+    </ul>
   </div>
 </div>
 
