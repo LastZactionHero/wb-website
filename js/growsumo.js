@@ -25,9 +25,7 @@ if (partnerKey){
 // use window.postMessage() for passing cross domain localStorage partnerKey
 window.addEventListener('message', function(event) {
     // IMPORTANT: Check the origin of the data!
-    console.log(event.origin)
-    // REVIEW: should this be http://www2.workbright.com?
-    if (~event.origin.indexOf('https://go.pardot.com')) {
+    if (~event.origin.indexOf('http://www2.workbright.com')) {
         // If the message contains the form data, we are ready to post to growSumo!!
         if (event.data && event.data.hasOwnProperty('firstName')) {
 
