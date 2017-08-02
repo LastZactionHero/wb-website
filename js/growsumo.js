@@ -40,12 +40,14 @@ window.addEventListener('message', function(event) {
             // random customer key
             growsumo.data.key = 'cus_'+Math.random().toString(36).substring(7);
             
-            growsumo.data.partnerKey = localStorage.getItem('growSumo_pk'); 
-            // event.data.partnerKey;
+            partnerKey = document.cookie.split('growSumoPartnerKey=')[1]
             
-            growsumo.data.currency = 'USD';
-            
-            growsumo.createSignup();
+            // Verify we have a cookie to read
+            if (partnerKey !== undefined) {
+              growsumo.data.partnerKey = partnerKey.split(';')[0]            
+              growsumo.data.currency = 'USD';
+              growsumo.createSignup();
+            }
         }
 
     } else {
