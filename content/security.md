@@ -7,6 +7,7 @@ menu:
     parent: "Solutions"
     weight: 5
 title: "Security & Privacy"
+description: WorkBright's onboarding solution protects customers' data with advanced security and privacy controls.
 ---
 
 ## Best-in-class security infrastructure and privacy controls.

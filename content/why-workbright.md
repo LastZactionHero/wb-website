@@ -9,6 +9,7 @@ menu:
     parent: "Solutions"
     weight: 1
 title: "Why WorkBright"
+description: Human Resource (HR) onboarding solution by WorkBright brings efficiency to your company through a paperless, digital employee onboarding system.
 ---
 
 # Let’s Get Real…<br>Traditional Onboarding Paperwork Sucks!

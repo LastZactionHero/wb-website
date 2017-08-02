@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Employee Onboarding, Digital Onboarding, Paperless HR
 menu:
 testimonial_carousel:
   testimonials:

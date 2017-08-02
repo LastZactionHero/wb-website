@@ -6,6 +6,7 @@ menu:
     name: "Pricing"
     weight: 3
 title: "Pricing"
+description: Obtain an estimated price for WorkBright's new hire onboarding solutions for your organization. We'll help make your onboarding easy!
 ---
 
 ## Your hiring is about to get much easier.

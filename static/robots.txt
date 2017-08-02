@@ -1,0 +1,4 @@
+Sitemap: https://workbright.com/sitemap.xml
+
+User-agent: *
+Disallow: /admin

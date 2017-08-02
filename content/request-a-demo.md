@@ -3,6 +3,7 @@ date: 2017-06-20T11:49:34-06:00
 type: "titled"
 title: "Digital New Hire Onboarding"
 subtitle: "Simplify and automate the onboarding process"
+description: Request a demo of onboarding software solutions by WorkBright to experience an easier and more convenient HR experience!
 ---
 
 <div class='paper'>

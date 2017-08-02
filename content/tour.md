@@ -10,6 +10,7 @@ menu:
     weight: 2
 
 title: "Tour"
+description: Eliminate new hire paperwork costs and automate your workflow with onboarding software solutions by WorkBright.
 ---
 
 # Hire Faster
