@@ -16,3 +16,9 @@
 ## Icon Font
 
 See README in `/icon_font` for details and update instructions.
+
+## Environmental Variables
+
+```
+PROD_ENV - Set for production, minified JS and CSS
+```
