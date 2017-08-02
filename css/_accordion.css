@@ -67,6 +67,12 @@
           margin-bottom: 48px;
         }
       }
+      
+      & .full-width-img {  
+        width: 100%;
+        box-shadow: var(--raised-box-shadow);
+        border: 2px solid var(--color-white);
+      }
     }
   }
 }
