@@ -55,7 +55,7 @@ description: Human Resource (HR) onboarding solution by WorkBright brings effici
     Today’s workforce is changing and you may not look like the traditional employer of past decades. Our flexible solution works for full time, part time, seasonal, temp and on demand employees! Plus, our mobile-first technology enables employees to complete forms from any smart device.
 
     <div class='mt-4'>
-      <img src="/images/handshake2.jpg" class='full-width-img' />
+      <img src="/images/handshake.jpg" class='full-width-img' />
     </div>
 
   {{< /accordion_card >}}
