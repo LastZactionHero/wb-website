@@ -5,6 +5,7 @@ import "jquery.simple-text-rotator";
 import "featherlight";
 import iFrameResize from "../node_modules/iframe-resizer/js/iframeResizer.min.js";
 import Appear from "../node_modules/appear/dist/appear.js";
+import Cookies from "js-cookie";
 
 import Viewports from "./_viewports";
 
@@ -13,6 +14,8 @@ import Accordion from "./components/accordion";
 import Browser from "./util/browser";
 
 iFrameResize({});
+ 
+window.Cookies = Cookies;
 
 // Start videos shortly after they scroll into view. Stop them when they leave.
 window.ap = appear({

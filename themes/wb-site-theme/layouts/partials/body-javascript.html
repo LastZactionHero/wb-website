@@ -9,7 +9,9 @@
   ga('create', 'UA-47550807-1', 'auto');
   ga('send', 'pageview');
 
-  if(document.cookie.indexOf("sessionId")) {
+  var cookieKey = 'signedInUser';
+  if(document.cookie.indexOf("sessionId") != -1 || Cookies.get(cookieKey)) {
     ga('set', 'dimension1', 'yes');
+    Cookies.set(cookieKey, true);
   }
 </script> 
