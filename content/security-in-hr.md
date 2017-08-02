@@ -4,7 +4,7 @@ type: "landing"
 title: "Security In HR"
 subtitle: "How Secure Are Your Files... Really?"
 pardot_form_cta: "Get Your Copy"
-pardot_form_url: "http://www2.workbright.com/l/81162/2015-07-09/z1s1"
+pardot_form_url: "https://go.pardot.com/l/81162/2015-07-09/z1s1"
 ---
 
 

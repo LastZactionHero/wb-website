@@ -8,7 +8,7 @@ menu:
 title: "Free HR Resources"
 subtitle: "Click on a topic below to learn more and download your copy!"
 pardot_form_cta: "Enter Your Information Here To Reserve Your Seat!"
-pardot_form_url: "http://www2.workbright.com/l/81162/2017-07-21/d3q69b"
+pardot_form_url: "https://go.pardot.com/l/81162/2017-07-21/d3q69b"
 ---
 
 <div class='paper'>

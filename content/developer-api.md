@@ -9,7 +9,7 @@ menu:
 title: "Developer API"
 subtitle: "Seamlessly integrate WorkBright with other systems"
 pardot_form_cta: "Want Details?"
-pardot_form_url: "http://www2.workbright.com/l/81162/2015-12-14/rmnsb"
+pardot_form_url: "https://go.pardot.com/l/81162/2015-12-14/rmnsb"
 description: WorkBright's HR onboarding solution is easily integrated into existing ATS, ERP, HRIS or Payroll systems through a developer friendly API.
 ---
 

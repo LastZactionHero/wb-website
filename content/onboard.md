@@ -4,7 +4,7 @@ type: "landing"
 title: "Digital New Hire Onboarding"
 subtitle: "Simplify & automate the onboarding process from start to finish!"
 pardot_form_cta: "Request a Free Demonstration Here!"
-pardot_form_url: "http://www2.workbright.com/l/81162/2016-09-21/3c2x15"
+pardot_form_url: "https://go.pardot.com/l/81162/2016-09-21/3c2x15"
 ---
 
 ### Why Rapidly Hiring Companies Across the Country Choose WorkBright!

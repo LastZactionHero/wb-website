@@ -4,7 +4,7 @@ type: "landing"
 title: "Application to HIRED"
 subtitle: "An End-To-End Demonstration"
 pardot_form_cta: "Enter Your Information Here To Reserve Your Seat!"
-pardot_form_url: "http://www2.workbright.com/l/81162/2016-12-07/4c5l97"
+pardot_form_url: "https://go.pardot.com/l/81162/2016-12-07/4c5l97"
 ---
 
 ## Join us for a live demonstration!

@@ -4,7 +4,7 @@ type: "landing"
 title: "David Secunda"
 subtitle: "CEO, Entrepreneur, HR Industry Leader, Public Speaker"
 pardot_form_cta: "Request a Speaking Engagement"
-pardot_form_url: "http://www2.workbright.com/l/81162/2016-03-30/2bypr1"
+pardot_form_url: "https://go.pardot.com/l/81162/2016-03-30/2bypr1"
 ---
 
 
