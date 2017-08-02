@@ -15,8 +15,8 @@ title: "Why WorkBright"
 
 
 {{< accordion_wrapper >}}
-  {{< accordion_card title="<strong>Speed</strong> collection of employees forms and certifications" id="speed" show="show">}}
-    Automated email reminders increase in intensity as the new hire start date approaches so employees come in on Day 1 with all new hire paperwork already completed! Employees can even use their smart device camera to take a photo of certifications and upload directly to you!
+  {{< accordion_card title="<strong>Speed</strong> up the collection of employees forms and certifications" id="speed" show="show">}}
+    Automated email reminders increase in intensity as the new hire start date approaches so employees come in on Day 1 with all new hire paperwork already completed! Employees can even use their smart device camera to take a photo of certifications and upload directly to you.
     <img src="/images/demos/paperwork-due.png" width=100% />
   {{< /accordion_card >}}
 
@@ -40,7 +40,7 @@ title: "Why WorkBright"
     <img src="/images/demos/inbox.gif" width=100% />
   {{< /accordion_card >}}
 
-  {{< accordion_card title="<strong>Happiness</strong> because you have a partner that knows YOUR workforce" id="happiness">}}
+  {{< accordion_card title="<strong>Be happy</strong> because you have a partner that knows YOUR workforce" id="happiness">}}
     Today’s workforce is changing and you may not look like the traditional employer of past decades. Our flexible solution works for full time, part time, seasonal, temp and on demand employees! Plus, our mobile-first technology enables employees to complete forms from any smart device.
 
     <div class='row mt-4'>
@@ -48,7 +48,7 @@ title: "Why WorkBright"
         <img src="/images/handshake.jpg" width=100% />
       </div>
     </div>
-    
+
   {{< /accordion_card >}}
 
 {{< /accordion_wrapper >}}
@@ -57,9 +57,11 @@ title: "Why WorkBright"
 
 ## How is WorkBright Different?
 
+<!--
 {{< info_button link="#" >}}
   X Download our digital onboarding buyers guide X
 {{< /info_button >}}
+-->
 
 <div class='info-tabs'>
   <div class='row'>
@@ -112,7 +114,10 @@ title: "Why WorkBright"
         <div class="tab-pane" id="quick-implementation" role="tabpanel">
           <h2>Quick Implementation = Quick Results</h2>
           <p>
-            Onboard your first employee through WorkBright in as little as two weeks - and we handle the entire implementation process for you. Our modern and intuitive interface as well as 1 on 1 training make it a breeze to learn the system. Our average customer sees a return on their investment in just 3 months
+
+            Onboard your first employee through WorkBright in as little as two weeks - and we handle the entire
+            implementation process for you. Our modern and intuitive interface and 1-on-1 training make it a breeze
+            to learn the system. Our average customer sees a return on their investment in just 3 months.
           </p>
           <div class='bottom-icon icon-stopwatch'></div>
         </div>
@@ -124,16 +129,20 @@ title: "Why WorkBright"
           <div class='bottom-icon icon-money-in-hand'></div>
         </div>
         <div class="tab-pane" id="we-meet-you-where-you-are" role="tabpanel">
-          <h2>We meet you where you are at</h2>
+          <h2>We meet you where you are</h2>
           <p>
-            Whether you are hiring 50 or 50,000, WorkBright can scale to meet your specific needs while not overcharging you for unnecessary functionality. Our API and data export feature ensures we can fit in with your existing or future infrastructure and our flexible platform easily allows for multiple hiring locations while maintaining centralized oversight.
+            Whether you are hiring 50 or 50,000, WorkBright can scale to meet your specific needs while not
+            overcharging you for unnecessary functionality. Our API and data export features ensure we fit with both
+            your existing and future infrastructure. Plus, our flexible platform allows for multiple hiring
+            locations while maintaining centralized oversight.
           </p>
           <div class='bottom-icon icon-line-graph-up-right'></div>
         </div>
         <div class="tab-pane" id="stress-free-compliance" role="tabpanel">
-          <h2>Stress free compliance or Smart Forms</h2>
+          <h2>Stress free compliance</h2>
           <p>
-            WorkBright is much more than a fillable PDF solution. With features such as data validation and pre-filled fields, Smart forms ensure forms are filled out quickly and completely.
+            WorkBright is much more than a fillable PDF solution. With features such as data validation and
+            pre-filled fields, WorkBright ensures forms are filled out quickly and completely.
           </p>
           <div class='bottom-icon icon-clipboard-check-list'></div>
         </div>
