@@ -44,8 +44,7 @@ testimonial_carousel:
       <li><a href="/tour">Onboarding</a></li>
       <li><a href="/ats">Online Application (ATS)</a></li>
       <li><a href="/tour">ATS + Onboarding</a></li>
-      <li><a href="/request-a-demo">Not Sure</a></li>
-      <li><a href="https://app.workbright.com">I'm a New Employee looking to onboard</a></li>
+      <li><a href="https://app.workbright.com">New Employee looking to onboard</a></li>
     </ul>
   </div>
 </div>
