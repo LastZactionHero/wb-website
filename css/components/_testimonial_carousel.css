@@ -2,21 +2,24 @@
 
 .testimonial-carousel {
   position: relative;
-  margin: 32px 0px 128px 0px;
+  margin: 0px 0px 128px 0px;
   padding: 32px 12px;
-  background: linear-gradient(90deg, transparent, var(--color-pine-green), transparent);
+  background: linear-gradient(180deg, var(--color-blue-oxford), var(--color-pine-green) 40%, var(--color-blue-lagoon));
 
   & .testimonial {
     text-align: center;
-    padding: 32px 0px;
+    padding: 32px 20px 32px 20px;
     & .quote {
-      font-size: 2rem;
+      font-size: 1.6rem;
       margin-bottom: 2rem;
       color: var(--color-white);
-
       
       & strong {
-        font-style: italic;
+        border-bottom: 2px solid var(--color-white);
+      }
+      
+      @media(--viewport-sm) {
+        font-size: 1.2rem;
       }
     }
 
@@ -24,11 +27,10 @@
       color: var(--color-concrete);
       font-size: 1rem;
       text-transform: uppercase;
+      letter-spacing: .1rem;
     }
   }
   
-  @media(--viewport-sm) {
-    background: none;
-  }
+
 }
 
