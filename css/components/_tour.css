@@ -18,9 +18,8 @@ ul.tour {
       height: 580px;
       max-height: 636px;
       width: 95%;
-      z-index: 0;
       margin-top: 17px;
-
+      z-index: -1;
       @media (--viewport-md) {
         width: 100%;
         left: 0;
@@ -184,6 +183,15 @@ ul.tour {
   margin-bottom: 40px;
   padding: 10px 0px 0px 35px;
   width: 90%;
+  
+  & a {
+    border-bottom: 1px solid var(--color-white);
+  }
+  
+  & a:hover {
+    text-decoration: none;
+    opacity: 0.7;
+  }
 }
 
 .desktop-video-wrapper {

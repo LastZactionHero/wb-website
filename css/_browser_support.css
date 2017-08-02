@@ -9,6 +9,7 @@
     margin-top: -530px; 
     background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
     transform: skewY(var(--standard-stripe-angle));
+    z-index: -2;
   }
 }
 
@@ -22,6 +23,7 @@
     margin-top: -480px; 
     background: linear-gradient(var(--background-gradient-orange-start) 0px, var(--background-gradient-orange-end) 100%);
     transform: skewY(var(--standard-stripe-angle));
+    z-index: -2;
   }
 
   /* Renders the SVG differently, difference is unknown. Just resizing it */

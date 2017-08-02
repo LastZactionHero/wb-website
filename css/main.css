@@ -128,6 +128,7 @@ body {
 .stripe-background :nth-child(1) {
   grid-column: span 10;
   background: var(--background-gradient-orange);
+  z-index: -2;
 }
 
 .stripe-background :nth-child(2) {
