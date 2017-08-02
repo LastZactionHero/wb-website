@@ -82,6 +82,7 @@
 /internal-info-insert         /request-a-demo-thank-you   301
 /thank-you                    /request-a-demo-thank-you   301
 /thank-you-webinar            /request-a-demo-thank-you   301
+/request-a-demo-thank-you-2   /request-a-demo-thank-you   301
 
 # Common pages and aliases
 /contact-us     /contact  301
