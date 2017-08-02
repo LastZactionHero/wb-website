@@ -18,3 +18,7 @@
     opacity: 1.0 
   }
 }
+
+.slick-loading .slick-list{
+    background: none; /* Remove the loading spinner */
+}
