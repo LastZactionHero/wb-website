@@ -53,4 +53,10 @@ testimonial_carousel:
 {{% logos_card %}}
 {{% testimonial_carousel %}}
 
+{{< info_button link="/case-studies" >}}
+  See what our customers say
+{{< /info_button >}}
+
+
+
 {{< demo_cta size="large">}}
