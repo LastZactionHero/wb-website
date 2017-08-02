@@ -107,7 +107,9 @@ title: "Why WorkBright"
         <div class="tab-pane" id="mobile-first" role="tabpanel">
           <h2>Mobile First</h2>
           <p>
-          WorkBright is designed for mobile usage and that’s why over 70% of users interact that way with us. Your employees can quickly fill out forms when they need to and where they need to all before their first day of work. You will see the difference between WorkBright and other “mobile friendly” solutions is stark.
+          WorkBright is designed for mobile usage and that’s why over 70% of users interact that way with us. Your
+          employees can quickly fill out forms when and where they need to before their first day of work.
+          You will see the difference between WorkBright and other “mobile friendly” solutions is stark.
           </p>
           <div class='bottom-icon icon-display-mobile-desktop'></div>
         </div>
