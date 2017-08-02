@@ -7,6 +7,9 @@ import cssnext from "postcss-cssnext";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
+import webpackConfigProduction from "./webpack.conf.production";
+import gulpMinifyCSS from 'gulp-minify-css';
+import gulpNop from 'gulp-nop';
 
 const browserSync = BrowserSync.create();
 const hugoBin = "hugo";
@@ -26,6 +29,7 @@ gulp.task("css", () => (
         cssnext()
       ]
     ))
+    .pipe(process.env.PROD_ENV ? gulpMinifyCSS() : gulpNop())
     .pipe(gulp.dest("./dist/css"))
     .pipe(browserSync.stream())
 ));
