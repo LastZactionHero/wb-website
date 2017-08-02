@@ -8,11 +8,11 @@ pardot_form_url: "http://www2.workbright.com/l/81162/2015-07-09/z1s1"
 ---
 
 
-{{% image_aligned src="/images/landing/security-in-hr-paperback.png" align="left" width="128px" %}}
+{{% image_aligned src="/images/landing/security-in-hr-paperback.png" align="right" width="128px" %}}
 
-## Free eBook: "Security In HR: How Secure Are Your Files… Really?"
+### Free eBook: "Security In HR: How Secure Are Your Files… Really?"
 
-### Enter Your Information To Get Your Copy!
+**Enter Your Information To Get Your Copy!**
 
 As HR professionals, we are GUARDIANS of vast amounts of personal and sensitive data. Yet how many HR professionals have received prior training in Information Security Awareness? Our polls indicate that it’s less than 10%. Unfortunately, this gap comes from historic thought processes that security and data privacy are largely IT issues. As we will illustrate, that is no longer the case. It only takes ONE piece of personally identifying information to steal an identity… and think about how many social security numbers you’ve seen!
 
