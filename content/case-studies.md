@@ -132,7 +132,7 @@ Avid4Adventure is one of WorkBright’s founding clients who helped us build the
   <div class='testimonial'>
     <div class='logo-wrapper'>
       <div class='logo-backdrop'>
-        <div class='logo' style='background-image: url("/images/placeholder.jpg")'></div>
+        <div class='logo' style='background-image: url("/images/customers/hotel-group.png")'></div>
       </div>
     </div>
     <div class='short-quote'>"Very Satisfied"</div>
