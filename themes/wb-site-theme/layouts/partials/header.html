@@ -8,7 +8,7 @@
   <link rel="shortcut icon" href="/favicon.ico">
 
   {{ $env := getenv "ENV" }}
-  <title>ENV: {{ $env }} {{ getenv "ENV" }}</title>
+  <title>ENV: {{ $env }} {{ getenv "HUGO_ENV" }}</title>
   {{ if eq $env "staging" }}
     <link rel="https://workbright.comcss/main.css">
   {{ else }}
