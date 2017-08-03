@@ -100,7 +100,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline src="/videos/error-resolution.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/error-resolution.mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -112,7 +112,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline src="/videos/hr-filing-cabinet.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/hr-filing-cabinet.mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -126,7 +126,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline src="/videos/bulk-import.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/bulk-import.mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -138,7 +138,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline src="/videos/reporting.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/reporting.mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -153,7 +153,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline src="/videos/ats.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/ats.mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
