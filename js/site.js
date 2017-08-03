@@ -25,7 +25,9 @@ window.ap = appear({
   },
   appear: function appear(el){
     setTimeout( () => {
-      el.play();
+      el.play().catch( (exception) => {
+        console.log("Error automatically starting video on scroll. This may be prohibited by the device.");
+      });
     }, 500);
     
   },
@@ -34,6 +36,16 @@ window.ap = appear({
   },
   bounds: 0,
   reappear: true
+});
+
+// Manually play/pause video on click. Some browsers (Android Chrome) do not support play without a user gesture
+$('video').click( function(event) {
+  var video = event.target;
+  if(video.currentTime == 0 || video.paused || video.ended) {
+    video.play();
+  } else {
+    video.pause();
+  }
 });
 
 // Start any Slick Carousels
