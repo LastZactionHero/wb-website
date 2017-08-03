@@ -57,7 +57,7 @@ strong {
 }
 
 p, li {
-  line-height: var(--font-size-p) + 0.2rem;;
+  line-height: var(--font-size-p) + 0.2rem;
   font-weight: lighter;
   font-size:  var(--font-size-p);
 }
