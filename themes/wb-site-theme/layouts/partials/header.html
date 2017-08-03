@@ -2,12 +2,13 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no">
-  <title>{{ replace .Title "-" " " | title }} {{ if eq $isHomePage false }} - {{ .Site.Title }}{{ end }}</title>
+  
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 
   <link rel="shortcut icon" href="/favicon.ico">
 
   {{ $env := getenv "ENV" }}
+  <title>ENV: {{ $env }} {{ getenv "ENV" }}</title>
   {{ if eq $env "staging" }}
     <link rel="https://workbright.comcss/main.css">
   {{ else }}
