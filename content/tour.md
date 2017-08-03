@@ -122,7 +122,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   <p>
     We play nice with your other application and/or payroll systems! WorkBright allows you to easily import and export
     information via CSV or Excel files. If you want something more seamless, you can leverage our API and your
-    technical team to integrate directly to other software platforms. <a href="/api">Learn more about our API here.</a>
+    technical team to integrate directly to other software platforms. <a href="/developer-api">Learn more about our API here.</a>
   </p>
 </div>
 <div class="desktop-video-background">
