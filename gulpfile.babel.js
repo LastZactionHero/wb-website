@@ -13,7 +13,7 @@ import gulpNop from 'gulp-nop';
 
 const browserSync = BrowserSync.create();
 const hugoBin = "hugo";
-const defaultArgs = ["-d", "dist", "-v"];
+const defaultArgs = ["-d", "dist", "-v", "--buildDrafts"];
 
 gulp.task("hugo", (cb) => buildSite(cb));
 gulp.task("hugo-preview", (cb) => buildSite(cb, ["--buildDrafts", "--buildFuture"]));
