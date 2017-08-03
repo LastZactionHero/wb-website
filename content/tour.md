@@ -26,7 +26,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video loop playsinline preload='auto' src="/videos/made-for-mobile.mp4" poster='/images/mobile-poster.png' />
+        <video loop playsinline src="/videos/made-for-mobile.mp4" poster='/images/mobile-poster.png' />
       </div>
     </div>
   </li>
@@ -41,7 +41,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video loop playsinline preload='auto' src="/videos/fingertip-signatures.mp4" poster='/images/mobile-poster.png'/>
+        <video loop playsinline src="/videos/fingertip-signatures.mp4" poster='/images/mobile-poster.png'/>
       </div>
     </div>
   </li>
@@ -56,7 +56,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video loop playsinline preload='auto' src="/videos/photo-upload.mp4" />
+        <video loop playsinline src="/videos/photo-upload.mp4" poster='/images/mobile-poster.png' />
       </div>
     </div>
   </li>
@@ -71,7 +71,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video loop playsinline preload='auto' src="/videos/automated-email-reminders.mp4" poster='/images/mobile-poster.png' />
+        <video loop playsinline src="/videos/automated-email-reminders.mp4" poster='/images/mobile-poster.png' />
       </div>
     </div>
   </li>
@@ -86,7 +86,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
     </div>
     <div class='tour-step-video-wrapper'>
       <div class='video-background'>
-        <video loop playsinline preload='auto' src="/videos/smart-i9.mp4" poster='/images/mobile-poster.png'/>
+        <video loop playsinline src="/videos/smart-i9.mp4" poster='/images/mobile-poster.png'/>
       </div>
     </div>
   </li>
@@ -100,7 +100,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline preload='auto' src="/videos/error-resolution.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/error-resolution.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -112,7 +112,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline preload='auto' src="/videos/hr-filing-cabinet.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/hr-filing-cabinet.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -126,7 +126,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline preload='auto' src="/videos/bulk-import.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/bulk-import.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -138,7 +138,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline preload='auto' src="/videos/reporting.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/reporting.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
@@ -153,7 +153,7 @@ description: Eliminate new hire paperwork costs and automate your workflow with 
   </p>
 </div>
 <div class="desktop-video-background">
-  <video loop playsinline preload='auto' src="/videos/ats.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
+  <video loop playsinline src="/videos/ats.mp4" type="video/mp4" poster='/images/desktop-poster.png'>
   Your browser does not support the video tag.
 </div>
 
