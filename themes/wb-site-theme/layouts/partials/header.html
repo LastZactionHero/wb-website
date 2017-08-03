@@ -6,5 +6,12 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
 
   <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+
+  {{ $env := getenv "ENV" }}
+  {{ if eq $env "staging" }}
+    <link rel="https://workbright.comcss/main.css">
+  {{ else }}
+    <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+  {{ end }}
+  
 </head>
